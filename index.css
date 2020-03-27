@@ -1,0 +1,181 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	background-color: rgb(101,119,96);
+	color: #FFF;
+}
+
+header {
+	padding: 25px 25px 0;
+}
+
+section {
+	display: block;
+	background-color: #333;
+	padding: 25px;
+}
+
+h1, h2, h3, h4 {
+	margin: 0 0 10px 0;
+}
+
+h1, h2 {
+	font-family: 'Ruslan Display', cursive;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+header h1 {
+	font-size: 36px;
+	color: #FFF;
+}
+
+header h1 .fas {
+	vertical-align: middle;
+}
+
+article h1 {
+	display: none;
+}
+
+h2 {
+	font-size: 25px;
+	color: rgb(198,60,0);
+	margin-top: 15px;
+}
+
+h3 {
+	font-size: 18px;
+	color: rgb(159,111,52);
+}
+
+h4 {
+	font-size: 18px;
+}
+
+ul {
+	margin: 8px;
+	padding-left: 24px;
+}
+
+li {
+	margin-bottom: 8px;
+}
+
+ul ul {
+	opacity: 77%;
+}
+
+a {
+	color: rgb(198, 60, 0);
+}
+
+.hide {
+	display: none;
+}
+
+.card {
+	background-color: #333;
+	padding: 25px;
+	display: flex;
+	flex-direction: row;
+	box-shadow: 0 10px 10px 0 #333;
+	margin: 0 25px 25px;
+}
+
+.card-media {
+	margin-right: 25px;
+}
+
+.card-media-icon {
+	font-size: 80px;
+}
+
+.card-text {
+	width: 75%;
+	flex-direction: column;
+}
+
+.card-text > *:first-child {
+	margin-top: 0;
+}
+
+.tabs {
+	display: flex;
+	flex-direction: row;
+	padding: 12px 12px 0;
+}
+
+.tabs a {
+	display: flex;
+	width: 40%;
+	padding: 12px 25px;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.4);
+	margin-right: 8px;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.tabs .selected {
+	background-color: #333;
+}
+
+@media (min-width: 1200px) {
+	.tabs {
+		display: none;
+	}
+
+	.hide {
+		display: block;
+	}
+
+	section {
+		display: flex;
+		flex-direction: row;
+		background-color: rgb(101,119,96);
+	}
+
+	article {
+		display: flex;
+		margin: 0 25px 0 0;
+		padding: 25px;
+		background-color: #333;
+	}
+
+	article h1 {
+		display: block;
+	}
+
+	.index-header {
+		padding-left: 50px;
+	}
+
+	#lists {
+		width: 25%;
+		flex-direction: column;
+	}
+
+	#notes {
+		width: 70%;
+		flex-direction: column;
+	}
+
+	.cards {
+		display: flex;
+		flex-direction: row;
+	}
+
+	.card {
+		max-width: 400px;
+	}
+}

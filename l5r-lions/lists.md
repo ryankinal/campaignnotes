@@ -6,7 +6,7 @@
 
 * Sensitive and thoughtful Shugenja
 
-### Akodo Shigetoko - Hannah
+### Akodo Shigetoki - Hannah
 
 * Unnaturally pale eyes - bad omen?
 * Keeps to herself, hardened to feelings of others
@@ -56,7 +56,7 @@
 
 ### Akodo Kenji
 
-* Akodo Shigetoko - Older brotehr
+* Akodo Shigetoki - Older brother
 * Ikoma Asami - Best friend
 * Kitsu Ryosei - Distant cousin
 

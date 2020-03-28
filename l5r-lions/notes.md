@@ -1,5 +1,45 @@
 # Notes
 
+## Session 2 - 3/27/20
+
+* Usagi Ozaki
+	* Collapsed from wounds
+	* Ancestral sword scabbard on the ogre
+		* Was holding a nodachi
+	* Ryosei heals Ozaki
+		* Still unconscious, but going to live
+* Close to Castle Usagi
+	* Let's go there
+	* Take the head of the ogre?
+		* No, don't want any Shadowlands Taint
+		* Shigetoko already has it? No, made the check
+		* Okay, took it anyway. I guess. For the glory of the Akodo family
+		* Not taking callouses for shoes, though. Weird.
+* Road is nice
+	* Villages in the distance
+	* Rice fields
+	* Peasants stop and stare because samurai and ogre head
+* At the castle
+	* Looks nice
+	* Mostly defensible
+* Ozaki's sister - Tomoeh - comes to meet us at the gate
+	* Brother stable
+	* Asks who we are
+	* WOMAN FROM KENJI'S VISION
+* Older man approaches - Usagi Oda
+	* Tall, strong, long grey hair, fumanchu, long beard
+	* Exquisite clothing
+	* Hare Daimyo - Ozaki's father
+	* Told the story of our luck in finding and saving Ozaki
+* Kenji reveals that he saw Tomoeh in a vision
+* Guards provide a place for the ogre head
+	* Low-rank samurai brings laquered wooden box
+* Welcomed
+	* Given rooms
+	* Given baths
+		* Hawt
+	* Given opportunity for conversation
+
 ## Session 1 - 3/20/20
 
 * Matsu Chokoku - Lion Daimyo (he)
@@ -49,8 +89,12 @@
 		* No danger... today
 * Next Inn
 	* More visions? More strange doorknob stuff.
+		* Scorpion guard at border entering tavern
+		* Young woman dressed in red & white (hare) clutching something under kimono
 * Ogre fighting samurai
 	* Samurai is Usagi Ozaki
 	* Ogre has Hare clan family sword scabbard
+	* Asami injured it by breaking particular arrows
+	* Shigetoko killed it
 * Now invited to Castle Usagi
 	* Ozaki lives there?

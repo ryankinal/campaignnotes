@@ -70,13 +70,13 @@
 
 ### Usagi Oda - Hare Daimyo
 
-* Father of Ozaki and Tomoeh
+* Father of Ozaki and Tomoe
 
 ### Usagi Ozaki - Hare Samurai
 
 * Fighting ogre on the road
 
-### Usagi Tomoeh - Hare Samurai
+### Usagi Tomoe - Hare Samurai
 
 * Seen in Kenji's vision
 * Sister of Ozaki

@@ -22,7 +22,7 @@
 * At the castle
 	* Looks nice
 	* Mostly defensible
-* Ozaki's sister - Tomoeh - comes to meet us at the gate
+* Ozaki's sister - Tomoe - comes to meet us at the gate
 	* Brother stable
 	* Asks who we are
 	* WOMAN FROM KENJI'S VISION
@@ -57,7 +57,7 @@
 		* Something is preventing Ryo from doing that
 	* Shigetoki attempts to figure some stuff out - INVESTIGATION
 		* East side second floor is sleeping quarters of noble family
-		* In one of Oda, Ozaki, or Tomoeh's rooms
+		* In one of Oda, Ozaki, or Tomoe's rooms
 * Dinner
 	* Lord Usagi invites personally to table
 	* Main feasting chamber
@@ -68,10 +68,10 @@
 	* Ozaki awake and there - left of Oda
 		* Arm in a sling
 		* Black Eye
-	* Tomoeh - right of Oda
+	* Tomoe - right of Oda
 		* Properly made up - noble lady
 	* Tea, Sake
-	* Tomoeh is a Shugenja - healed Ozaki
+	* Tomoe is a Shugenja - healed Ozaki
 	* Ozaki thanks group
 	* Ozaki went to destroy Ogre bandit
 		* Once engaged, recognized Hare Clan scabbard
@@ -84,22 +84,22 @@
 		* Gift giving ritual yayyyyyy
 	* Oda asked for favors in return
 		* Suggested nothing in particular, but mentioned troubles Lion have had - the missing scroll.
-		* Kenji senses a crack in Tomoeh's public appearance
+		* Kenji senses a crack in Tomoe's public appearance
 			* brief flash of panic before composure
 	* Food is well-made, but not overly fancy
 	* Oda thanks more
 	* Ozaki praises Shigetoki and Asami for combat prowess
-	* Kenji asks Tomoeh if she's had travels
+	* Kenji asks Tomoe if she's had travels
 		* Trying to freak her the fuck out
 		* Traveled recently to capital city - city of Emperor
 			* Diplomatic trip
 			* "Too much going on, prefer quiet"
-	* Pretty sure Kenji and Tomoeh are betrothed now
+	* Pretty sure Kenji and Tomoe are betrothed now
 * Next morning, returning Scabbard at shrine to Fukurokojin
 	* Ritual!
 	* Oda suggests that maybe we should FIND THE FUCKING SWORD BECAUSE ALL WE HAVE IS A SCABBARD
 		* Ryo might be able to find it
-		* Tomoeh is like "Oooh, you can do that?"
+		* Tomoe is like "Oooh, you can do that?"
 		* Ryo does it
 		* It's in a vine-covered castle in disrepair - Hiruma Castle
 			* Greatest shame of Crab Clan
@@ -107,7 +107,7 @@
 		* Ozaki declares he is going to the Shadowlands
 			* Requests permission. How nice.
 			* Oda permits.
-			* Tomoeh says "Noooo you're too hurt. I'll go."
+			* Tomoe says "Noooo you're too hurt. I'll go."
 				* Ozaki says "No, you have stuff to do!"
 * End for tired/cookies/bullshit
 

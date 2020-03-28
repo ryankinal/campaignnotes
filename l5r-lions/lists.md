@@ -68,6 +68,15 @@
 * Segret Magistrate?
 * Once killed an oni by himself, then ordered all his coward troops to commit seppuku
 
+### Usagi Oda - Hare Daimyo
+
+* Father of Ozaki and Tomoeh
+
 ### Usagi Ozaki - Hare Samurai
 
 * Fighting ogre on the road
+
+### Usagi Tomoeh - Hare Samurai
+
+* Seen in Kenji's vision
+* Sister of Ozaki

@@ -109,6 +109,7 @@
 			* Oda permits.
 			* Tomoeh says "Noooo you're too hurt. I'll go."
 				* Ozaki says "No, you have stuff to do!"
+* End for tired/cookies/bullshit
 
 ## Session 1 - 3/20/20
 

@@ -78,7 +78,7 @@
 		* Great treasure
 	* Shigetoki suggests bringing scabbard to them
 		* 500 years ago, 50 samurai held castle against bloodspeakers
-		* 200 years ago, Usagi Nideh pursued his love, taking clan sword - it has been missing since.
+		* 250 years ago, Usagi Nideh pursued his love, taking clan sword - it has been missing since.
 		* Now scabbard returned
 	* Offered tessen (war fan)
 		* Gift giving ritual yayyyyyy
@@ -91,10 +91,28 @@
 	* Ozaki praises Shigetoki and Asami for combat prowess
 	* Kenji asks Tomoeh if she's had travels
 		* Trying to freak her the fuck out
+		* Traveled recently to capital city - city of Emperor
+			* Diplomatic trip
+			* "Too much going on, prefer quiet"
+	* Pretty sure Kenji and Tomoeh are betrothed now
+* Next morning, returning Scabbard at shrine to Fukurokojin
+	* Ritual!
+	* Oda suggests that maybe we should FIND THE FUCKING SWORD BECAUSE ALL WE HAVE IS A SCABBARD
+		* Ryo might be able to find it
+		* Tomoeh is like "Oooh, you can do that?"
+		* Ryo does it
+		* It's in a vine-covered castle in disrepair - Hiruma Castle
+			* Greatest shame of Crab Clan
+			* Hiruma family was conquered by Shadowlands
+		* Ozaki declares he is going to the Shadowlands
+			* Requests permission. How nice.
+			* Oda permits.
+			* Tomoeh says "Noooo you're too hurt. I'll go."
+				* Ozaki says "No, you have stuff to do!"
 
 ## Session 1 - 3/20/20
 
-* Matsu Chokoku - Lion Daimyo (he)
+* Matsu Chokoku - Lion Daimyo
 	* Very well-renowned
 	* Once killed an Oni
 		* Leading troops into battle, Oni scared all of them off

@@ -31,7 +31,6 @@
 	* Exquisite clothing
 	* Hare Daimyo - Ozaki's father
 	* Told the story of our luck in finding and saving Ozaki
-* Kenji reveals that he saw Tomoeh in a vision
 * Guards provide a place for the ogre head
 	* Low-rank samurai brings laquered wooden box
 * Welcomed
@@ -39,6 +38,59 @@
 	* Given baths
 		* Hawt
 	* Given opportunity for conversation
+* Planning
+	* Ryosei feels the scroll
+		* East side of the castle, second floor
+		* Something preventing really good look
+* Before dinner
+	* Meditation
+		* Kenji
+		* Enko
+	* Walking meditation
+		* Shigetoki
+		* Asami
+			* Rock garden
+			* Monk - probably retired samurai
+	* Just walking
+		* Ryosei
+	* Attempting to pinpoint scroll location
+		* Something is preventing Ryo from doing that
+	* Shigetoki attempts to figure some stuff out - INVESTIGATION
+		* East side second floor is sleeping quarters of noble family
+		* In one of Oda, Ozaki, or Tomoeh's rooms
+* Dinner
+	* Lord Usagi invites personally to table
+	* Main feasting chamber
+		* Low-rise tables - kneeling on expensive pillows
+		* Centerpiece of flowers
+	* Oda at head of table
+		* Welcomed warmly, smiling
+	* Ozaki awake and there - left of Oda
+		* Arm in a sling
+		* Black Eye
+	* Tomoeh - right of Oda
+		* Properly made up - noble lady
+	* Tea, Sake
+	* Tomoeh is a Shugenja - healed Ozaki
+	* Ozaki thanks group
+	* Ozaki went to destroy Ogre bandit
+		* Once engaged, recognized Hare Clan scabbard
+		* Great treasure
+	* Shigetoki suggests bringing scabbard to them
+		* 500 years ago, 50 samurai held castle against bloodspeakers
+		* 200 years ago, Usagi Nideh pursued his love, taking clan sword - it has been missing since.
+		* Now scabbard returned
+	* Offered tessen (war fan)
+		* Gift giving ritual yayyyyyy
+	* Oda asked for favors in return
+		* Suggested nothing in particular, but mentioned troubles Lion have had - the missing scroll.
+		* Kenji senses a crack in Tomoeh's public appearance
+			* brief flash of panic before composure
+	* Food is well-made, but not overly fancy
+	* Oda thanks more
+	* Ozaki praises Shigetoki and Asami for combat prowess
+	* Kenji asks Tomoeh if she's had travels
+		* Trying to freak her the fuck out
 
 ## Session 1 - 3/20/20
 
@@ -72,11 +124,11 @@
 		* Elaborate tessen (war fan)
 		* Signaling device
 		* Belonged to Matsu Shirogana
-		* Came to Usagi Furiko's aid
+		* Came to Usagi Furiko's aid when battling Bloodspeakers
 		* Invite noble house of hare to celebration
 		* Host at Shiro Matsune (seat of Matsu family house)
 	* Blank travel papers
-* Festival of Fukorokojim
+* Festival of Fukorokojin
 * Scorpion lands
 	* Emerald magistrate Shoshuro Rei
 	* Asami's papers - takes 3 times as long

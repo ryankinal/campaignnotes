@@ -5,15 +5,15 @@
 ### Avery Chesterfield - Tim
 
 * Gunlugger
-* Middle-aged man
-* Well-groomed, touch of grey
-* Fugly, bug clean and well-dressed
-* Home-made armor
-	* stormtrooperish but khaki-tan
-	* Pith helmet
-* Cunning & deadly eyes
-* Lanky, stringy, doesn't look threatening
-* Grew up in nomadic survivalist community
+* Look
+	* Middle-aged man
+	* Well-groomed, touch of grey
+	* Fugly, but clean and well-dressed
+	* Home-made armor
+		* Stormtrooperish but khaki-tan
+		* Pith helmet
+	* Cunning & deadly eyes
+	* Lanky, stringy, doesn't look threatening
 * Hx
 	* Fought side by side with Mother Superior
 	* Lyss is the smartest
@@ -21,33 +21,22 @@
 ### Lyss Specter - Jess
 
 * Savvyhead
-* Junkyard of parts
-	* Just smarter than other people
-	* Won it via gambling, playing straight
-* Young woman, utility wear, random tech
-* Poofy brown hair, static'd
-* Workspace
-	* Random electronica
-	* Psycortonic
+* Look
+	* Young woman
+	* Utility wear w/random tech
+	* Poofy brown hair, static'd
 * Hx
-	* The most strange - Avery - maintain a code of honor
+	* The most strange - Avery
 	* Biggest potential problem - Mother Superior
 
 ### Mother Superior - Julie
 
 * Hardholder
-* Holding
-* Large gang of violent bastards
-	* Praetorian guard
-	* Well-disciplined, large, angry
-	* Dedicated soldiers
-	* Officers were followers when they drove out radiers from this area
-	* Others recruited from citizens
-* Not so many vehicles - everything flooded, not many still run
-* Tall, lanky
-* Ambiguous-looking face, hard-looking
-* Tuxedo over combat vest
-* Old-west revolver
+* Look
+	* Tall, lanky
+	* Ambiguous-looking face, hard-looking
+	* Tuxedo over combat vest
+	* Old-west revolver
 * Hx
 	* Lyss has been with me since before
 
@@ -102,22 +91,26 @@
 ### Mary Noble
 
 * Strong, paranoid woman
+* Pushed down an outsider
 
 ### Cash
 
 * Newcomer
-* Hired muscle for Lyss
+* Hired hand for Lyss
 
 ## Caravan - Trivecta Consortium
 
 ### Trivecta
 
 * Leader of caravan
+* Prosthetic jaw
 
 ### Six
 
 * First real contact
+* Rude, brash
 
 ### Zero
 
 * Caravan market master
+* Hunched, thin, raspy voice, prosthetic arm

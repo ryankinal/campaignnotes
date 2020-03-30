@@ -152,7 +152,7 @@
 	* Emerald magistrate Shoshuro Rei
 	* Asami's papers - takes 3 times as long
 * Inn
-	* Most people aroudn are peasants
+	* Most people around are peasants
 	* Ryosei tried to do some summoning/talking stuff?
 	* Kenji tried to do something with a doorknob?
 	* Vision of danger on the road

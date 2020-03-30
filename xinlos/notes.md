@@ -1,4 +1,4 @@
-# Play
+# Notes
 
 ## Session 1 - 3/28/20
 

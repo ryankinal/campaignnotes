@@ -1,4 +1,4 @@
-import { HTTP } from '../http.js';
+import { HTTP } from './http.js';
 
 let http = new HTTP();
 let notesOutput = document.querySelector('#notes');

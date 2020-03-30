@@ -62,41 +62,47 @@
 
 ## NPCs
 
-### Missy
+### Bailey
 
-* Claims to remember apocalpyse
-* Lives in shed in a thicket outside of hardhold
-* Classic witch
+* Mistress of the market
+
+### Barnum
+
+* Lieutenant of the guard
+
+### Cash
+
+* Newcomer
+* Hired hand for Lyss
+* Strong, but dirty and downtrodden
 
 ### Don
 
 * Stuttery, old
 * Likes to get more for less
-
-### Wire
-
-* Officer
-* Gruff voice
-* Welding hobby, likes to improve the cargo ship
-
-### Bailey
-
-* Mistress of the market
-
-### Maureen
-
-* Runs still
-* Decent white alcohol - really burns
+* Lyss's best customer
 
 ### Mary Noble
 
 * Strong, paranoid woman
 * Pushed down an outsider
 
-### Cash
+### Maureen
 
-* Newcomer
-* Hired hand for Lyss
+* Runs still
+* Decent white alcohol - really burns
+
+### Missy
+
+* Claims to remember apocalpyse
+* Lives in shed in a thicket outside of hardhold
+* Classic witch
+
+### Wire
+
+* Officer
+* Gruff voice
+* Welding hobby, likes to improve the cargo ship
 
 ## Caravan - Trivecta Consortium
 

@@ -1,5 +1,9 @@
 # Notes
 
+## Session 3 - 4/3/20
+
+* BEGINNING OF SESSION
+
 ## Session 2 - 3/27/20
 
 * Usagi Ozaki
@@ -86,6 +90,8 @@
 		* Suggested nothing in particular, but mentioned troubles Lion have had - the missing scroll.
 		* Kenji senses a crack in Tomoe's public appearance
 			* brief flash of panic before composure
+		* It is suggested maybe Tomoe can help search for the scroll - Kami and such
+			* Oda's all like "Yep sounds good"
 	* Food is well-made, but not overly fancy
 	* Oda thanks more
 	* Ozaki praises Shigetoki and Asami for combat prowess

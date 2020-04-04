@@ -129,6 +129,46 @@
 	* Of samurai caste
 	* Sworn to Usagi family - gets to use their name
 	* One of the more trusted vassals
+	* Kenji asks about Tomoe, and her being gone
+		* Seika went with her
+		* Ozaki did too
+		* Whole thing at the bar?
+		* All kind of a blur
+	* Asks about Inn where he saw Tomoe
+		* Seika is not a good servant, according to himself?
+		* Makes trouble for masters
+		* Getting a bit twitchy
+		* Going to Opium Den - Red Crysanthemum
+* Opium Den
+	* Seika is well-known
+	* "Have the good stuff because I'm treating my friend... Kenji"
+	* Silk pillows, hookah-ish thing
+	* Doing some opium stuff, oh yeah
+	* Seika continues about Tomoe
+		* Guard at oto-sinuchi(?) - Houses of the Winter Moon
+		* At an inn (wink-wink)
+		* Ozaki busted in, grabs by neck - "Tomoe needs an escort"
+		* Had to leave - Ozaki was really insistent
+			* Talking to Lion friend - Matsu family!?!?
+			* Lions are real honorable, but they had to leave
+		* Then they demoted Seika for some reason
+		* Protect her from
+			* Bandits
+			* Suitors
+		* Did not find her a husband
+* Private space
+	* Kenji is fuuuuuucked up
+	* Asami relays stuff about Tomoe's room
+		* Lots of scrolls - maybe entire library
+		* Lots of decorative boxes
+	* Kenji says Matsu Akira gave the scroll to Ozaki
+		* Ozaki yelled at Akira
+		* Enko says that tells us nothing
+	* Get Tomoe to go with us to the Shadowlands?
+		* Ozaki said she has things to do here
+		* Suspicious AF
+* Rest of the party 
+
 
 ## Session 2 - 3/27/20
 

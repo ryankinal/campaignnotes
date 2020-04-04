@@ -27,6 +27,7 @@
 	* She suggests there's danger - but always does
 * Lyss
 	* Starts on a project
+		* New vehicle
 		* It will take weeks
 		* Need to figure out the power source
 	* Don comes for parts

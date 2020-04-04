@@ -147,7 +147,11 @@
 
 * Enforcers - victimize anyone who stands out
 * Description
-	* 
+	* Large gang of violent bastards
+	* Well-disciplined, large, angry
+	* Dedicated soldiers
+	* Officers were followers when they drove out radiers from this area
+	* Others recruited from citizens
 * Cast
 	* Barnum
 	* Wire

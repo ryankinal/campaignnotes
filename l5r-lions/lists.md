@@ -80,3 +80,16 @@
 
 * Seen in Kenji's vision
 * Sister of Ozaki
+
+### Usagi Rinta - Steward of Hare Castle
+
+### Brother Suana - Monk
+
+* Tends the Hare Palace rock garden
+* Oversaw Fukurokojin stuff
+* Master Monk assigned to this province
+
+### Usagi Seika
+
+* Serves Oda
+* Kenji told a story

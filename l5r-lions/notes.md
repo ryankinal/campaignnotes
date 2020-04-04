@@ -2,7 +2,133 @@
 
 ## Session 3 - 4/3/20
 
-* BEGINNING OF SESSION
+* Oda definitely wants us to help Ozaki on his quest to get the ancestral sword back
+* Ryo suggests that Ozaki wait for arm to heal
+	* Ozaki wants to go anyway, because urgency
+* Enko offers help
+* The rest of the group thinks we should wait
+	* Asami and Ryosei suggest that the festival is important
+		* Main celebration is tonight. Maybe a good idea to stick around.
+	* It's a week's travel anyway
+	* Shigetoki suggests maybe a better plan - and more samurai	
+* Hiruma History
+	* Crab clan's main duty is to protect from Shadowlands
+	* Built a giant wall
+		* Constantly manned with many samurai
+	* When wall was built, Hiruma family castle was on wrong side
+	* Managed to make it work anyway
+	* Famous battle
+		* Shadowlands army of overwhelming force
+		* Powerful shugenja sacrificed life force to summon wall of water
+	* After battle, Crab built the wall behind water wall
+* Asami notices Ozaki and Tomoe are stressed about the army
+* Enko asks whether an army would be diplomatically terrible
+	* Ozaki says he couldn't put his people in danger
+	* He must go alone. Even though Enko already offered. Bastard.
+	* Actually pretty headstrong and honorbound
+	* Oda apologizes for Ozaki's lack of awareness regarding Enko
+* Note - Jade prevents Shadowlands Taint
+	* Need some to survive
+	* Might be some at the festival
+		* But be wary of merchants selling it
+* Prep for festival
+	* Oda says a prayer
+* Discussion
+	* Enko is very straightforward
+	* Everyone else thinks that's a bad plan
+	* Asami tells of Ozaki and Tomoe's hesitance of bringing an army to the Shadowlands
+	* Discussion of whether it's diplomatically viable
+	* Discussion of why we should go
+		* Favor for favor
+		* Honorable combat against the Shadowlands
+		* They're an ally
+	* Ryo pissed off Enko - easy to do
+* Everybody's going to the festival
+	* Oda, Ozaki, and Tomoe too - their quarters are empty
+	* Asami may sneak in?
+	* Ryo is trying to get the layout near there
+* Everybody except Asami goes to the festival
+	* Asami goes to 2nd floor East wing
+	* Finds Tomoe's room - smells of roses
+		* What a mess
+			* SCROLLS ARE EVERYWHERE
+			* Pillows
+			* Incense
+			* Table
+			* Scrolls
+			* Quill & ink well
+			* Tatami pads
+		* Brian wants a scroll. Ryosei wouldn't.
+	* Can't find the scroll
+	* Colletion of boxes is... unusaul
+	* Number of scrolls is... also unusual
+* On the way to the festival
+	* Asami joins the rest of the group
+	* Ceremonial garb
+	* Bonfire
+	* Paper lanterns
+	* Tori gate
+		* symbolic of entering sacred space
+	* After gate, wishes on paper instead of lanterns
+* Shrine to Fukurokojin
+	* Altar
+	* Altar table
+	* Steps up toward big rock
+	* Fires
+	* Line of people to pray directly in front of the shrine
+	* Filling out prayer cards
+* Between shrine and palace
+	* Bonfires
+	* People selling stuff
+		* Fireworks
+		* Jade? 
+		* Food
+* Tomoe & Osaki at Shrine
+	* Talking to the Monk from the Garden
+		* In charge of the shrine
+* Oda approaches and kneels to pray
+* Samurai walking around with Wakizashi and Katana
+	* One is drunk
+		* "Ey, Lions. That's... scary."
+		* Kenji tells a story
+		* Mortality, wisdom-inducing fukurokojin
+* Ryosei approaches Tomoe
+	* Compliments her
+	* Asks to see Library
+	* She suggests no - Hare wouldn't have anything Lion doesn't
+	* Ryosei suggests reference of the Shadowlands
+	* Tomoe responds poorly - gets serious, where she was happy
+	* Shadowlands scrolls would be blasphemy? Depend on Crab to deal with them.
+	* Tomoe seems A BIT DEFENSIVE!?!?! SHOCKED!!!!!
+* Kenji and the Drunk Samurai
+	* Served Usagi entire life
+	* Both here to hear Oda's prayer
+* Prayer
+	* Oda gets on dais - Ozaki and Tomoe kneel by his side
+	* Monk gets up and sanctifies with... Myrrh? Sandalwood! WASABI!
+	* Monk: "Fukurokojin make us wise. Don't fuck shit up this year."
+	* Oda: Rambling generic speech - not a good public speaker.
+* Kenji talks with Monk Suana
+	* Talk religion - Suana is impressed
+		* "Are you of the brotherhood?" "No."
+	* Kenji has spiritual needs
+	* Worried about Ozaki
+		* Might die
+		* Why? Spiritual? Physical?
+		* Shadowlands, duh.
+	* Monk is now also concerned
+		* Can't intercede unless advice is requested
+	* Not looking for him to intercede, just for info
+	* Asks Kenji whether he is Samurai
+	* Sage words. Be blessed.
+* Enko talks to Ozaki
+	* Festival - Suana to thank
+	* Enko compliments courage, while berating stupidity
+* Seika is clinging to Kenji
+	* Actually kind of high-ranking
+	* Of samurai caste
+	* Sworn to Usagi family - gets to use their name
+	* One of the more trusted vassals
 
 ## Session 2 - 3/27/20
 
@@ -82,7 +208,7 @@
 		* Great treasure
 	* Shigetoki suggests bringing scabbard to them
 		* 500 years ago, 50 samurai held castle against bloodspeakers
-		* 250 years ago, Usagi Nideh pursued his love, taking clan sword - it has been missing since.
+		* 200 years ago, Usagi Nideh pursued his love, taking clan sword - it has been missing since.
 		* Now scabbard returned
 	* Offered tessen (war fan)
 		* Gift giving ritual yayyyyyy

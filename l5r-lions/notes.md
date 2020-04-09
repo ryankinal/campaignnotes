@@ -1,5 +1,121 @@
 # Notes
 
+## Session 4 - 4/8/20
+
+* Summary of events that have already happened
+* Clarification - Seiki's memory
+	* Ozaki and Akira met in opium den
+	* Both in disguise
+	* Mysterius unnamed figure and Akira were talking together and exchanging papers
+		* Ozaki saw
+	* All went outside, then Ozaki came in to get Seiki
+	* Ozaki and Seiki followed person into fancy house
+	* Had to run away from guards at house
+* TODAY IS THE DAY that Ozaki is going to the Shadowlands
+	* And so does Enko I guess
+* AT DAWN
+	* Kenji is way hungover
+	* Talk about going to Shadowlands
+	* Jade? Probably not. Maybe from the crab?
+* Breakfast
+	* Oda and Tomoe are nervous
+	* Kenji eats a lot - hangover munchies I guess
+	* Kenji asks to see the scabbard, and gets permission to do the scrying thing
+	* Tomoe goes to her room
+	* Ozaki goes to training ground
+		* Enko and Shigatoki follow		
+* Training ground
+	* Enko starts sparring with Ozaki
+	* Shigatoki goes through katas
+	* Asami gets stuff from room, then to training ground for archery
+* Magical party members
+	* Ryosei and Kenji talk about doing magic stuff with the scabbard
+	* Kenji is stalling, doing scabbard stuff
+	* Kenji suggests Ryosei figure out how to get the scroll
+	* Maybe get Asami to help
+	* Ryosei takes sake to training ground, talks with Asami
+* Ryosei and Asami
+	* Plan to get Tomoe out of her room, and Asami in
+	* Maybe a vision that Kenji has, or he needs help
+	* Shigatoki joins the conversation
+		* Suggests that maybe he could ask about marrying Tomoe
+		* As a distraction!
+		* What a good plan
+* Shigatoki meets Oda in the Garden
+	* "The flowers are lovely, but not as lovely as your daughter."
+	* Asks about being Tomoe's husband
+	* Oda is INTO IT
+		* Saved son's life
+		* Lion clan alliance is cool
+		* Check out what Tomoe thinks of it
+	* Shigatoki is stealing Kenji's lady?
+* Kenji's scrying
+	* Sees the sword being pulled from its scabbard
+		* Something wrong with the sword? End cap is loose?
+		* Looks tiny in "his" huge hands
+		* Pulls out really ugly giant sword
+		* Scabbard goes in belt
+		* It seems by the ogre?
+	* Sees a bunch of probably Shadowlands creatures
+		* Is a brown/green clawed thing, with the sword
+		* Takes the sword
+* Enko vs. Ozaki - training
+	* Enko is defeated
+	* Talked about honor
+* Asami and Ryo sneaking
+	* The distraction plan has worked!
+	* Snuck in, almost didn't?
+	* Small shrine, a bunch of scrolls, etc. - just like last time
+	* Scrolls poorly taken care of
+	* Ryo looking through scrolls for the one true scroll
+		* Stealing spells? Nah. Honor n such
+		* Spellcraft - A bunch of air Kami in a particular area - a box
+		* Opens the box
+			* Several mirrors make the box look empty
+			* Hidden compartment
+			* In the compartment... a scroll
+			* Matches the description of The One Scroll
+			* No longer has a stick or a case
+			* Crimson and gold marbling
+			* It's a cypher ![cypher](cypher.png)
+		* Takes the scroll
+	* They head out
+* Shigatoki and Tomoe meet... about marriage?
+	* Tomoe is made up, hastily. In "nice lady clothes"
+	* Shigatoki can't tell what she's actually thinking
+	* Tomoe may be blushing under all the makeup?
+	* Request is honorable
+	* She seems into it? Maybe? Needs more discussion.
+	* Father has allowed her to choose own husband.
+	* Talk of Ozaki's quest
+		* not Shigatoki's responsiblity, it's for house honor
+		* Shigatoki's got MOVES - Hare honor is his honor too
+	* Nice garden walk
+		* Tour of the grounds
+* Asami retroactively tries to split Ozaki's arrows
+	* Fail, but hit the target
+	* Ozaki compliments Asami on archery
+* Kenji requests lunch via Rinta, plus discussion of scabbard findings
+	* One-on-one with Oda
+	* Tells Oda visions of the sword
+	* Not telling him sword is damaged
+	* Has he ever heard of a brown/green, clawed thing?
+	* Kenji warns of more danger in the Shadowlands
+	* Oda knows, but can't stop the kid - like 200 years ago
+	* Kenji suggests maybe make the Crab aware?
+		* Crab are very practical
+		* No high-ranking connections with the crab
+		* Sending travel papers signed personally
+	* Can the shadows follow a person?
+		* Oda says yeah, there's lots of stories like that
+	* Has Ozaki been to shadowlands?
+		* No, only been to capital once, and that's all
+	* How was the ogre so close?
+		* The ogre has been troubling the lands for 2 years now.
+		* Just happenstance that Ozaki met it
+	* Entire situation has "Destiny" written all over it
+* Fin
+
 ## Session 3 - 4/3/20
 
 * Oda definitely wants us to help Ozaki on his quest to get the ancestral sword back

@@ -99,3 +99,9 @@
 
 * Serves Oda
 * Kenji told a story
+
+### Ronin Misago
+
+* Bloodspeaker
+* Formerly Kitsu
+* Middle-aged woman, greyish hair

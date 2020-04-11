@@ -56,6 +56,178 @@
 	* Sneaky... very sneaky...
 	* Sneeeeeeeaaaaaaaaaaky
 * Oh yeah, character introductions for JFox
+* Inside crab lands!
+	* Waystations
+	* Praries
+	* Kinda... Texas-like
+	* Inns, villages
+* First sight of The Great Carpenter Wall
+	* Huge
+	* Fuckin' huge
+	* 200 ft. high in places? Cool.
+	* Periodic towers
+	* Impressive
+* Other side of the wall
+	* Eternally on fire
+	* Grey, smoky
+	* Looks EVIL
+* Settlement? City?
+	* Forges
+	* Peasants carrying shit
+	* Burly-looking dude
+		* What the fuck? Where do you think you're going?
+		* Ozaki is not with us
+		* Rhyming is fun
+		* We're going to the Shadowlands, specifically Hiruma Castle
+		* Dude: LAWL
+		* Can't dissuade us, though
+		* Sends us to Kama Osamu
+* Small Gate
+	* Kama Osamu lets us through after Ozaki's sob story
+* Discussion of whether this is a good idea
+	* Parallels between history and current situation
+	* Suggestion of Sister's betrayal?
+		* Who's next in line?
+	* Ozaki sees the "Kamikazmic" parallels
+		* Dumbass
+* Ozaki goes through the gate
+	* Enko follows immediately
+	* Shigetoki follows too
+	* Rest of the party hesitates, but eventually follows
+* Travelling through the Shadowlands
+	* Pretty normal at the beginning
+	* Can smell the horrible on the wind
+	* Hear strange beasts
+	* Air feels clammy
+* Find a shack
+	* Made from scrap-lumber
+	* Sticks, mud, thatched roof
+	* Ryo communes to figure out what's going on with it
+		* Are there any large, dangerous animals living here?
+		* Got some Earth Kami
+			* First: "Big thing come through frequently"
+			* Second: "Yes, yes, big thing... can help"
+			* Second: "I help you! Give powerful spell."
+		* Thinks it will be okay if we stay here
+* Go into shack - there's a spider! COMBAT
+	* Reya hits it with a polearm
+	* Asami hits it with some arrows and kills it
+	* Ozaki should have gone first?
+		* Suggests he would have protected us all
+* Nobody has lived here for years
+	* Human bones around
+	* Smaller bones too
+	* Strange-looking skulls
+		* Elongated, but belonging to humanoid skeletons
+		* Kenji was one of these things in his visions?
+	* Crude gear
+		* Spears
+		* Old katanas
+		* All rusted
+* Time for sleep
+	* Reya and Asami take first watch
+	* If nighttime had a nighttime, this would be it
+	* Ryo makes a magic moat around the shack
+		* Kami just feel weaker in the Shadowlands
+		* Sweet. It's semi-permanent.
+		* Rushing water, and it appears
+		* We get drinks, fill water jugs/skins/whatever
+		* There's a trout? Awesome.
+			* Reya catches it
+* Watches
+	* First watch is uneventful
+	* Nothing happened at all?
+* Break time, a.k.a. "Brendan Frasier gives me a Homo Erectus"
+* Morning's travel
+	* Pretty dense foliage
+	* Green creature in foliage
+		* Very pointy
+		* Asami nocks an arrow and prepares to shoot
+	* Only this creature, but mounted on something terrible
+	* Potential scout?
+	* Ozaki ruins it for us all
+	* Creature hops out on a four-legged beast that looks about the same as its rider? It's wearing pants? The mount is?
+	* Asami tries to shoot the mount
+		* Success
+	* Enko attempts to overtake and block
+		* Gets up to the critter
+	* Kenji thinks this has not disturbed anything else
+	* Ryo summons dense smoke around its head
+		* "Where are we? Brother?"
+	* Enko - "Halt! Who are you, and who do you serve?"
+		* "My name is Chomp. Where is my brother, Gromp?"
+	* Enko - "Why were you watching this road?"
+	* Interrogation
+		* "To set up an ambush. Send word back to Mug and Mug."
+		* "The Exalted Ugu" - Daimyo of Hiruma Castle
+		* May be others along the road.
+		* Could show us where Mug and Mug were going
+		* Could show us how to get into Hiruma Castle?
+		* Mount was little brother
+	* Asami binds the goblin
+* Go further down the road
+	* Get to a point that would be a great ambush
+	* Turn back, threaten the goblin
+	* Try to go around BUT SUDDENLY OGRES - COMBAT
+		* Enko kills goblin immediately
+		* We handily win the battle with the ogres.
+			 * Arrows
+			 * Katanas
+			 * Spells
+			 * Flanking
+* Kenji meets Ratlings
+	* Enko knows of them from Crab person
+	* They're kind of allies of the Crab
+	* Live in the Shadowlands, but unaffected by taint
+	* Tribal, but intelligent
+	* Crab and Ratlings sometimes make deals
+		* Some Crab speak Ratling
+		* Some Ratling speak Rokugani
+* Woman's voice from down the trail as we're cleaning weapons
+	* Small, slight, serious eyes, tough demeanor
+	* Early-middle age, greying hair
+	* Pitch-black handprint on face
+	* Ryo knows who she is
+		* Kitsu speak of her "with bile in their mouths"
+		* Ronin Misago - formerly Kitsu
+	* Assumes we're heading to Hiruma
+		* Also has business there
+		* 8 is more than one, and 8 is more than 7
+		* Mutually beneficial?
+	* Can she be trusted?
+		* Enough
+		* Ryo seems fine with it
+		* Reyo calls her a Bloodspeaker
+		* Hare clan are super against them
+		* Enko turns katana blade-up, she notices, and says not to worry.
+* Translated scroll
+	* Investigation... kill a magistrate... make it look like a suicide
+	* Kenji accuses Matsu family of attempting to kill an Akodo
+	* Trying to figure out whether to include Hare samurai
+* Ozaki makes a comment to Ryo, then a comment to Enko
+	* She nearly kills him
+* Shigatoki talks to Ozaki
+	* Private council
+	* Wants to keep him in the loop, because courting Tomoe
+	* Tells him about scroll
+	* He says we were here to spy on him all along
+	* He asks who sent us
+	* He decides we aren't trustworthy and goes toward the castle on his own.
+* What to do now?
+	* Leave him to die?
+	* Avoid Hare for the rest of our lives?
+	* Rescue him?
+* During this time, Ryo is keeping Misago busy
+	* Stories of Kitsu family
+	* Keeps her attention very well
+	* She's constantly scratching at the handprint
+		* Gotta go to the castle to get that fixed
+* End of Session
+	* What next? Castle?
+	* WTF is with the Bloodspeaker?
+	* Do we just... fuck off?
+	* Do we keep the sword for ourselves?
+	* WE GO TO THE CASTLE
 
 ## Session 4 - 4/8/20
 

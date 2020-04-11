@@ -1,5 +1,62 @@
 # Notes
 
+## Session 5 - 4/10/20
+
+* Getting ready to go!
+	* Bard horses
+	* Asami got some broken arrows
+	* We get a new character
+		* Hare clan samurai with a polearm
+		* Super courageous?
+		* Ozaki tells her not to come
+		* But introduces Usagi Reya (JFox! Jess! Jessica!)
+		* Apparently stalks Ozaki? Creepy.
+		* He is resigned to it. She's coming.
+* Conversation of Lion and Hare relations during journey
+	* Whether Ozaki knows many Lion
+	* He does, courtlike stuff
+	* Drank sake with an Ikoma at some point
+		* Asami's cousin
+* The rest of the journey is uneventful until...
+* Border of Crab lands
+	* Brushlands, prarie
+	* Noticable uptick in road quality leaving hare lands
+		* Wagon-rut to gravel-lined, well-engineered
+	* Guardhouse - 3 to 4 samurai
+		* Sentries, spears
+	* Ozaki introduces us
+		* Man, is he ever dramatic
+	* Enko is embarrased
+	* Reya is impressed
+* Guards tell us it's a bad idea to go to Shadowlands
+	* No shit
+	* Going anyway because ancestral sword
+* Gets supervisor
+	* Tenko
+	* Knows Ozaki
+	* Lets us through
+* Asami asks about jade
+	* Tenko says 20 koku for enough to cover us
+	* Maybe we could return some?
+	* Tenku is robbing us here
+		* Asami rolled like a boss
+	* Reya negotiates!
+		* 10 koku
+		* Counter - 15
+		* Settle on 12
+	* Got some Jaaaaaaaaade
+		* Hemp necklaces with a finger of Jade
+		* Protected until it turns black
+		* Better gtfo before that happens
+* Big Crab Guy said we're definitely going to die
+	* Enko thought she may have been slighted
+		* Made the Honor roll, so resisted the need to murder him
+* There are some secret things going on with Kenji?
+	* Ummm... Awareness+Sincerity? Hmmm...
+	* Sneaky... very sneaky...
+	* Sneeeeeeeaaaaaaaaaaky
+* Oh yeah, character introductions for JFox
+
 ## Session 4 - 4/8/20
 
 * Summary of events that have already happened

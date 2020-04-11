@@ -31,6 +31,12 @@
 * Studied Mysticism, meditated for long hours
 * Strong arcane connection with the Void
 
+### Usagi Reya - jess
+
+* Ozaki's stalker
+* Fast-talker?
+* Knows stuff about money
+
 ## Relationships
 
 ### Kitsu Ryosei

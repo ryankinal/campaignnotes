@@ -3,6 +3,21 @@ Wounds: 0
 Honor: 3
 Void: 2
 
+6pts soak vs. Shadowlands tainted
+3pts soak vs. everyone else
+
+Katana:
+
+* To hit: 6k3
+* Damage: 7k3
+
+Bow:
+
+* To hit: 4k3
+* Damage: 5k2
+
+Stances:
+
 * Normal - normal
 * Full Attack
 	* +2k0

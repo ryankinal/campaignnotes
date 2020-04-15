@@ -1,5 +1,69 @@
 # Notes
 
+## Session 6 - 4/14/20
+
+* Big reward for decoding the scroll
+	* +1 Void for Shigatoki and Ryosei
+	* Holy balls
+* Misago's crew is "The Last Chance Bandits"
+	* They're the worst
+	* I mean they're a ruthless band of brigands that wander the Southern empire.
+	* Robbing, kidnapping, terrorizing, etc.
+* Names of Ozaki's friends
+	* Matsu Akira - met in capital city
+		* Friend met hooded figure - papers exchanged
+	* Scorpion - Soshi Yukio
+	* These is import
+* On the path
+	* Foul odors, rot decay, brimstony
+	* Castle ahead is partially ruined
+		* Vines - like Florida Kudzu on Meth
+	* Slow going
+	* Shigetoki leading
+		* Using tanto to slice through marsh
+		* Not the katana or wakizashi, becaus sacred
+* Break through and see the castle up close
+	* 4 stories tall
+	* At least 5 goblins around the doors
+	* Gate is closed, but wall is ruined
+	* There's a moat
+	* Drawbridge is up
+	* No sign of Ozaki
+* Tactics on entry?
+	* Enko suggests maybe not the front gate
+	* Misago likes to improvise
+	* Shigatoki comes up with a plan
+		* Up-front honorable combat
+		* Goblins
+			* No bows or anything
+			* Not very sophisticated weapons
+		* Looking at terrain
+			* Ruins of gatehouse
+			* Cover for archers (all of us)
+		* Honorable. No sneaking around.
+	* Ryo wants to cast a spell when we start to get in range
+		* Courage of the seven Thunders
+* Run across no-mans-land to the ruins
+* COMBAT
+	* Some goblins pelt us with rocks via slings
+	* Others rush down the stairs
+	* We fire some arrows, immediately causing some casualties
+	* Ryo casts some spells, armor for Enko
+	* Cover for everybody!
+	* A group of 10 or so appear with various improvised weapons
+	* Misago casts a spell - but is interrupted by a lucky shot
+	* Enko and Shigatoki charge into combat, causing death and chaos
+	* Enko and Shigatoki are immediately taken out
+	* Reiha and Ozaki show up
+	* Kenji consistently taking down goblins on the ramparts
+	* Ryo does some badass waterbending
+	* Finally win the battle
+	* Much healing
+		* Shigatoki is healed by Misago, and aquires TAINT
+* Ozaki apologizes
+	* Also is suspicious of Misago, but accepts that we had to deal
+* Calling it early because WORK
+
 ## Session 5 - 4/10/20
 
 * Getting ready to go!
@@ -9,7 +73,7 @@
 		* Hare clan samurai with a polearm
 		* Super courageous?
 		* Ozaki tells her not to come
-		* But introduces Usagi Reya (JFox! Jess! Jessica!)
+		* But introduces Usagi Reiha (JFox! Jess! Jessica!)
 		* Apparently stalks Ozaki? Creepy.
 		* He is resigned to it. She's coming.
 * Conversation of Lion and Hare relations during journey
@@ -27,7 +91,7 @@
 	* Ozaki introduces us
 		* Man, is he ever dramatic
 	* Enko is embarrased
-	* Reya is impressed
+	* Reiha is impressed
 * Guards tell us it's a bad idea to go to Shadowlands
 	* No shit
 	* Going anyway because ancestral sword
@@ -40,7 +104,7 @@
 	* Maybe we could return some?
 	* Tenku is robbing us here
 		* Asami rolled like a boss
-	* Reya negotiates!
+	* Reiha negotiates!
 		* 10 koku
 		* Counter - 15
 		* Settle on 12
@@ -110,7 +174,7 @@
 			* Second: "I help you! Give powerful spell."
 		* Thinks it will be okay if we stay here
 * Go into shack - there's a spider! COMBAT
-	* Reya hits it with a polearm
+	* Reiha hits it with a polearm
 	* Asami hits it with some arrows and kills it
 	* Ozaki should have gone first?
 		* Suggests he would have protected us all
@@ -125,7 +189,7 @@
 		* Old katanas
 		* All rusted
 * Time for sleep
-	* Reya and Asami take first watch
+	* Reiha and Asami take first watch
 	* If nighttime had a nighttime, this would be it
 	* Ryo makes a magic moat around the shack
 		* Kami just feel weaker in the Shadowlands
@@ -133,7 +197,7 @@
 		* Rushing water, and it appears
 		* We get drinks, fill water jugs/skins/whatever
 		* There's a trout? Awesome.
-			* Reya catches it
+			* Reiha catches it
 * Watches
 	* First watch is uneventful
 	* Nothing happened at all?

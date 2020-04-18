@@ -1,5 +1,14 @@
 # Notes
 
+## Session 7 - 4/17/20
+
+* We're ditching this storyline
+* Later, fools
+* Seeya suckers
+* Later alligators
+* I'm sayin... bye-on... lions...
+* ... or something
+
 ## Session 6 - 4/14/20
 
 * Big reward for decoding the scroll

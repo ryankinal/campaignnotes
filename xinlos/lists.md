@@ -91,6 +91,7 @@
 * Barnum
 * Mitch
 * Lana
+* Karl
 
 #### Scouts
 
@@ -143,8 +144,6 @@
 * Officer
 * Gruff voice
 * Welding hobby, likes to improve the cargo ship
-
-
 
 ## Caravan - Trivecta Consortium
 

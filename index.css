@@ -84,6 +84,10 @@ a {
 	color: rgb(198, 60, 0);
 }
 
+select {
+	display: none;
+}
+
 .hide {
 	display: none;
 }
@@ -110,8 +114,23 @@ a {
 	flex-direction: column;
 }
 
+.no-media-card .card-text {
+	width: 100%;
+}
+
 .card-text > *:first-child {
 	margin-top: 0;
+}
+
+article .card {
+	background-color: #FFF;
+	color: #333;
+	margin: 0 0 15px 0;
+}
+
+.card ul {
+	margin: 10px 0;
+	padding-left: 20px;
 }
 
 .tabs {
@@ -145,6 +164,10 @@ a {
 	padding: 25px;
 }
 
+#moves h1 {
+	display: block;
+}
+
 @media (min-width: 1200px) {
 	.tabs {
 		display: none;
@@ -152,6 +175,10 @@ a {
 
 	.hide {
 		display: block;
+	}
+
+	select {
+		display: inline;
 	}
 
 	section {
@@ -165,10 +192,15 @@ a {
 		margin: 0 25px 0 0;
 		padding: 25px;
 		background-color: #333;
+		flex-direction: column;
 	}
 
 	article h1 {
 		display: block;
+	}
+
+	article .card:first-child {
+		margin-left: 0;
 	}
 
 	.index-header {
@@ -192,5 +224,10 @@ a {
 
 	.card {
 		max-width: 400px;
+		flex-direction: column;
+	}
+
+	article .card {
+		margin: 0 10px 10px;
 	}
 }

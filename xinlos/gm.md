@@ -1,7 +1,11 @@
+* Cash
+	* Tries maelstrom stuff on his own
+* 
+
 # First Names
 
 * Alton
-* Christian
+* Christianx
 * William
 * Brett
 * Lisa
@@ -57,6 +61,7 @@
 * Stolen stuff
 	* Junkyard
 	* Workshop
+* Feelings of betrayal in the Maelstrom
 
 ## Mother Superior
 
@@ -67,9 +72,6 @@
 	* Violence
 	* Discrimination
 	* Invite-only establishment
-* Rock Vega
-	* Demands more protection
-	* Stinky & Crew show up
 * Former seargent (Kreider) left for Rock Vega
 
 # Threats

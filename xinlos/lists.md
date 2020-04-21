@@ -62,6 +62,10 @@
 
 ## NPCs
 
+### Arty
+
+* Hunter
+
 ### Bailey
 
 * Mistress of the market
@@ -82,10 +86,34 @@
 * Likes to get more for less
 * Lyss's best customer
 
+### Guard
+
+* Barnum
+* Mitch
+* Lana
+
+#### Scouts
+
+* Mida (she/her)
+	* Late 40's
+	* Missing a couple fingers on left hand
+	* Walks with a limp when weather is bad
+* Aldo
+	* Mid-20's tribal
+	* Joined 6-7 years ago
+	* Joined to keep fed
+* Metzger
+	* 30's
+	* Hunter - big hunts
+
+### Kevin
+
+* Asshole
+
 ### Mary Noble
 
 * Strong, paranoid woman
-* Pushed down an outsider
+* Pushed down Cash
 
 ### Maureen
 
@@ -98,11 +126,25 @@
 * Lives in shed in a thicket outside of hardhold
 * Classic witch
 
+### Roche
+
+* Scavenger/scrap dealer
+
+### Smiddy
+
+* Hunter
+
+### Winnie
+
+* Hunter
+
 ### Wire
 
 * Officer
 * Gruff voice
 * Welding hobby, likes to improve the cargo ship
+
+
 
 ## Caravan - Trivecta Consortium
 

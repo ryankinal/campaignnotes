@@ -16,6 +16,16 @@ Glory: 1
 
 Honor: 6.5
 
+## Quick Ref
+
+* Initiative: 5k4 + 8
+* Defense: 6k4
+* TN to be hit
+	* No armor: 25
+	* Light armor: 30
+* Wounds: 0
+* Void: 2
+
 ## Traits
 
 ### Earth: 2
@@ -47,6 +57,7 @@ Honor: 6.5
 * Defense 2 + Reflexes 4 = 6k4
 * Etiquette 2 + Awareness 3 = 5k3
 * Iajutsu 4 + Reflexes 4 = 8k4
+	* Focus emphasis
 * Kenjutsu 3 + Agility 3 = 6k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 2 + Intelligence 2 = 4k2
@@ -69,7 +80,8 @@ Honor: 6.5
 	* Impossible standards
 	* Honor loss increased by 1
 * Lost Love
-	* Lost a parent, couldn't attend funeral
+	* Previous wife died. Somehow?
+		* Three children are in the Kakita Bushi School
 	* Bouts of melancholy - TN + 5 during that time
 	* Must spend a void point to regain focus
 	* Cannot happen more than twice per day, and not within the same hour

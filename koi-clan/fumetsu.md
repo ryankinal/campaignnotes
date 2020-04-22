@@ -1,5 +1,17 @@
 # Fumetsu
 
+## Quick Ref
+
+* Initiative: 5k4 + 8
+* Defense: 6k4
+* TN to be hit
+	* No armor: 25
+	* Light armor: 30
+* Wounds: 0
+* Void: 2
+
+## Basic Info
+
 Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
@@ -16,15 +28,7 @@ Glory: 1
 
 Honor: 6.5
 
-## Quick Ref
-
-* Initiative: 5k4 + 8
-* Defense: 6k4
-* TN to be hit
-	* No armor: 25
-	* Light armor: 30
-* Wounds: 0
-* Void: 2
+Experience: 2
 
 ## Traits
 

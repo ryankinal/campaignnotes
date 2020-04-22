@@ -15,7 +15,7 @@
 * On the quiet side, but not asocial
 * Is a Medium
 
-### [name here] - Hannah
+### Moriko - Hannah
 
 * Healing-focused Shugenja
 * Medicines/Herbalism

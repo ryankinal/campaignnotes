@@ -30,7 +30,7 @@
 * Eldest son of the eldest sone of Tamahide
 * Aspirational general of Koi Army
 * "Merchant patron"
-	* Accounting/contracts/management/etc.
+	* Accounting / contracts / management / etc.
 * Upright citizen, plays by the rules
 
 ### Yoshihiro - Brian

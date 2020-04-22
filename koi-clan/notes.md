@@ -94,6 +94,10 @@
 	* Tsuru may have some pull, but doesn't presume
 	* Yoshi is gonna go at it
 		* "Do whatever you have to, Yoshi"
+* Who was that mysterious man?
+* How will the Koi continue production of the elixir?
+* Will Tamahide die?
+* Find out next time on *The Secrets of the Koi Clan*
 
 ## Session 0.5 - 4/21/20
 

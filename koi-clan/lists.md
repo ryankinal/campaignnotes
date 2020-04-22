@@ -24,7 +24,8 @@
 
 ### Seina - Jess
 
-* Definitely not a Ninja
+* Definitely not Scorpion
+* Socialite
 
 ### Tsuru - Al
 

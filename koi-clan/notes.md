@@ -3,6 +3,146 @@
 ## Session 2 - 4/24/20
 
 * Excellent summary by Tim
+* Kasumi went to Moriko to talk about her Moon-Thing
+* Yoshihiro went to Bu to ask about a Gaijin and a Horse
+	* Saw nothing
+* Tsuru went to Kasumi to ask for help in the "wasting curse"
+	* Kasumi will help, but no promises
+* Fumetsu went to Datsu (Guard) to ask about the Gaijin and how he entered the castle
+	* Gaijin have demonic powers
+	* They were bewitched
+* Seina tries to find out about Jade Tea crop
+	* Chats with Yaski Denbe (with the Witch Hunter Ryutske)
+	* Hanging out at The Filthy Pond
+* Trust conversations
+	* Tsuru wonders why Koi trust Fumetsu and Seina
+	* Fumetsu has become a law-enforcement badass because Hanako
+	* Seina... doesn't have a reason yet, but working on it
+	* Kasumi divines whether Seina is trustworthy
+		* Tim thinks about it
+* 3 DAYS LATER - Full moon!
+* Extended family have been coming to stay
+	* Other clans
+	* Asako Koharu and her massive family
+	* Castle is increasingly crowded
+* Fumetsu and Hanako are doing paperwork when yoriki of Chuugan province comes in concerned
+	* The village - Kitayama (produces rice to feed themselves, plus 500 koku)
+	* Everybody is dead - half-eaten?
+	* Fumetsu sends for the rest of the PCs - quick, urgent messages
+* We head out to Chuugan
+	* 5-ish guards
+	* PCs
+	* Peasant servant of Yoshi
+* Get to Shiro Mijime - Mansion of Umiko, chief magistrate of Chuugan
+* Umiko says we should just go to Kitayama
+	* Plains, rice fields as far as the eye can see
+	* The stench is incredible
+* Dog corpse before we get to town
+	* Moriko investigates - not sure, but suspicious it might be... something
+		* Yoshi notices a flash of fear/disturbance/recognition
+	* Kasumi has a suspicion too
+* Middle of Kitayama - Investigations/divinations/theology - mostly unsuccessful
+* Tsuru gives Umiko the third degree
+	* Didn't hear an army?
+	* It happend three days ago?
+* Fumetsu doesn't see sword wounds, an says so
+* Moriko talks to the Kami
+	* Finds that it was Gaki
+	* Most everybody has heard of them
+	* Not everybody thinks they're real
+* Kasumi does a Medium thing
+	* Projects into Gakido (sounds dangerous)
+	* Spirits all around, hazy, gaunt, hollow cheeks
+	* Walking around with digging sticks pulling up roots, eating them raw
+		* Beet blood runs down their chins
+		* Ssssssssymbolism. What's the sssssssssymbolism there?
+		* Ew, the beets are hearts
+	* Staggers when she awakes
+* Message sent back to castle for help
+* Eta sent for to deal with bodies
+* Moriko and Kasumi head toward castle
+	* Yoshi offers protection but they said FUCK OFF
+* Search for survivors starts
+	* Tsuru, Fumetsu, Yoshi (reluctantly), Seina, Umiko, Guards
+	* Yoshi finds everything
+		* Including a crow pecking at the eye of a friend
+		* Throws a knife at it - kills it
+* BACK AT THE CASTLE
+	* Moriko and Kasumi talk about Gaki
+	* Moriko saw something in the castle she should not have
+		* Doesn't want to share
+		* But there's a connection between the Daimyo and the Gaki
+		* Daaaaaanger
+		* Stock of Shinsei's footprint was gone
+	* Kasumi
+		* Maybe gaijin brought box to prevent Gaki from taking Tamahide?
+		* Favor for a cousin led to Gakido  - "consulted the sticks"
+		* So she went there
+	* Warn people, get them away from there
+* BACK IN KITAYAMA
+* No survivors
+* No clues
+* Tsuru, Fumetsu, Seina, and Yoshi meet
+	* None found survivors
+* Tsuru stays to wait for Chozu
+	* Orders others back to Shiro Mijime
+	* Tells Fumetsu to send word to Yunoa
+	* Tells Yoshi that they would need to move peasants
+		* Not gonna work
+		* Might need to hire outsiders
+		* We'll see
+* Chozu arrives much faster than ever expected
+	* Tsuru makes a Tao quote
+	* Chozu jokes about revision and blasphemy
+	* When Icharai arrives, he will help me cleanse this village
+	* "Not sure there's anyone in the lands of the Koi that can help me"
+	* "A matter only the fortunes can resolve"
+	* Presentation of a bowl of rice may
+* Tsuru heads back to Shiro Mijime
+* Yoshi stays at village, looking for other stuff
+	* Parting words "If I find people to work the fields and they lose their lives, I'll never forgive you."
+	* Looks for valuables to keep safe
+	* Says a prayer to a god he doesn't believe in over his friend
+	* Heads back to Shiro Mijime
+* BACK AT THE SHIRO MIJIME
+* Yunoa apologized to Tsuru, and then went to oversee Chozu
+* PCs meet
+* The rice is lost?
+	* Unless we can get more people
+	* Eight-petaled monastery?
+	* Maybe we can tap Usagi and Kitsune? Get word to them.
+* Yoshi attempts to pull underworld strings
+* We write two letters to the Hare and the Fox
+	* The diplomats are more than willing to ask
+	* Who knows if the clans are willing to help
+* THE FILTHY POND
+* Yoshi has the VIP room
+* Somebody waiting for him
+	* Bigass straw hat
+	* Face obscured
+	* Thick robe
+* They talk
+	* This guy could populate the village
+	* For the price of allying with the Hare
+	* Yoshi: "Usagi-san?"
+	* Dude: "No. He's drunk and asleep downstairs."
+	* Yoshi: "Let's do this thang."
+* Kasumi
+	* Day drags on
+	* Sleeping draught made by Moriko
+	* Sleeps well, but disturbed by visions
+		* Finds self in world of dreams
+		* Lord moon rises, goes through cycle, falls (repeats faster)
+		* Freezes in place and phases spin before blinking out of existence
+		* Large crow descends from moon and lands in front of Kasumi
+		* 10-foot-tall Crow
+			* "Balance has been disrupted. Caw"
+			* "Restore the balance. Caw."
+			* Flies away
+	* Sleeps safe the rest of the night, but chased by visions of hungry dead through empty castle
+* Yoshi presents Hare alliance to Tsuru
+	* Difference between Tsuru's plan and Yoshi's - Hare vs. Hare and Fox
+	* Ryan got distracted by geography and was tired so the notes went South
 
 ## Session 1 - 4/21/20
 

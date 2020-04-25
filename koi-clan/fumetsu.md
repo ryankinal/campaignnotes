@@ -9,15 +9,26 @@
 	* Light armor: 30
 * Wounds: 0
 * Void: 2
-* INCLUDE YOUR WIFE
+
+## RP Notes
+
+* Stern, but appropriate
+* Bushido
+	* Compassion
+	* Courage
+	* Courtesy
+	* Duty
+	* Honesty
+	* Honor
+	* Sincerity
+* INCLUDE YOUR WIFE - CALL HER HANAKO
+	* Maybe suggest that she should be governor of Enzan
 
 ## Basic Info
 
 Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
-
-Experience: 75
 
 Insight: (Rings * 10) + Skills = 128
 
@@ -29,7 +40,7 @@ Glory: 1
 
 Honor: 6.5
 
-Experience: 2
+Experience: 6
 
 ## Traits
 
@@ -200,12 +211,16 @@ A spirit reached with Commune will answer two questions. The caster may Raise to
 
 * Fire spirits are irritable and temperamental, and are often angry at being summoned unless they are pro- pitiated with an offering of something to burn. On the other hand, if a shugenja can please them they tend to offer the clearest and most accurate information.
 
----------
+# Relevant NPCs
 
-Hanako - Wife
+## Hanako - Wife
 
 * Head magistrate of Ashinagabashi Province
 	* Chief law-enforcement agents
 * Kind, helpful
 * Runs a tight household
 * Taking on responsibility that her mother never had
+
+## Umiko (She/Her) - Chief Magistrate of Chuugan Province
+
+* Had some trouble recently

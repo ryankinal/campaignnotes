@@ -61,3 +61,12 @@
 * Granddaughter of Emperor
 * Has been a liason between Imperial Family and Tamahide
 * Told us the Koi is in deep shit if the shipments stop
+
+### Bu
+
+* Peasant connection of Yoshi
+* Knower of stuff
+
+### Umiko
+
+* Chief magistrate of Chuugan Province

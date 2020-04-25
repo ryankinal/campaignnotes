@@ -1,5 +1,13 @@
 # Lists
 
+## The Whole Shebang
+
+[Document is here](https://docs.google.com/document/d/16BTqzdzNAX0ZxDa5pSQjAgGEz2OliWqZhS-fo9UOCUE/edit#heading=h.23gu1x9q6lig)
+
+## Lineage
+
+[Family Tree is here](https://drive.google.com/file/d/1A3XTimk4KUczb1rnVvtoNcGXb992b1YI/view?ts=5ea0b8d6)
+
 ## Who's Who
 
 ### Fumetsu - Ryan
@@ -27,7 +35,7 @@
 
 ### Tsuru - Al
 
-* Eldest son of the eldest sone of Tamahide
+* Eldest son of the eldest son of Tamahide
 * Aspirational general of Koi Army
 * "Merchant patron"
 	* Accounting / contracts / management / etc.
@@ -41,10 +49,6 @@
 * Clan tax collector
 * Family "gets the job done"
 
-## Koi Lineage
-
-[Document is here](https://docs.google.com/document/d/16BTqzdzNAX0ZxDa5pSQjAgGEz2OliWqZhS-fo9UOCUE/edit#heading=h.23gu1x9q6lig)
-
 ## NPCs
 
 ### Chozu
@@ -56,3 +60,4 @@
 
 * Granddaughter of Emperor
 * Has been a liason between Imperial Family and Tamahide
+* Told us the Koi is in deep shit if the shipments stop

@@ -1,5 +1,9 @@
 # Notes
 
+## Session 2 - 4/24/20
+
+* Excellent summary by Tim
+
 ## Session 1 - 4/21/20
 
 * Tamahide had been sprightly up until the last 6 months

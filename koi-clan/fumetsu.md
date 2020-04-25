@@ -9,6 +9,7 @@
 	* Light armor: 30
 * Wounds: 0
 * Void: 2
+* INCLUDE YOUR WIFE
 
 ## Basic Info
 
@@ -90,8 +91,7 @@ Experience: 2
 	* Must spend a void point to regain focus
 	* Cannot happen more than twice per day, and not within the same hour
 * Obligation
-	* Indebted to (Koi superior)
-	* Relatively minor, but demands full attention
+	* Promised former (Crane) Daimyo that I would get back Scorpion-era fishing rights for the Lake of Silent Dreams. Crane used to have them, but they were null-and-void when the Koi was established. Crane provinces on the lake have been in recession since the change.
 
 ## Initiative
 
@@ -199,3 +199,13 @@ This spell can be cast in any element save Void. It allows the caster to speak w
 A spirit reached with Commune will answer two questions. The caster may Raise to get more questions (one per Raise). The caster may also Raise for clarity, to get a more accurate and informative answer to the questions. (Kami are notorious for their in- ability to fully comprehend human behavior, and asking questions without Raises for clarity can often result in confusing, enigmatic, or incomplete answers.) Spirits do not forget anything, so theoretically a shugenja can ask a spirit about something that happened decades ago; however, they also do not experience time in the same way as mortals, so trying to ask about something from long ago will usually require Raises in order to make the caster’s wishes clear to the spirit. The nature of the information which spirits can impart varies by element:
 
 * Fire spirits are irritable and temperamental, and are often angry at being summoned unless they are pro- pitiated with an offering of something to burn. On the other hand, if a shugenja can please them they tend to offer the clearest and most accurate information.
+
+---------
+
+Hanako - Wife
+
+* Head magistrate of Ashinagabashi Province
+	* Chief law-enforcement agents
+* Kind, helpful
+* Runs a tight household
+* Taking on responsibility that her mother never had

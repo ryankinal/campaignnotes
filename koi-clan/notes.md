@@ -143,6 +143,7 @@
 * Yoshi presents Hare alliance to Tsuru
 	* Difference between Tsuru's plan and Yoshi's - Hare vs. Hare and Fox
 	* Ryan got distracted by geography and was tired so the notes went South
+* WHAT ABOUT THE FOOOOD? WHAT ABOUT THE FIEEEEELDS? FOX OR HARE? OR... mysterious other?
 
 ## Session 1 - 4/21/20
 

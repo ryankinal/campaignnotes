@@ -57,6 +57,8 @@
 		* Beet blood runs down their chins
 		* Ssssssssymbolism. What's the sssssssssymbolism there?
 		* Ew, the beets are hearts
+		* GHOSTS KNOW TAMAHIDE OH SHIT
+		* "Tell Tamahide to start feeding us again."
 	* Staggers when she awakes
 * Message sent back to castle for help
 * Eta sent for to deal with bodies

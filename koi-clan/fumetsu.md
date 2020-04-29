@@ -8,7 +8,7 @@
 	* No armor: 25
 	* Light armor: 30
 * Wounds: 0
-* Void: 2
+* Void: 3
 
 ## RP Notes
 

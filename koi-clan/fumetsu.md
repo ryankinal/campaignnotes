@@ -87,7 +87,7 @@ Experience remaining: 1
 * Lore: History 1 + Intelligence 2 = 3k2
 * Lore: Heraldry 1 + Intelligence 2 = 3k2
 * Sincerity 2 + Awareness 3 = 5k3
-* Tea Ceremony 1 + Void 2 = 3k2
+* Tea Ceremony 1 + Void 3 = 4k3
 
 ## Disadvantages
 
@@ -201,4 +201,5 @@ Haven't interacted with Seina much yet. Don't have a good idea of her character.
 
 ## Umiko (She/Her) - Chief Magistrate of Chuugan Province
 
-* Had some trouble recently
+* Kitayama is in Chuugan - it was routed by Gaki
+* Blamed by Tsuru

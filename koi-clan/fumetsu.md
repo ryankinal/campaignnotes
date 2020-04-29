@@ -104,7 +104,7 @@ Experience remaining: 1
 	* Cannot happen more than twice per day, and not within the same hour
 * Obligation
 	* Promised former (Crane) Daimyo that I would get back Scorpion-era fishing rights for the Lake of Silent Dreams. Crane used to have them, but they were null-and-void when the Koi was established. Crane provinces on the lake have been in recession since the change.
-	* Haunted by an ancestor who died in the Battle of the Hour of the Wolf. She never received a proper burial, and I must put her to rest.
+	* Haunted by an ancestor who died in the Battle of the Hour of the Wolf. He never received a proper burial, and I must put him to rest.
 
 ## Initiative
 

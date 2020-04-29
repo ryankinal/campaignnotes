@@ -34,13 +34,13 @@ Insight: (Rings * 10) + Skills = 128
 
 Rank: 1
 
-Status: 2
+Status: 3
 
-Glory: 1
+Glory: 3
 
 Honor: 6.5
 
-Experience: 6
+Experience: 10
 
 ## Traits
 
@@ -103,6 +103,7 @@ Experience: 6
 	* Cannot happen more than twice per day, and not within the same hour
 * Obligation
 	* Promised former (Crane) Daimyo that I would get back Scorpion-era fishing rights for the Lake of Silent Dreams. Crane used to have them, but they were null-and-void when the Koi was established. Crane provinces on the lake have been in recession since the change.
+	* Haunted by an ancestor who died in the Battle of the Hour of the Wolf. She never received a proper burial, and I must put her to rest.
 
 ## Initiative
 
@@ -210,6 +211,28 @@ This spell can be cast in any element save Void. It allows the caster to speak w
 A spirit reached with Commune will answer two questions. The caster may Raise to get more questions (one per Raise). The caster may also Raise for clarity, to get a more accurate and informative answer to the questions. (Kami are notorious for their in- ability to fully comprehend human behavior, and asking questions without Raises for clarity can often result in confusing, enigmatic, or incomplete answers.) Spirits do not forget anything, so theoretically a shugenja can ask a spirit about something that happened decades ago; however, they also do not experience time in the same way as mortals, so trying to ask about something from long ago will usually require Raises in order to make the caster’s wishes clear to the spirit. The nature of the information which spirits can impart varies by element:
 
 * Fire spirits are irritable and temperamental, and are often angry at being summoned unless they are pro- pitiated with an offering of something to burn. On the other hand, if a shugenja can please them they tend to offer the clearest and most accurate information.
+
+# Relationships and Bushido
+
+## Moriko - Honor and Courage
+
+Moriko honors her family and her clan by holding her art to a high standard. The Koi Shugenja school, while young, is ambitious and gives us status.
+
+## Yoshi - Compassion and Duty
+
+Clearly cares for the Koi, and will do anything to make sure we survive. At any cost. To himself, to Rokugan, to others. He cares not only for the Samurai, but for the peasants - for the weak among us.
+
+## Tsuru - Duty and Sincerity
+
+Had responsibility thrust upon him prematurely, and handles it well. He does what he has to for the Koi while maintaining his honor and that of the Koi.
+
+## Kasumi - Courage and Honesty
+
+There are some places a bushi cannot go, and she dives head first into them. Her ambition and courage in regard to Gaki, Divination, and the Kami.
+
+## Seina - Sincerity? Courtesy? - Not sure yet
+
+Haven't interacted with Seina much yet. Don't have a good idea of her character.
 
 # Relevant NPCs
 

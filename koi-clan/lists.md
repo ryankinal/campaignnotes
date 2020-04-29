@@ -70,3 +70,13 @@
 ### Umiko
 
 * Chief magistrate of Chuugan Province
+
+### Doji Shirayuki
+
+* Emperor's greatneice
+* Second in line for Emperor
+* Daughter is fourth
+
+### Mira Oshin
+
+* Herald of the imperial family

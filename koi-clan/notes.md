@@ -1,5 +1,189 @@
 # Notes
 
+## Session 3 - 4/28/20
+
+* Recap
+* Talk of how over-capacity we are
+	* Very
+	* Family of Tamahide
+	* Imperials
+* Yoshi does stuff
+	* Collects people
+	* Puts on a medicinal/healer costume
+	* Three carts, food, etc.
+	* Gets some weapons, they head out to Mamora
+* Breakfast
+	* Must prep for Imperials
+	* Moriko: Bon festival is coming
+		* 5 days away
+		* Use it to our advantage
+		* Festival of the dead
+			* Honor the dead
+			* Appease the restless dead
+	* Seina - temp solution to rice fields
+		* Eight Petals Monastery have agreed to farm rice
+		* Their primary concern was whether poeple will have enough food
+* Housing the Imperial family
+	* Kicking the family out
+		* Some to the Shugenja/healing school
+			* Using the Bon festival to get Koharu's kin to take interest in the school
+* Fumetsu and his wife talk
+	* They both dislike Yoshi
+	* She suggests alliances, not escalation
+	* Suggests that Yoshi may bring a criminal element in to Kitayama
+* Tsuru sends for Chozu
+	* He arrives very quickly
+	* All timey-wimey
+	* He's finished his cleansing of Kitayama
+		* Prayers, rites, etc.
+		* Eta burying the bodies in a mass grave
+	* Is the village habitable?
+		* Yes, but it's still bloody
+		* Peasants are pretty superstitious
+	* Fate is in the hands of the gods
+	* Wouldn't suggest Tsuru and family sleep there
+* Tsuru finds Kasumi in the late morning
+	* Asks what she saw - he's worried af
+	* She doesn't know the meaning of her dreams
+	* [dreams from last session - moon stuff]
+	* "Restore the balance"
+	* Saw Kyuden Ashinagabachi full of Gaki
+	* Theology
+		* Shinsei is usually symbolized by a crow
+	* Divination - "If Tsuru stays his current course, will glory come to the Koi clan?"
+		* Upside-down kanji for Glory... perhaps infamy?
+		* Will definitely be known - maybe not for great reasons
+	* WTF ARE YOU PLANNING?
+* Tsuru finds Fumetsu
+	* Asks about sadness
+		* Fumetsu talks of ancestor who fell in the Battle of the Hour of the Wolf
+		* Remembering the dead at the Bon festival
+		* Suggests taking advantage of Shugenja
+		* Feels like a Kakita thing, rather than a Koi thing
+* AFTERNOON
+* Imperials arrival is announced
+	* All Imperial families
+	* Doji family of the Crane
+	* On their way from Scorpion to Crane lands
+	* We're the midpoint
+	* Haruto greeting them
+		* He's a bit of a slob
+		* But he's the one who has to do it
+* Imperials arrive
+	* Entire province watches
+	* Guard keep peasants at bay
+		* Not aggressive, just a lot of peasants
+* Haruto and Kaya greet them
+	* Plus Tsuru & family, etc. etc.
+	* Seina's actually pretty damn close
+* Shirayuki hidden from view
+	* Silken panels and banners
+	* Is pretty
+	* But also functional - peasants don't deserve to see her godliness
+* Herald from night before stops
+	* Thanks Fumetsu and Tsuru
+	* It's an honor
+	* "Anything that we should know to keep the family safe?"
+		* Tsuru answers about a small lip they may trip over
+		* Fumetsu stays silent
+* Guards take their position for the night
+* MEANWHILE IN MAMORA - Yoshihiro
+* Trip was easy
+* Burned fields, destroyed villages, refugees
+* Gets to village he heard about
+	* It's been burned
+	* Used to be about 120 people
+	* Rough attempts at makeshift shelter out of remains
+	* Pretty damn empty
+* Yoshi looks for someone in charge
+	* Finds elderly woman - matriarch?
+		* Bent over, walking stick, pointing it, directing people
+	* Tells her that he's looking for workers for an empty village
+		* Rolls some stuff - fails?
+	* Response
+		* "You're not my grandson! Are you saying there's another place for us to live?"
+		* "Will you help me move the shrines?"
+		* "We can't leave without the ancestors!"
+	* He'll try
+	* She doesn't want to leave - born here, die here
+		* But talks to other folks
+* Not many people in their prime
+	* Looking for a reason why
+	* They might have gone bandit
+* Got about half on board
+	* Basically one extended family
+* Most of the older folks aren't going to leave - born here, die here
+* Yoshi talks to a kid - Tami
+	* "Is your husband fighting the oppressors of this village?"
+	* ... no
+	* "We want rice"
+	* ... okay, cool, you'll get rice
+	* BUT I WOULD LIKE A STRAIGHT ANSWER NOW (Intimidate)
+	* The men have been gone since the village burned
+	* Yoshi asks a "tax collector" to track them down
+		* But bandits try real hard not to be found
+* BACK IN ASHINAGABARI
+* Impromptu festival night
+	* Sake
+	* Talking
+	* Fire
+	* Lotsa fun
+	* Seina is talking to ji-samurai
+		* He doesn't fit typical image of bushido
+		* Talking very animatedly - a little shameful
+* Moriko talks with Shugenja about her mysterious spell
+	* Everybody is very interested
+		* Offer ideas
+	* Impresses Koharu in particular
+		* She's got great-grandkids that will need education
+	* Have a pretty good chance at getting more students!
+* Late in the night
+	* Some of us are still awake
+	* Hear an intense ruckus coming from the castle
+		* Fumetsu is stopped at gates of keep
+	* Haruto passes into castle
+	* None of us make it in
+	* Herald announces that Doji Shirayuki has been murdered
+* TO BE CONTINUED
+
+## Session 2.5 - the time between time
+
+* Some behind-the-scenes stuff happened
+	* Shugenja stuff
+	* Bushi stuff
+	* Seina stuff
+	* All the stuff
+	* HOLY SHT THERE ARE IMPERIAL FAMILY MEMBERS HERE
+		* And their retainers
+		* And 80 elite guard
+* Bushi stuff - Tsuru, Yoshi, Fumetsu
+	* Talked about what to do regarding Minor Clans and current situation
+	* Fumetsu suggests getting involved in war might be repetition of history
+	* Yoshi suggests destabilizing the minor clans
+		* Assassinations and such
+	* Fumetsu was like naaaaaah super dishonorable
+		* If anybody found out, we'd be dead
+	* Yoshi also suggests getting villagers from Mamora to fill Kitayama
+	* Fumetsu excused himself because he's not a strategist
+		* He will observe, but strategy is not his strong point
+	* Tsuru likes the idea of villagers from Mamora
+	* Also waiting for the war to weaken Fox and Hare
+		* Doesn't want a major clan to enter the war
+		* Lead them to temporary peace and alliance
+	* If we can gain alliance of Fox and Hare, great
+	* Yoshi is definitely evil
+* Shugenja stuff - Kasumi, Moriko, Kasumi's Mom
+	* (The... Koiven)
+	* Kasumi asked her mom if she had seen anything like Kitayama before
+		* Expressed concern about travel to Gaki-do
+		* Confirmed suspicions 
+			* Tamahide, Kitayama, Kaharo, exports are connected
+			* Suspected Tamahide of bad shit
+			* Nearly bankrupted his own clan when Chinuya died?
+			* Doesn't trust the box, but it seems to ease pain
+			* [check the email when we get it for all the details]
+* Seina stuff
+
 ## Session 2 - 4/24/20
 
 * Excellent summary by Tim

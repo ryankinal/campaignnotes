@@ -23,6 +23,7 @@
 	* Sincerity
 * INCLUDE YOUR WIFE - CALL HER HANAKO
 	* Maybe suggest that she should be governor of Enzan
+* SPEND YA DAMN VOID POINTS
 
 ## Basic Info
 

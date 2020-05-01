@@ -42,7 +42,7 @@ Honor: 6.5
 
 Experience gained: 10
 
-Experience remaining: 1
+Experience remaining: 4
 
 ## Traits
 
@@ -74,13 +74,13 @@ Experience remaining: 1
 
 * Courtier 2 + Awareness 3 = 5k3
 * Defense 2 + Reflexes 4 = 6k4
-* Etiquette 2 + Awareness 3 = 5k3
+* Etiquette 2 + Awareness 3 = 5k3 
 * Iajutsu 4
 	* + Awareness 3 = 7k3
 	* + Void 3 = 7k3
 		* Focus emphasis
 	* + Reflexes 4 = 8k4
-* Investigation 1 + Awareness 3 = 4k3
+* Investigation 2 + Awareness 3 = 5k3
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 1 + Intelligence 2 = 3k2
@@ -203,3 +203,8 @@ Haven't interacted with Seina much yet. Don't have a good idea of her character.
 
 * Kitayama is in Chuugan - it was routed by Gaki
 * Blamed by Tsuru
+
+## Kano (He/Him)
+
+* Sensei of the Koi Kenjutsu School
+* Accidental adversary

@@ -1,5 +1,166 @@
 # Notes
 
+## Session 4 - 4/30/20
+
+### History!
+
+* Seina prevented an assassination
+* Guy was outside Chihiro's room
+* They fought, Seina won
+* Guy had a Scorpion dagger
+* Has not been solved
+
+### PRESENT TENSE
+
+* Tsuru, up early
+	* Maybe hasn't slept
+	* Sent couriers for group meeting in privatish area
+* KITAYAMA
+* Yoshi makes it back to Kitayama w/peasants (60ish)
+	* It has been cleansed, bodies have been buried
+	* Yoshi stops everybody outside the village
+		* Feels a sense of peace - walking into holy ground
+	* Finds the monks
+		* Ichirai answers
+			* he's an imposing dude
+			* Scars, menacing aura, etc.
+		* Yoshi: "I brought you a village"
+		* Ichirai: "Gaki are gone, no worries. Sorry about the blood."
+		* Yoshi: "Could you speak with them? Reassure them?"
+		* Ichirai: "Not great with speeches, but one on one, I'm good. And my brothers too."
+		* Yoshi: "Cool, gonna leave then."
+		* Ichirai saw this coming
+	* Introductions are made, Ichirai says some stuff about troubled lands
+	* Yoshi fucks off to the castle, but promises to visit
+		* He gets there before the MURDER
+* One of Yoshi's "tax collectors" stayed, looking for the bandits
+	* Casual week of looking. No big.
+
+### BACK AT THE CASTLE IN THE MORNING
+
+* We meet in a garden. There's a gazebo.
+* Fumetsu had been talking to people
+	* Nobody saw anything... or Fumetsu failed his roll
+* Seina arrives
+	* Also couldn't figure anything out
+* Moriko wakes Kasumi and they arrive together
+	* Under the blood-red sky
+	* It's an alarming color
+* Yoshi arrives drunk with a bottle
+	* It's bright
+	* He slept somewhere random
+* Tsuru asks Yoshi about Kitayama
+	* Exposition
+	* Bandits are not yet in Kitayama, but they've been given directions
+* Fill Yoshi in about the Murder of Doji Shirayuki
+* Tsuru - wtf do we do?
+	* Yoshi - investigation
+	* Fumetsu - investigation
+	* Moriko - Kami?
+	* Kasumi - Kami? Sticks?
+	* Seina
+		* Investigation
+		* Getting a thing from the keep
+* Commotion from the keep
+	* Imperials packing up
+	* We all head that way except Yoshi, who "lies down"
+* Yoshi attempts to get into keep
+	* Stealthy stealth
+	* Fail. Oh well.
+* Moriko looks for some Earth Kami
+	* The Kami are hiding - bad omens
+* Fumetsu talks to Oshin
+	* He is unwilling to talk
+* Kasumi finds the Imperial Shugenja - Seppun Ayame
+	* Offers help as an Ishiken
+	* Ayame is impressed, and allows her to help
+	* Sworn to secrecy! Damn.
+	* Gets to the room
+		* Open window
+		* Sleeping mat stained with blood
+		* Pool of blood on the floor
+		* Tanto (knife) on a piece of cloth, dried blood on it
+			* The murder weapon
+	* Kasumi reads the essense of the tanto
+		* Eyes go all diviner
+		* Sees "herself" looking down at this knife, climbing the exterior of the castle
+		* Enters a window, sees elegant woman in sleeping attire brushing hair
+		* Silently vaults into the room, kills the woman
+		* Woman screams, guards pound on the door
+		* Dives out the window into the lake
+		* Description of self
+			* Male
+			* Ninja outfit
+			* Goatee & bald head
+			* Short & Stocky
+	* Relayed to Ayame
+	* Kasumi will watch for this person
+	* Probably not somebody in the Imperial caravan
+* Tsuru finds his father
+	* Meeting with Seppun Akimitsu - head of imperial guard
+	* Haruto is glad to see his son
+		* Impresses imperials
+	* Akimitsu turns to Tsuru
+		* Akimitusu:
+			* "At this time, Koi not being held responsible"
+			* "Discretion is required"
+			* "Assistance is needed in investigations"
+		* Tsuru
+			* "Fuck yeah, bud. All our resources."
+	* Miya Oshin is staying behind to coordinate
+	* Emerald Magistrates are going to be coming for a proper investigation
+* Yoshi heads for the Underworld - The Filty Pond
+	* Daijiro is there
+	* Talk of what happened
+	* Yoshi wants to find out what's going on... obvs
+	* Daijiro "caught a rat" - a short, stocky, bAlD MAn wITH A GOATEEEEEEE WTF
+		* Threatens torture, intimidates
+* Yoshi calls for everybody but Fumetsu
+	* Tsuru refuses invitation
+	* Yoshi reveals the dude
+	* Moriko sends a message to Ayameg
+		* "Another member of the clan has apprehended this dude, he's at the Filthy Pond"
+		* Informs others that they'll have visitors
+	* Yoshi freaks out about visitors
+		* "One chance to get information"
+		* Wanted to injure, then heal, injure, then heal, etc.
+	* Yoshi punches ninja guy in the face
+		* He spits out a tooth, then speaks through a bloody mouth
+		* Sent by Kitsune Tomo
+		* There's a dead drop by the old mill where he got the order
+* Seppun arrive
+	* Yoshi takes the ninja dude outside
+	* The captive is shot by an arrow
+		* He's not dead
+		* Dragged back inside by Yoshi and Moriko
+	* Moriko heals the ninja of poison and wounds
+	* Seppun guards take him, tie him up, and Ayame
+* Moriko and Kasumi are thanked by Ayame
+* Ayame tells Yoshi to "have some self-respect"
+
+### IN THE MEANTIME
+
+* Tsuru has been writing letters to Fox and Hare
+	* Should postpone meetings
+	* Telling Haruto to shut up, send no messages, and hide
+* Fumemtsu has been investigating and failing, then finds Tsuru
+	* They talk about what to do
+	* Tsuru's suspicions
+		* Assassination related to Kitayama?
+		* Maybe also related to attempt on Chihiro's life 2 years ago?
+		* Must remain vigilant
+	* Fumetsu's action items
+		* Get some sleep
+		* Investigate attempt on Chihiro's life
+		* Encourage vigilance
+
+### BACK AT THE FILTY POND
+
+* Kasumi reads the arrow that almost killed the assassin
+* Catches glimpse of the tsuba (hilt-guard) of his katana
+	* Has a stylized hare in mid-leap on it
+	* BECAUSE OF COURSE IT DOES
+
 ## Session 3 - 4/28/20
 
 * Recap
@@ -122,7 +283,7 @@
 	* The men have been gone since the village burned
 	* Yoshi asks a "tax collector" to track them down
 		* But bandits try real hard not to be found
-* BACK IN ASHINAGABARI
+* BACK IN ASHINAGABACHI
 * Impromptu festival night
 	* Sake
 	* Talking

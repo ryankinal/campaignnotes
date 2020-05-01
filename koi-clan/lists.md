@@ -77,6 +77,6 @@
 * Second in line for Emperor
 * Daughter is fourth
 
-### Mira Oshin
+### Miya Oshin
 
 * Herald of the imperial family

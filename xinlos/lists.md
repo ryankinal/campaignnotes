@@ -115,10 +115,16 @@
 
 * Strong, paranoid woman
 * Pushed down Cash
+* Looks
+	* One eye and a badass scar
+	* Has a monacle
+	* Monacles wash up on the shore frequently
+		* Along with left shoes?
+
 
 ### Maureen
 
-* Runs still
+* Runs still - Maureen's Bar and Still
 * Decent white alcohol - really burns
 
 ### Missy

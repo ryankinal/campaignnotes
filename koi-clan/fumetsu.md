@@ -43,7 +43,7 @@ Honor: 6.5
 
 Experience gained: 10
 
-Experience remaining: 4
+Experience remaining: 2
 
 ## Traits
 

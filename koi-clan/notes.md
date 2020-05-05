@@ -158,7 +158,7 @@
 
 * Kasumi reads the arrow that almost killed the assassin
 * Catches glimpse of the tsuba (hilt-guard) of his katana
-	* Has a stylized hare in mid-leap on it
+	* Has a stylized fox on it
 	* BECAUSE OF COURSE IT DOES
 
 ## Session 3 - 4/28/20

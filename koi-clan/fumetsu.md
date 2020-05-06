@@ -8,6 +8,7 @@
 	* No armor: 25
 	* Light armor: 30
 * Wounds: 0
+
 * Void: 3 (2 remaining)
 
 ## RP Notes
@@ -41,9 +42,9 @@ Glory: 3
 
 Honor: 6.5
 
-Experience gained: 10
+Experience gained: 14
 
-Experience remaining: 2
+Experience remaining: 6
 
 ## Traits
 

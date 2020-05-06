@@ -1,8 +1,141 @@
 # Notes
 
+## Session 5 - 5/3/20
+
+### PICKING UP WHERE WE LEFT OFF
+
+* Seppun
+	* Run into woods to chase arrow-person
+	* Tie up the assassin, drag him off
+* Yoshi wonders why Kasumi didn't wait
+	* Because honor, promises
+	* Yoshi feels insulted
+	* Discuss the info Yoshi got from the assassin
+	* Yoshi's pissed (and wants to get pissed on sake) - storms off to the castle
+* Kasumi
+	* Figures out the arrow stuff (from previous session)
+	* Looks for dead-drop by the mill (no dice)
+
+### BACK AT THE CASTLE
+
+* Fumetsu asks Hanako about Chihiro's near-assassination
+	* No reason to assassinate Chihiro
+	* Some masked assassin nearly killed Chihiro
+	* Seina killed the assassin
+	* Assassin wore scorpion-clan mon, but otherwise no way to identify
+		* Why wear identification at all
+	* Suspicious that Seina was lucky enough to find the assassin
+	* We should both get in touch with Seina
+	* We discuss some of Fumetsu's history with the Koi
+		* Former sword-arm of a minor Crane diplomat to the Koi
+		* Married to Hanako for status/political crap (and because sad widower)
+		* Cool so Fumetsu knows some stuff about Koi history and crap
+		* Fumetsu's eldest child knows some Koi in the Kakita school
+* Discussion of Gaki
+	* There's "folklore" about them, but also actual real stuff
+	* Everybody knows what they are, and the legends about them
+	* Shugenja have a better understanding of them
+* Yoshi on his way back to the castle
+	* Angry, but it was the honorable thing for Kasumi to do
+	* Finds Tsuru
+	* Enters office stinking of sake and covered in blood
+	* "Good news and bad news"
+		* Good - caught the assassin
+		* Bad - Kasumi informed the imperials
+		* Worse - He was hired by Kitsune Tomo
+		* Even worse - Assassin was shot and poisoned
+		* Better - Moriko healed him
+* The party is two-thirds together!
+	* Kasumi reveals arrow/tsuba vision
+	* Yoshi's underworld stuff identifies Kitsune Tomo's reputation
+		* Boogieman, monster, responsible for a series of murders
+		* Tomo came up in the investigation of Chihiro's near-assassination
+	* Tsuru suggests getting the magistrate to Kitayama - in case
+		* Yoshi and Fumetsu fight over honor and compassion and how we should present ourselves
+		* And whether Yoshi has invited actual bandits into our lands
+		* Compassion, honor, duty, blah blah blah
+	* Yoshi leaves
+	* On whether Chihiro's near-assassination is connected
+		* Kasumi wonders wtf
+		* Fumetsu suggests it's more about the reflection on the Koi
+* Kuni Ryuske (witch hunter) enters
+	* There's taint nearby
+	* Something vile happened - after the murder, not because of the murder
+	* Kasumi and Fumetsu leave
+	* Tsuru asks what it is
+		* Ryuske doesn't know yet - giving us the courtesy of letting us know
+* Tsuru and Ryuske enter the cellar
+	* Air feels thick, heavy
+	* Reach a door to a side-room
+		* Taint is in here
+		* There's a body on the floor - lacerated, covered in blood
+		* Strange runes written around it
+		* Teeth mostly gone
+		* Been here no more than half a day
+	* Couldn't have been the imperials
+	* Get Eta to clean up the mess, Ryuske will cleanse the taint
+* Message to Kasumi interrupts her visit with her mother
+* Message to Fumetsu interrupts as he sees Yoshi drunk and asleep in the bath
+* Yoshi wakes in the bath, but can't move
+	* Tries to communicate with Daijiro, but fails
+* Tsuru tells Kasumi about blood magic in the basement
+	* Name of my metal band: Basement Blood Magic
+	* Kasumi tries to contact Earth Kami about it
+		* Does so! Kami knows about the events
+		* Not much info - shadows were much shorter
+	* It happened while imperials were still here
+* Tsuru and Fumetsu discuss all the wtf lately and how to deal with it
+
+### BACK TO YOSHI
+
+* He's still poisoned, but can speak
+* Some guys approach
+	* Their bosses like Yoshi
+	* Because he "holds the Celestial Order with some contempt"
+* Yoshi: "My loyalties are with the Koi"
+* Them: O rly? Maybe common people could rise up?
+* Yoshi: Samurai and Shugenja are necessary because Shadowlands and such
+* Them: But what if gods were no longer involved?
+* Yoshi: Uhhh... sure
+* Them: Check the dead drop, we might offer help... or need it
+* Yoshi: You folks have attempted assassinations, yeah?
+* Them: Not before today
+* Yoshi: There will be no damage done to this clan
+* Them: Koi won't be harmed... might come out better
+
+### CAAAAAASTLE
+
+* Thoughts on what's going on?
+	* Killing imperial line to move up the order?
+		* Doji Takako? Doji Azaki? Otomo Sango?
+
+### FILT(H)Y POND
+
+* Eta comes to Yoshi
+	* Just cleaned up the body of the assassin
+	* Tells about writing, blood, etc.
+
+### CASTLE
+
+* Ryuske talking to Fumetsu, Kasumi, Tsuru
+	* Brings blood mages to justice
+* Yoshi enters wearing katana, cleaned up
+	* He says cryptic things
+* Tsuru asks Ryuske to leave
+	* Suggests blood mage may have been with imperial family
+* Yoshi tells them the body was the assassin
+* Yoshi suggests we keep Ryuske around as a fall-guy?
+* We have limited time before Emerald Magistrate comes
+* Stop the burning of the body, maybe?
+
+### CLIFFHANGER
+
+* Servant brings Tsuru a scroll
+	* Two months supply Jade Petal tea, tonight, or I tell everyone what I know
+
 ## Session 4 - 4/30/20
 
-### History!
+### HISTORY!
 
 * Seina prevented an assassination
 * Guy was outside Chihiro's room
@@ -15,7 +148,9 @@
 * Tsuru, up early
 	* Maybe hasn't slept
 	* Sent couriers for group meeting in privatish area
-* KITAYAMA
+
+### KITAYAMA
+
 * Yoshi makes it back to Kitayama w/peasants (60ish)
 	* It has been cleansed, bodies have been buried
 	* Yoshi stops everybody outside the village
@@ -109,7 +244,7 @@
 			* "Fuck yeah, bud. All our resources."
 	* Miya Oshin is staying behind to coordinate
 	* Emerald Magistrates are going to be coming for a proper investigation
-* Yoshi heads for the Underworld - The Filty Pond
+* Yoshi heads for the Underworld - The Filthy Pond
 	* Daijiro is there
 	* Talk of what happened
 	* Yoshi wants to find out what's going on... obvs
@@ -118,7 +253,7 @@
 * Yoshi calls for everybody but Fumetsu
 	* Tsuru refuses invitation
 	* Yoshi reveals the dude
-	* Moriko sends a message to Ayameg
+	* Kasumi sends a message to Ayame
 		* "Another member of the clan has apprehended this dude, he's at the Filthy Pond"
 		* Informs others that they'll have visitors
 	* Yoshi freaks out about visitors
@@ -143,7 +278,7 @@
 * Tsuru has been writing letters to Fox and Hare
 	* Should postpone meetings
 	* Telling Haruto to shut up, send no messages, and hide
-* Fumemtsu has been investigating and failing, then finds Tsuru
+* Fumetsu has been investigating and failing, then finds Tsuru
 	* They talk about what to do
 	* Tsuru's suspicions
 		* Assassination related to Kitayama?
@@ -154,7 +289,7 @@
 		* Investigate attempt on Chihiro's life
 		* Encourage vigilance
 
-### BACK AT THE FILTY POND
+### BACK AT THE FILTHY POND
 
 * Kasumi reads the arrow that almost killed the assassin
 * Catches glimpse of the tsuba (hilt-guard) of his katana

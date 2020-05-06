@@ -8,7 +8,7 @@
 	* No armor: 25
 	* Light armor: 30
 * Wounds: 0
-* Void: 3
+* Void: 3 (2 remaining)
 
 ## RP Notes
 
@@ -209,3 +209,4 @@ Haven't interacted with Seina much yet. Don't have a good idea of her character.
 
 * Sensei of the Koi Kenjutsu School
 * Accidental adversary
+

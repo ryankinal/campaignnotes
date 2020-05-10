@@ -1,5 +1,107 @@
 # Notes
 
+## Session 6 - 5/8/20
+
+### Time is flexible
+
+* Fumetsu goes to the Filthy Pond to have a talk with Yoshi
+	* Keep your invisible dealings invisible
+	* Be honorable
+	* Be presentable
+	* "Fumetsu, if you need my services, the answer is always yes."
+* Kasumi divination
+	* Maho practitioner is still in Koi lands
+* Yoshi does underworld stuff
+	* Rumors of bandit leader with powerful magic
+		* Covered in new scars every time you see him
+	* Informs Tsuru
+
+### TIME IS NOW
+
+* Tsuru's rooms
+	* Jin-li - peasant man - is brought in by Hachi
+	* Hanako frequently deputizes this man
+	* Hanako is being ransomed for 1000 koku by the forest killers
+	* Banfu - new bandit-gang - killed Saneiki
+	* Some divinations
+		* "Will the koi clan be great if I do what I'm doing?" asks Tsuru
+		* "Sure, why not?" say the sticks?
+	* Talks with Yoshi about ninja and a distraction
+		* Yoshi needs medicinal herbs
+			* For poisons
+			* Has some poison
+			* Puts them on weapons
+		* And some ashigaru
+
+### THE PLAN
+
+* Sending "koku" ahead in carts w/tax collectors
+* Following up with 50 ji-samurai, plus the PCs
+* Got some healers
+
+### GOING TO GET FUMETSU'S WIFE
+
+* Meet at the causeway
+	* Tsuru and crew go left
+	* Fumetsu and crew go right
+* Yoshi finds a cart and someone to drive it
+	* Fills it with shiny things
+	* "You are going by yourselves to do something very dangerous for great honor."
+* Ninja group arrives first
+	* Stealthily approach bandit camp
+	* 10-12 shelters, lean-tos, canvas tents
+	* 3-4 fire pits
+	* Large muscular dude
+		* 6ft. 260 lbs.
+		* Position of authority
+		* No scars though
+	* Peasant clothes
+	* Waits for carts to arrive, prepares to attack
+* Cart arrives
+	* Bandits approach
+	* Yoshi heads for the tents
+	* "If you have the koku, just open the bags" then bow strings, and the samurai with the cart run
+* Yoshi rusn and heroically slides into the tent
+	* Finds a young woman bleeding, and an old crone catching the droplets
+	* Hits old lady with a knife
+	* We'll see what happens in a minute
+* The rest of us ride hard!
+* Kasumi tries to see if we're going to be... ambushed
+	* Not terribly useful, maybe
+* The army crests the hill just as the bandits open the bags
+	* Our cart-assigned ji-samurai are retreating quickly
+	* One has already been wounded
+	* The other makes it to us
+* Time for battle!
+	* We're doing some mass battling
+	* Yay!
+* Yoshi continues to battle Shugenja
+	* He stabs her right good, but she casts a spell!
+	* He feels dark stuff going on
+	* His youth is being sucked away
+	* In a vicious skirmish, Yoshi slays the blood mage and saves Hanako
+* More battle!
+	* Kasumi is hit by arrows
+	* Fumetsu duels the bandit general
+		* And wins!
+	* The battle is won due to Tsuru's good planning
+* Kasumi investigates the blood mage
+	* Corpses in the tent with symbols of Jurojin
+	* Travelers were being protected by the monks, but they're in Kitayama
+* There's nothing in the camp a self-respecting samurai would want
+	* Yoshihiro, on the other hand, grabs some weapons
+	* And maybe some food
+	* Kasumi searches for "hidden" things
+		* There's a scroll buried there!
+		* Lacquered red box
+		* Recognizes this writing - she has read it before
+		* Can't place it, but it's very refined
+* On the way back, Kasumi sees a dude in a tree
+	* She blinks and he's gone, maybe with a flap of wings
+	* Keeps it to herself
+* Fumetsu suggests that maybe Hanako should fill the Enzan governor spot
+* YAY! GOOD STUFF!
+
 ## Session 5 - 5/3/20
 
 ### PICKING UP WHERE WE LEFT OFF

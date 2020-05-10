@@ -8,8 +8,7 @@
 	* No armor: 25
 	* Light armor: 30
 * Wounds: 0
-
-* Void: 3 (2 remaining)
+* Void: 3
 
 ## RP Notes
 
@@ -38,13 +37,13 @@ Rank: 1
 
 Status: 3
 
-Glory: 3
+Glory: 2.0
 
-Honor: 6.5
+Honor: 7.1
 
 Experience gained: 14
 
-Experience remaining: 6
+Experience remaining: 8
 
 ## Traits
 
@@ -125,7 +124,7 @@ Reflexes * 5 + Armor + 5
 
 * Healthy (TN +0) = 10
 * Nicked (+3) = 14
-* Grazed (+5) = 18
+* Grazed (+5) = 18 - 
 * Hurt (+10) = 22
 * Injured (+15) = 26
 * Crippled (+20) = 30
@@ -179,6 +178,10 @@ Moriko honors her family and her clan by holding her art to a high standard. The
 
 Clearly cares for the Koi, and will do anything to make sure we survive. At any cost. To himself, to Rokugan, to others. He cares not only for the Samurai, but for the peasants - for the weak among us.
 
+### Telling off Yoshihiro
+
+You speak as if you are the Emperor himself, without respect or humility. You lay back and drink yourself into stupors in your tiny castle in a tiny corner of our tiny lands, surrounded by criminals and addicts, and yet you condescend to those of us with standing and honor. How do you think it looks when you walk into the keep drunk, with blood on your fists, and straight into the rooms of the man who may be the next Koi Daimyo? You are not invisible and your influence is not unseen, regardless of whether we speak of your deeds. My guards see you, and they talk. They know your reputation, and if they know your reputation, then there are certainly many others who also do. Be better, Yoshihiro. Be more honorable, or be more invisible. The in-between is only hurting us.
+
 ## Tsuru - Duty and Sincerity
 
 Had responsibility thrust upon him prematurely, and handles it well. He does what he has to for the Koi while maintaining his honor and that of the Koi.
@@ -211,3 +214,20 @@ Haven't interacted with Seina much yet. Don't have a good idea of her character.
 * Sensei of the Koi Kenjutsu School
 * Accidental adversary
 
+# Goals
+
+## Improve the Koi Samurai
+
+They're currently kind of slapdash. Encourage good swordsmanship and strict adherence to Bushido.
+
+## Quash the Criminal Element
+
+There's clearly a crimial element in Koi lands. Yoshihiro is part of it, and has no qualms about referencing it, though he hides actual deeds from anybody important. Remove this element from Koi lands.
+
+## Instate Hanako as Governor of Enzan Province
+
+She'd be good at it. Maybe we make it a bit safer first.
+
+## Put my ancestors to rest
+
+Battle of the Hour of the Wolf and all that.

@@ -1,5 +1,155 @@
 # Notes
 
+## Session 7 - 5/12/20
+
+* Recaps lul
+
+### Bon!
+
+* Remembering and honoring all dead, forgotten or not
+* Moriko has been preparing for days
+	* Medicated rice balls to put restless dead to rest
+
+### Moriko Flashback
+
+* Seeking out the gaki to learn more
+* Went back to Kitayama
+	* Land is being tended by monks and peasants
+* Goes to Ichirai
+	* They discuss talking with gaki
+	* The monks will protect her
+* Moriko does some meditation
+	* Perfect white empty space
+	* Followed by sitting at a table across from a healthy young man - Gunto, also meditating
+	* Proper tea ceremony
+	* Been a while since he's talked to anyone - and is hungry
+	* He talks about food alot
+	* History
+		* Attacked by Lion clan
+		* Boats, fire, then here
+	* Mentions Fumetsu
+		* Tell him "Kakita Daifuke says 'bury me'"
+	* Moriko asks if this guy needs to be buried too
+		* He does
+		* He freaks out, vomits water
+	* Moriko promises to help him
+* Moriko finds Fumetsu, informs him of Kakita Daifuke
+* Preps rice balls with radish and fish sauce
+* Also herbal remedy, mixed into the rice balls
+
+### Night Before Bon
+
+* Battle (last session)!
+* Hanako is healed by Moriko
+	* Plus some stitches
+* Fumetsu was wracked with nightmares
+	* Piles of bodies
+	* Rivers of blood
+	* Daifuke dying after being shot with an arrow
+	* Fumetsu meditates on Daifuke in the morning
+* Tsuru sends a message to Seppun Akimitsu congratulating them on being SUPER EFFECTIVE
+	* Particularly Ayame, for capturing the assassin
+	* Offers assistance in bringing the assassin to justince
+
+### Morning of Bon
+
+* People are gathering wood for the Bon-fires
+	* They're huuuuuge
+	* Very impressive
+* Other folks are preparing food
+* The ceremony begins at sundown
+	* Led by monks
+* Fumetsu meditates by the lake, focusing on Daifuke
+	* Water spirit full of bones challenges him
+	* He wins the duel
+	* Wakes up wet, and with bones at his feet
+	* Takes them to the Shugenja-ladies for help
+	* Moriko identifies 4 individuals, but only 3 heads
+	* Kasumi divines
+		* Sees her sister, and 3 others leaving gakido
+		* One Lion, One Crane, Two Koi
+		* One Koi is the sister
+		* Other is unknown
+		* They may no longer be dangerous anymore
+* Kasumi, Moriko, and Fumetsu put the bones to rest
+	* Gunto gets his rice ball, and happily eats it with spirtual chopsticks (Brian's next solo project)
+	* Fumetsu doesn't feel any different, but trusts in the Koiven of Shugenja
+* MEANWHILE
+* Tsuru is attempting to get Haruto to do his duty
+	* And kind of failing? Haruto is bad at this.
+* Tsuru passes Seina in the hallway, doing basically the same thing for her husband
+* Yoshi... 
+	* Eating a lot of buns
+	* Drinking a lot of sake
+	* Wandering around picking things up
+	* Meets his dad
+		* Walking with a cane
+		* Mostly for show
+		* Actually pretty damn strong
+	* His dad scowls
+		* Calls Yoshi dishonorable
+		* Yoshi calls his dad dishonorable
+		* "Yoshihiro, listen to your father. I've seen terrible things in service to the Koi Clan. Clean up your act, or the afterlife will fuck you up. I don't want you to suffer that."
+
+### The party meets up for the festival
+
+* The ritual happens!
+	* It goes well
+* Otomo Sango approaches the group
+	* "An interesting couple of days"
+	* She's drunk on sake
+	* She asks who killed her cousin
+	* Tsuru: "Nobody knows the name"
+	* Sango: "Oh, that little wretch? Couldn't have been him. Couldn't have harmed a member of the imperial family who definitely has god powers."
+	* Yoshi: "lolwut"
+	* Tsuru: "Yeah, that guy, and was used for unsavory purposes."
+	* Sango doesn't seem surprised, but talks like she is.
+	* Kasumi knows that she's lying
+* Moriko catches the scent of jade-petal tea
+	* Used to prevent shadowlands taint from progressing or becoming contagious
+	* Taking it without being officially registered is very illegal
+	* A lot of people around, but probably from Sango
+* Otomo Sango drops On entirely
+	* Starts talking conspiracy theories
+	* Doji Azuki murdered Doji Shirayuki because succession
+	* Goes off for some sake
+	* Moriko mentions the smell of jade-leaf tea
+		* Tsuru says "but why?"
+		* Moriko says "only one reason"
+		* Tsuru says "watch what you're saying"
+* Yoshi puts some sake in her hand and tries to get any odd info out of her
+	* She's mostly just flirty and handsy
+	* Heading toward the shrine to jurojin
+	* She stops, falls to her knees and cries openly
+		* "Dark hour of the soul" kind of sobbin
+	* Repeating things like
+		* It's not fair
+		* My father (Otomo Jinshorou)
+		* We're damned!
+* Kasumi & Tsuru
+	* Sango was lying about the execution
+	* Chohiro sensed powerful forces
+		* Idealism in the shadows
+		* Ambition hidden in plain sight
+		* Not sure what that means
+	* May have more clarity in the morning
+		* Or at least less drunk
+* Moriko
+	* Meditation before sleep
+	* Moriko can no longer feel presence of gaki
+* Tsuru
+	* Servants bust into room
+	* Tamahide is dead
+	* OH SHIT TAMAHIDE IS DEAD
+	* Tsuru rushes to his bed, sees body
+		* It barely looks human
+		* Mess of tumors, cancers, growths, etc.
+		* Not rotten, but very body-horror cancer style
+	* "Chosu, wtf happened?"
+		* "Thought the box was working, but I guess it stopped"
+	* Tsuru takes the box
+* THE DAIMYO IS DEAD LONG LIVE THE DAIMYO
+
 ## Session 6 - 5/8/20
 
 ### Time is flexible

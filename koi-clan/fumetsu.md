@@ -31,7 +31,7 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 141
+Insight: (Rings * 10) + Skills = 151
 
 Rank: 1
 
@@ -41,9 +41,9 @@ Glory: 2.0
 
 Honor: 7.1
 
-Experience gained: 14
+Experience gained: 18
 
-Experience remaining: 8
+Experience remaining: 0
 
 ## Traits
 
@@ -52,10 +52,10 @@ Experience remaining: 8
 * Stamina: 3
 * Willpower: 2
 
-### Water: 2
+### Water: 3
 
 * Strength: 3
-* Perception: 2
+* Perception: 3
 
 ### Air: 3
 
@@ -168,6 +168,10 @@ Healing rate (stamina * 2) + Insight Rank = 7
 * Add twice Iajutsu (8) to initiative rolls
 * You gain a bonus of +1k1 plus your School Rank to the total of all attack and Focus rolls while assuming the Center Stance. This bonus also applies during the Combat Round following one in which you assumed the Center Stance.
 
+### Speed of Lightning (Rank 2)
+
+* You gain a bonus of +2k0 to the total of all attack rolls against those with lower Initiative than your own.
+
 # Relationships and Bushido
 
 ## Moriko - Honor and Courage
@@ -228,6 +232,6 @@ There's clearly a crimial element in Koi lands. Yoshihiro is part of it, and has
 
 She'd be good at it. Maybe we make it a bit safer first.
 
-## Put my ancestors to rest
+## Put my ancestors to rest - Done?
 
-Battle of the Hour of the Wolf and all that.
+Battle of the Hour of the Wolf and all that

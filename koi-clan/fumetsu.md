@@ -2,7 +2,7 @@
 
 ## Quick Ref
 
-* Initiative: 5k4 + 8
+* Initiative: 6k4 + 8
 * Defense: 6k4
 * TN to be hit
 	* No armor: 25
@@ -41,9 +41,9 @@ Glory: 2.0
 
 Honor: 7.1
 
-Experience gained: 18
+Experience gained: 30
 
-Experience remaining: 0
+Experience remaining: 4
 
 ## Traits
 
@@ -81,7 +81,7 @@ Experience remaining: 0
 	* + Void 3 = 7k3
 		* Focus emphasis
 	* + Reflexes 4 = 8k4
-* Investigation 2 + Awareness 3 = 5k3
+* Investigation 2 + Perception/Awareness 3 = 5k3
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 1 + Intelligence 2 = 3k2

@@ -1,5 +1,184 @@
 # Notes
 
+## Session 8 - 5/14/20
+
+* We're doing some focus! yes. Figure out what to focus on.
+
+### Morning After Bon
+
+* Tsuru meets with Moriko
+	* He thanks her for the Bon ritual and freeing restless dead
+	* He reinforces need for medicines, school, and Morikos work
+	* As well as supplying the imperial family with... exports
+		* She wants to combine medicinal and magical healing, and has little to do with... exports
+		* She worries that clan may have been misguided in regards to... exports
+			* Maybe a more honorable path is the way to go
+		* He thinks a new direction may be ill advised
+	* Otomo Sango wants to make sure... exports... continue
+		* If Moriko notices anything interesting, report it to Tsuru privately
+		* Moriko smelled jade leaf tea on Otomo Sango
+		* No other uses for jade leaf tea (but it's delicious, so there's that)
+	* Tsuru offers many resources to the school in exchange for stability
+		* Nothing about the medicinal obligations should change
+* Breakfast club
+	* Yoshi implies that he's gonna romance Otomo
+	* Fumetsu gifts Yoshi some sake
+		* Yoshi flagrantly ignores the "refuse twice" rule
+	* Yoshi thanks Moriko for curing the assassin
+	* She suggests she has a treatment for opium addiction
+* Various discussions
+	* Tamahide died within hours of the Bon festival
+		* Yoshi suggests this is not coincidence, but maybe causation
+		* Tsuru suggests Tamahide was waitinf or Bon, in order to find comfort
+			* Kasumi: The veil is thinner then. Maybe the box failed.
+			* Tsuru: wHaT BoX!? WHaT bOx!?!
+	* Yoshi talked with Otomo Sango
+		* He relays her words
+			* "We're damned"
+			* "My father"
+			* "It's not fair"
+		* He gon' poison her
+	* Kasumi relays her magical results
+		* Otomo was lying about the "execution"
+	* Tsuru suggests Yoshi should get closer to Otomo Sango
+		* Her info could be invaluable
+		* Maybe use some tax collectors
+			* "Nah, I'm gonna get close to her on my own"
+		 	* Giggity
+	* There are fears that Sango may use this against the Koi
+		* We understood that only Tamahide only knows the recipe
+	* Emerald magistrate
+		* Fumetsu suggests cooperation
+		* But with education - investigation
+		* But we should not suggest the Otomos are to blame
+	* Tsuru suggests Fumetsu watches Otomo Sango
+		* Keep track of meetings with diplomats
+		* Keep track of movements in general
+		* Under the guise of protection
+	* THE PLAN
+		* Yoshi gets info directly
+		* Kasumi... does... diviney things? probably? I missed it.
+		* Moriko's mom probably has info regarding Otomo's interaction with Medical School
+		* Fumetsu will guard Otomo Sango
+		* Tsuru may study the box WHAT BOX
+		* Moriko may also research Shadowlands Taint
+	* At the end
+		* Yoshi and Kasumi talk
+		* She apologizes for her actions at the Filthy Pond
+		* She offers favors for his part in her honor and glory in front of the imperials
+		* "It was simpler in the old times"
+			* "Words complicate things now"
+
+### THE EXECUTION
+
+* No wait, maybe that's an inappropriate term
+* Yoshi writes a letter to Sango
+	* Implies things happened last night
+* Fumetsu talks to Hanako about guarding Otomo Sango
+	* Sango may be in danger, and a danger herself
+	* They're cute AF
+	* She thinks it's dangerous, brave, and a good idea
+* Moriko finds her mom
+	* Has mom had any interaction with Otomo Sango?
+		* Yep. Been a great patron of the school.
+	* Moriko is looking for some less-common knowledge of Sango
+		* Fond of jasmine tea
+		* Any OTHER teas mom!?!?! ANY OTHER TEAS!?!?!
+		* Oolong, once she picked up the jade-leaf shipment when Kuni Ryuske couldn't do it
+* Jade-leaf tea details
+	* Moriko's brother (Mitsugi?) handles the brokering of it
+	* Witch Hunters distribute to those in need
+* Fumetsu goes to find Otomo Sango
+	* She's got a whole wing. Multi-room suite.
+	* Greet, bow, sit, etc.
+	* "We're concerned with your safety"
+	* "No really. Let me guard you."
+	* "NO REALLY"
+	* "Ugh okay"
+	* Yoshi's letter arrives just then
+		* It's super flirty. Scented, calligraphy, wax seal with two bears fucking.
+		* It's pretty coy. FUCKING KOI.
+		* She asks Fumetsu about Yoshi
+			* "He is a Koi samurai in good standing with the leadership"
+			* Will you protect me from him? I've heard not good things.
+			* "I am sworn to protect you, and I will do what I must"
+* Moriko finds her brother arguing with Kuni Ryuske and Yasuki Danbe
+	* Mitsugi demands 20% over our rates (like Seina said)
+	* Ryuske is negotiating
+	* They notice Moriko
+		* She has an idea about anti-taint techniques
+	* Ryuske "FINE. Talk to Danbe. I can't stand to talk to you fish anymore."
+	* Danbe's cool with it. Might as well give it a shot.
+	* She asks for a person with the taint, Danbe has one.
+		* Damn he's a creep. Fuckin' Danbe.
+* Kasumi & Tsuru... shared a look
+	* They might have an understanding... about... who Otomo Sango might meet?
+		* Ryan is very confused about this
+		* Probably some divination stuff
+	* Tsuru seems stressed
+	* Tsuru mentions the box WHAT BOX
+		* Maybe she should figure it out
+	* Kasumi asks about samples of Otomo Sango's handwriting
+		* Yep, got some
+		* She'll find Hachi and get some docs
+		* They're filed alphabetically I guess
+* Yoshi gets a reply. In a box.
+	* It's pretty. And formal. Not obviously from Otomo Sango.
+	* Yoshi is thinking he may be poisoned by it
+	* He opens it, finds a parchment.
+	* "I've been having a vermin problem. Tell your servants."
+	* AND THERE'S A DEAD RAT WTF IT'S GOT A KNIFE WOUND IN IT AND ITS NECK IS SNAPPED
+* Yoshi heads to the castle to find Kasumi
+	* Find a private room
+	* He brought the box with the rat
+	* Recounts the letter he sent Sango
+	* Maybe do some divination with this stuff?
+		* Maybe
+	* Maybe find some way to woo her
+		* WITH A RAT WTF? Kasumi can try
+	* DIIIIIVVVVIIIIINNNNAAAAATTTIIIOOOOOOOOONNNNNNN
+		* Sticks imply Sango is unable to rest
+		* If someone were to slay the demons of her nightmares, she would be forever grateful
+	* Kasumi might be able to do that stuff. Moriko too, maybe?
+	* Yoshi suggests indebting Sango to the Koi - using Kasumi's and Moriko's gifts
+	* Kasumi casts a spell on the rat
+		* Vision of Sango composing a letter, servant brings a dead rat, she stabs it
+		* Fumetsu saw this whole thing. She said it was a letter from a suitor from the capitol.
+* Yoshi responds
+	* Offers nightmare cures
+	* Something about true suitors taking care of the object of their affection.
+* Moriko heads to the dungeon with Danbe
+	* A woman pulling her hair out, showing age - Kiku
+		* Used to be young... recently
+		* Side of her face is discolored - purple, extra ridges from odd bone
+	* "Did you bring any meat?"
+		* Ew, gross, wtf, how rude
+		* "Nope, but how about some relief?"
+	* Doing some meditation!
+		* Thoughtscape
+		* Kiku was normal a few days ago
+		* happy, skipping, with her child
+		* Figure steps out of trees
+			* Sickly person and mangy fox at the same time
+		* It hands a flower to Kiku, who sniffs it, and then screams
+		* Features mutate, third eye opens, etc.
+		* Fox is no longer mangy, person is no longer sickly
+		* "It's not her fault. We were forced upon her, but we'll take the body."
+		* The baby is fine
+		* "You can free her, you know. You can get rid of us. We hate [some herbs]."
+		* "We'll be gone forever. From her."
+		* Where will they go?
+			* Chikoku. Enzan. Maybe back to Sango.
+		* Is there a way to make you feel at rest?
+			* Yep, but we'll tak about that next time.
+		* Figure that is water-kami-like, but black and corrupted
+			* "We are in great pain, but first care for this woman."
+			* Moriko bows, Kasumi bows
+	* Kiku is on the floor, the third eye looking all over
+	* Moriko thanks Kiku, no real response: "Hungry" :twitch:
+	* Danbe thought that was interesting
+		* So did Moriko
+
 ## Session 7 - 5/12/20
 
 * Recaps lul

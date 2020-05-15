@@ -178,6 +178,9 @@
 	* Moriko thanks Kiku, no real response: "Hungry" :twitch:
 	* Danbe thought that was interesting
 		* So did Moriko
+* Yoshi found the dead drop - there's a letter
+	* It's in code
+		* Not entirely deciphered, but part is "Otomo Sango" and "Kill"
 
 ## Session 7 - 5/12/20
 

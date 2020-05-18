@@ -1,5 +1,270 @@
 # Notes
 
+## Session 9 - 5/17/20
+
+### Breakfast!
+
+* Fumetsu's findings
+	* Otomo Sango will meet this evening with two high-ranking Emerald Magistrate
+		* They report directly to the Emerald Champion
+		* Doji Atsuki (he/him, Crane) and Mirumoto Kaoru (she/her, Dragon)
+	* Extra funeral attendees
+		* Clan champs of Sparrow, Hare, Fox are coming
+		* Provincial governors of Doji, Daidoji, and Bayushi
+		* Otomo Sango for imperials
+* Discussion of Yoshi's involvement
+	* Tsuru suggests that "a fly on the wall" would be damn useful
+	* Fumetsu thinks that fly on the wall might be him?
+* Maybe with important people around, we should be on our guard at the funeral
+
+### Kasumi & Tsuru
+
+* Investigating the box - find out how Tamahide died
+* Kasumi meditates on the box
+	* Barriers between realms
+	* Horde of Gaki pounding on a thick window on the other side of Tamahide's room
+	* They're angry, frustrated, hungry and behind a barrier
+	* There's a funnel from one side to the other
+		* Gaki are able to get through, slowly
+		* The funnel is small because of the box
+	* Gaki hover above Tamahide and suck the void from his body into themselves
+		* Then run around the mortal realm
+	* Tamahide's body inflates with corruption, from the inside
+	* Tumors grow to enormous size out of every part of his body
+	* Gaki get more angry, some frenzy, some just leave
+	* Population decreases significantly right before he dies
+* Did the gaijin do good things or bad things?
+	* Probably bad things because gaijin
+* Divination about what might happen when they open the box
+	* "The masters of the gaijin beetles across the sand weild the magic of life and death."
+	* Karmic link between those masters and Tamahide
+	* Nothing about what happen if they open it
+	* This is gaijin magic and incredibly foreign
+* They discuss opening the box
+	* Kasumi: It's dangerous!
+	* Tsuru: Nah, it'll be fine
+	* It's actually pretty illegal
+
+### Moriko
+
+* Going out to find some herbs
+	* Definitely need raw jade plant
+* See Mitsugi for the jade plant
+	* He's super in mourning
+	* Says seeing Moriko makes him smile SUPER CUTE
+	* He's also skeptical about getting any jade leaf
+	* Doesn't want to short-change the witch hunters
+	* Moriko says maybe she can talk to them
+	* Mitsugi thinks NOPE PROBABLY NOT
+	* Perhaps if this works, the witch hunters might want to train here
+	* Moriko gets her jade shake so she can make edibles
+	* Mitsugi is envious of talents, but happy for Moriko
+		* THEY'RE SUPER CUTE
+* Making medicine with jade leaves
+	* 7-day dose for one person
+	* GREAT SUCCESS
+
+### Fumetsu
+
+* At Otomo Sango's office in the keep
+	* She's super extra in her white morning clothes
+* She is in conversation with a Fox clan diplomat
+	* Kitsune Oshiron (he/him)
+	* Wearing a wakizashi and garb associated with a priest/shugenja
+* They're discussing the war
+	* Oshiron: "The Hare are using dirty tricks to win. Probably blood magic."
+	* Sango: "That would be most unfortunate for them."
+* Rumor
+	* Nobility of the Fox clan thinks the Koi are pretty spooky
+	* And their lands are literally haunted forests
+* Meets other minor people
+	* Koi-clan people
+	* Platitudes etc.
+
+### Yoshihiro
+
+* Going to spy in the castle
+	* Disguising as servant
+	* Puts on servant's clothes
+* Meets head servant
+	* GET TO THE KITCHENS
+* Yoshi heads toward the kitchens, but ACTUALLY toward Sango's chambers
+* Tries to find a way into a room next to Sango's
+	* It's Koharu's room
+	* He poses as a servant sent to clean Koharu's room
+	* She recognizes Yoshi's eyes
+		* Has his mother's eyes
+		* "Are you a dishonorable bastard?"
+* Hare clan representative is meeting with Sango
+	* Yoshi listens in on...
+* Usagi Hiroji (he/him) and Otomo Sango
+	* Fumetsu hears this stuff too
+	* Nowhere near the polish of Kitsune Oshiron
+	* Observes the minimum of etiquette, but kind of boorish
+	* Begs Sango to intercede on behalf of the Hare
+		* "Filthy accusations by the fox"
+		* Polite non-answers by Sango
+		* Hiroji is very upset
+* Dancing around discussing blood magic
+	* No break in On from Sango
+* Koharu eventually comes back
+	* Yoshi is still "cleaning"
+	* She's super disappointed
+		* Knows he's Natsuo's descendent
+		* "Good for nothing"
+	* She grabs his ear
+		* Forces Yoshi to actually do chores
+		* For an hour
+	* "Send someone more confident next time"
+	* Yoshi has to resist murdering her
+
+### Moriko
+
+* Heads to the dungeon with her remedies (with Yasuki Denbe)
+* Denbe
+	* "Someone has brought you a tasty snack"
+	* He's a creep
+* Kiku remembers Moriko
+	* Three eyes blink
+	* She's in pain
+* Moriko offers the remedy
+	* Kiku hesitates, looking for approval from the guards
+	* But takes it
+* She eats the rice ball
+* Denbe taunts Moriko about the rice ball as medicine
+* Kiku finishes
+	* She feels better
+	* Head doesn't hurt as much
+	* Nothing immediately changes, but that's kind of expected
+	* She wants a blanket, and Moriko offers one
+* Denbe and Moriko leave
+* GREAT SUCCESS (so far)
+
+### Kiku Discussion
+
+* Asking about Kiku
+	* Koi jail, but captured by the witch hunters
+	* Cell key-turner is Koi
+	* Witch-hunters would normally kill her, but...
+		* They're curious about how she got so tainted
+		* Moriko's experiment
+
+### Tsuru
+
+* Picks up the box, looks at it
+* Puts it down
+* Paces
+* Looks at the box
+* Gets a quill and an ink-well and looks at the box
+* Stands up
+* Picks up the box, walks to the window
+* Back to the desk
+* Puts the box on it
+* Sits down
+* Goes to closet, opens it, almost puts the box in it
+* Closes the closet
+* Turns around, sits at desk with the box
+
+(Cat break)
+
+* Puts the box in the closet, closes the door
+* Writes a letter
+	* Dear most honorable Box
+	* Crumples the paper, throws it out
+* New Parchment
+	* "On this somber day, my heart is heavy and my box is full of"
+	* AW CRAP throws it out
+* Goes for a walk instead
+* Runs into Kuni Ryuske
+	* Wearing white robes and no creepy makeup
+	* Somber appropriate greetings
+	* Ryuske rants about how things aren't safe
+		* People are getting murdered by assassins
+		* Tamahide is dead
+		* Horifically tainted individual the dungeon
+		* People are getting murdered by hungry ghosts
+		* A bloodspeaker did something horrible in the cellar
+	* Tsuru: "Cool, so what advice do you have?"
+		* "Not much, bro. The evil is pretty shielded, but it seems all connected."
+		* "Shadowlands corruption may be the sixth element that constructs our universe"
+		* "All I got is a horrible ritual and Kiku in the dungeon"
+	* Tsuru: "Could Kiku be the bloodspeaker?"
+		* "Nah, she's weak. Not strong enough to be a bloodspeaker."
+		* "Also, hey, there's this ritual where a bloodspeaker syphons their own taint off to somebody else."
+	* Tsuru: "If that's true, then there's no justice. The taint is the punishment. It's the indicator."
+	* Danbe appears - "Then something must be wrong with the celestial order."
+		* Ryuske: "Rude."
+		* Danbe bows mockingly
+	* Ryuske: "Tsuru, you're wise."
+		* Many books on taint and the celestial order
+			* It's based on a cosmology that is not approved by the Emperor
+				* wtf
+	* Tsuru asks about jade leaf production
+		* Going good. Koi will get their cash.
+	* Tsuru asks whether Koi can help with Witch Hunter investigation
+		* More witch hunters are coming
+	* Also asks about Bandit Camp investigation
+		* Hanako came out clean
+		* Not sure what the blood mage was doing
+			* Murdered three pilgrims, nearly killed Hanako
+			* That's a lot of energy - powerful dark spells
+		* Might be the one in the basement - not sure
+	* How about Kitsune Tomo?
+		* Witch hunters have been looking for him
+		* Suspected blood magic use
+		* Tomo might be a ghost, or a pseudonym
+	* Tsuru thanks him
+* Continues walking
+
+### Kasumi
+
+* Comparing Otomo Sango's writing to script found in the bandit camp
+	* It's the same! AAAAGGGHGHGHGHG!
+* Deciphering stuff
+	* Got it! We'll know the text later.
+
+### Fumetsu
+
+* (Also Yoshi eavesdropping from the next room)
+* Emerald Magistrate are badasses
+	* Buff, hold themselves well
+	* Expensive armor and swords
+	* Sexy
+	* Crane are cool, Dragon are wierd
+		* Though this Dragon doesn't have a lot of tattoos or anything
+		* Pretty normal
+		* But sexy. It's important.
+* They give Sango a missive from the Emerald Champion
+	* She briefs them on recent events
+		* Murder
+		* Gaki
+		* Basement Blood Magic
+		* Banditry in next province
+	* "Keep the dignitaries safe, please. Investigate the murder starting tomorrow."
+	* "We're looking for a bloodspeaker cult... I think. I assume that's who killed Doji Shirayuki."
+
+### Tsuru's Office
+
+* We're all there!
+* Fumetsu says guarding was not very useful
+	* Yoshi says it was boring
+* Moriko narrates her encounter with taint
+	* The taint entered Kiku from another woman
+	* It might return to Otomo Sango
+* Kasumi reveals the handwriting comparison
+	* And cypher translation
+	* "If you want me as a patron, test this spell please. You'll have a steady supply of pilgrims coming through. Here it is! I expect results. Or else. We'll be in touch. - Kitsune Tomo"
+* We have a plan!
+	* Strong medicine will send taint back to Sango
+	* Make sure this happens when she's in public
+	* Maybe send an anonymous message with a magic bird
+	* And make sure the proper authorities get the Kitsune Tomo cypher plus a copy of Sango's handwriting
+
+### CLIFFHANGER
+
+* We hear a horse, and see THE GAIJIN out the window
+
+
 ## Session 8 - 5/14/20
 
 * We're doing some focus! yes. Figure out what to focus on.

@@ -2,7 +2,7 @@
 
 ## The Whole Shebang
 
-[Document is here](https://docs.google.com/document/d/16BTqzdzNAX0ZxDa5pSQjAgGEz2OliWqZhS-fo9UOCUE/edit#heading=h.23gu1x9q6lig)
+[Folder is here](https://drive.google.com/drive/u/0/folders/1RicQzQV5ue2Zf7diQGLAYi1BHpr15btR)
 
 ## Lineage
 
@@ -51,32 +51,4 @@
 
 ## NPCs
 
-### Chozu
-
-* Head monk of Temple to Jurojin
-* Recently lead advisor to Tamahide
-
-### Otamo Sango
-
-* Granddaughter of Emperor
-* Has been a liason between Imperial Family and Tamahide
-* Told us the Koi is in deep shit if the shipments stop
-
-### Bu
-
-* Peasant connection of Yoshi
-* Knower of stuff
-
-### Umiko
-
-* Chief magistrate of Chuugan Province
-
-### Doji Shirayuki
-
-* Emperor's greatneice
-* Second in line for Emperor
-* Daughter is fourth
-
-### Miya Oshin
-
-* Herald of the imperial family
+[List of NPCs is here](https://docs.google.com/spreadsheets/d/1Rw9Pvo8UJNj0pCtbT-cw5RmFiPS_c31ZVgR14m6H4Sw/edit#gid=0)

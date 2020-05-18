@@ -115,7 +115,7 @@
 	* She grabs his ear
 		* Forces Yoshi to actually do chores
 		* For an hour
-	* "Send someone more confident next time"
+	* "Send someone more competent next time"
 	* Yoshi has to resist murdering her
 
 ### Moriko

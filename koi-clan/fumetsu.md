@@ -39,11 +39,11 @@ Status: 3
 
 Glory: 2.0
 
-Honor: 7.1
+Honor: 6.1
 
-Experience gained: 34
+Experience gained: 38
 
-Experience remaining: 8
+Experience remaining: 12
 
 ## Traits
 

@@ -1,5 +1,236 @@
 # Notes
 
+## Session 10 - 5/19/20
+
+### Oh Shit a Gaijin
+
+* Kasumi reveals her divination
+	* The Gaki fed on blackness/void/corruption in Tamahide
+	* Dined and dashed into the mortal realm
+	* When the Gaki population dropped, Tamahide died
+* Yoshi thinks maybe we need somebody else to feed the Gaki
+	* Who should it be?
+* Is the Emperor dead? Is he dying?
+	* Would that be bad?
+* Tsuru: ISN'T THERE A GAIJIN TO GREET?
+	* We'll go do that (everybody leaves Tsuru alone)
+* Tsuru writes a letter
+	* "Dear honorable Otomo Sango"
+	* I think we have stuff to talk about. Let's do it.
+
+### Greeting the Gaijin
+
+* Approach the stable
+	* Stable boys cowering from the stallion
+	* To them it looks like a demon horse
+* He waves and greets us
+	* Fumetsu and Al-Hazeem recognize each other
+	* "Y'all sad?" "Yeah, we're sad."
+* Yoshi recognizes some of his mannerisms
+	* Unicornish
+	* May talk commerce later
+* He's pretty stupid important
+	* Has papers to prove it
+* Kasumi asks how he knows Tamahide
+	* Gaijin says he'll talk about that stuff later
+	* Tell stories and stuff
+* Yoshi leads the gaijin to the... mourning chamber?
+	* Asako Koharu is there in mourning white with koi and phoenix patterns
+		* Fussing
+		* Remaining stoic
+		* A little bit of puffy eyes
+	* Yoshi introduces the gaijin
+		* "That's an awfully presumptuous tone for a servant" (lul)
+		* There's an "ah-ha" moment from Koharu
+		* He presents the gift
+			* She opens it
+			* Everyone dies
+			* j/k It's a crystal lotus flower
+			* Super fancy
+			* "The least I can do to honor Tamahide"
+			* Yoshi offers to take it
+				* Koharu says "No, you'll steal it"
+* Yoshi and Gaijin walk to funeral site
+	* "How long have you known Tamahide?"
+		* 25 years?
+		* It's a generational thing
+	* "Do you have similar clients throughout Rokugan?"
+		* Nope. He's unique.
+	* "We'll have to replace him?"
+		* Good luck. He's not easily replaced.
+	* It's a time for thinking about the dead and sadness
+
+### Tamahide's Funeral
+
+* At the temple to Jurojin
+* Fumetsu
+	* Hanako is wearing robes over armor, full daisho
+	* Finds Otomo Sango
+* Otomo Sango
+	* Wearing the richest clothes
+	* Paragon of etiquette
+	* To Fumetsu
+		* "My deepest sympathies. This is a hard day. Tamahide was a great man."
+		* "The holy emperor will mourn as well."
+		* Fumetsu bows, etc.
+		* "You're expecting trouble?"
+			* "Yep. Always."
+* Cho(z|s)u speaks
+	* It's a good speech
+	* Heartfelt, sincere, but generic
+		* Elevated his ancestors from ronin to the high status of a minor clan
+		* Friend of the emperor
+		* Everybody should be like Tamahide and raise that status of ancestors
+		* Tamahide will be rewarded by coming back as something important
+		* IF HE'S NOT ELEVATED TO THE PURE LANDS OF ENLIGHTENMENT
+		* Such niceties
+* Koharu says some stuff
+	* Her childhood
+* Haruto as acting daimyo lights the pyre
+	* Bids fond farewell
+	* Chokes up
+	* Breaks On
+	* He actually does pretty well
+	* Expected him to be much more embarrassing
+* White shroud, tied to the pyre, rough outline of a human
+	* The silhouette of the figure is misshapen
+	* Pyre goes up in flames. Body is slowly consumed. It's gross.
+
+### After the Funeral
+
+* Yoshi looks for everybody
+	* Gathers Kasumi and Moriko
+	* Tsuru is mourning
+		* Yoshi eventually makes contact
+	* Fumetsu is guarding Sango
+* Everybody except Fumetsu goes to drink with the Gaijin
+	* Yoshi sends for bottles from the Filthy Pond
+	* Gaijin says he has enough to share
+	* Too late, Kasumi already hit "checkout" on Grubhub
+	* People are pretty apphrensive about al-Hazeem
+* Banquet hall drinking time
+	* Gaijin brought date/fig wine
+		* Both and/or combination
+	* Toast to Tamahide
+		* May his spirit find peace in the next life
+* Story time! al-Hazeem tells a story
+	* 80 years ago
+	* After he was cast out from Crane
+	* He came to grandfather's city looking for church
+	* Met Grandpapa
+	* Most of what I know is passed from grandfather to father
+	* Several years in Med'net Al'Salaam
+		* Cosmopolitan city
+		* Many kinds of people
+		* Many secrets to be shared
+		* Not at all like Rokugan
+	* (Nobody knew that Tamahide left Rokugan)
+	* Last time he saw Tamahide was 15 years ago in Unicorn Lands
+	* Last time Tamahide went was 40 years ago
+	* Tells funny tales about grandfather
+* Tsuru
+	* wonders whether al-Hazeem knows what happened to Tamahide's family
+		* Killed by bandits or an enemy army
+		* Doesn't know why
+	* Why would he go?
+		* Things had changed. He lost his family. Can you blame him?
+* Yoshi
+	* "Tamahide lived for a long time. Did your people have anything to do with that?"
+	* al-Hazeem is failing to understand the subtext
+* Tsuru
+	* "Did Tamahide learn anytjing from the gaijin?"
+		* From me, no. From the Senpet, yes.
+		* They're totally ancient egyptians.
+* al-Hazeem doesn't know what exactly he knew
+	* Drops the name "Hekatimut"
+	* They studied together
+		* Philosophy
+		* Cosmology
+		* Other... experiments
+	* Senpet don't travel
+* Yoshi wants info
+	* What does al-Hazeem trade in?
+		* Arts (like the lotus)
+		* Spices
+		* Scented oils
+		* Whatever makes bank
+	* Can they make a deal?
+		* Not tonight
+* Moriko is kind of shocked the entire time
+* Yoshi and al-Hazeem are best friends now
+* Isn't it funny that Emperor calls himself immortal god, but needs gaijin magic?
+	* Yoshi stifles a laugh with a cough
+	* Tsuru and Kasumi trade significant looks
+	* Prooooooobably good Fumetsu isn't there
+	* Tsuru responds
+		* If the secret to immortality was a simple trick Tamahide would still be here
+		* Good point, but Senpet magic always comes with a cost
+	* Yoshi: What was the box?
+		* Senpet trinket to help him
+* al-Hazeem talks of fish eating dead skin, maggots eating corruption from a wound, and leeches sucking infected blood
+	* Tsuru has had enough
+* Moriko confirms that's how shit works
+* Kasumi reveals that Tamahide was the Gaki's feudal lord
+
+### Back at the funeral site
+
+* Sango watches the ceremony
+* Fumetsu escorts her back to chambers
+* Asks him to act as an agent of the Koi Clan
+	* Desperate missives regarding the next dose of medication
+	* She's afraid of what will happen if he's unable to get it
+	* She's spoken to Haruto and to Tama and they don't know how to get it
+	* They talk about the "exports" and how well-kept of a secret it is
+
+### Overnight
+
+* Moriko makes some medicine
+	* Better dose of the shadowlands stuff
+
+### The Next Morning
+
+* At dawn, Moriko hears a frantic rap on the door
+	* Servant from the castle
+	* Something strange happened at the jail
+* Goes to the jail
+	* Brings old medicine, new medicine, and a blanket
+	* Kiku only has two eyes (nice!)
+	* Kinda still has cancerous growths, but they're better
+	* Small depression where third eye was
+	* Takes a dose of old medicine
+
+### Breakfast Club
+
+* Moriko relays her info
+	* Stronger dose of the medicine
+	* Administering to Kiku
+	* SUCCESS
+	* Sango didn't seem any different though
+* Fumetsu relays Sango's worries about exports
+	* Everybody's worried about that
+* Moriko suggests sending incense to emperor
+	* And putting him... at peace
+	* Everybody is horrified at the suggestion
+	* And it would probably not be the greatest idea
+* We need to save the clan
+	* But fucking how
+* Moriko
+	* Was nervous to bring it up, but seems necessary
+	* SAW TAMAHIDE CREATING A MEDICINE IN HER WORKSHOP HOLY SHIT
+	* PROBABLY THE EXPORT
+* Maybe we could find the recipe?
+	* Divination? No. probably not.
+	* Moriko maybe saw the making of it
+	* Can we figure it out?
+* We need to know the ingredients
+	* Something about the Gaki... Moriko saw them that night
+	* She has been a target since then
+	* She will not have a hand in making this elixir
+
+### Next Session Planning
+
+* Tsuru has a plan. It's very complex. And Ryan is very tired.
+
 ## Session 9 - 5/17/20
 
 ### Breakfast!
@@ -1354,7 +1585,7 @@
 	* Long forked black beard
 	* Olive-colored skin
 * Tsuru steps up "What is the meaning of this?"
-	* "Is not worry, is old friend. Al-Hazim is here to say goodbye."
+	* "Is not worry, is old friend. al-Hazeem is here to say goodbye."
 	* Clearly a gaijin (foreigner)
 * Kasumi casts a spell to learn stuff about him
 	* Mood is "concerned"

@@ -1590,7 +1590,7 @@
 * Kasumi casts a spell to learn stuff about him
 	* Mood is "concerned"
 * Yoshi says "Welcome, thank you for your presence."
-* Chozu tells Al-Hazim that he must leave
+* Chozu tells al-Hazeem that he must leave
 	* "Don't worry, this won't take long."
 * Whole room is stunned
 	* Pushes aside Haruto
@@ -1604,15 +1604,15 @@
 * Kasumi wants to identify/detect magic
 	* Tabling this for now, because details not filled in
 	* Succeeded on the spell
-* Yoshi fallows Al-Hazim
+* Yoshi fallows al-Hazeem
 	* Walking with "big dick energy" to leave the building
 	* Yoshi double-times to reach him
 	* Yoshi: "Sir, can I have a moment with you?"
-	* Al-Hazim: "Yes. Whaddya want?"
+	* al-Hazeem: "Yes. Whaddya want?"
 	* Yoshi: "I know how important you are for what we do."
-	* Al-Hazim: "Okay. Is this all you want to say?"
+	* al-Hazeem: "Okay. Is this all you want to say?"
 	* Yoshi: "Can we continue our relationship?"
-	* Al-Hazim: "Yep. Don't worry. Don't find us, we'll find you. You are a small man in this machine."
+	* al-Hazeem: "Yep. Don't worry. Don't find us, we'll find you. You are a small man in this machine."
 	* He smiles kindly and leaves. Guards aren't challenging him.
 	* Leaves on a black stallion waiting for him - not Rokugani
 * Tsuru says we'll find whoever put this curse on Tamahide
@@ -1620,9 +1620,9 @@
 * All but closest kin leave
 	* Tsuru stays
 	* Haruto asks all sorts of questions
-* Kasumi reveals to Yoshi and Fumetsu Al-Hazim's concerned mood
+* Kasumi reveals to Yoshi and Fumetsu al-Hazeem's concerned mood
 * Yoshi reveals what he saw
-	* Has ideas regarding nature of relationship with Al-Hazim
+	* Has ideas regarding nature of relationship with al-Hazeem
 	* Trading relationship? Maybe only w/Daimyo?
 * Kasumi searches her knowledge
 	* The Burning Sands - desert home to nomadic tribes

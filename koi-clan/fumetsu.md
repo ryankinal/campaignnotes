@@ -22,7 +22,6 @@
 	* Honor
 	* Sincerity
 * INCLUDE YOUR WIFE - CALL HER HANAKO
-	* Maybe suggest that she should be governor of Enzan
 * SPEND YA DAMN VOID POINTS
 
 ## Basic Info
@@ -31,19 +30,19 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 151
+Insight: (Rings * 10) + Skills = 161
 
-Rank: 1
+Rank: 2
 
 Status: 3
 
 Glory: 2.0
 
-Honor: 6.1
+Honor: 6.0
 
 Experience gained: 38
 
-Experience remaining: 12
+Experience remaining: 0
 
 ## Traits
 
@@ -73,21 +72,21 @@ Experience remaining: 12
 
 ## Skills
 
-* Courtier 2 + Awareness 3 = 5k3
+* Courtier 3 + Awareness 3 = 5k3
 * Defense 2 + Reflexes 4 = 6k4
-* Etiquette 2 + Awareness 3 = 5k3 
+* Etiquette 3 + Awareness 3 = 5k3 
 * Iajutsu 4
 	* + Awareness 3 = 7k3
 	* + Void 3 = 7k3
 		* Focus emphasis
 	* + Reflexes 4 = 8k4
-* Investigation 2 + Perception/Awareness 3 = 5k3
+* Investigation 3 + Perception/Awareness 3 = 6k3
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 1 + Intelligence 2 = 3k2
 * Lore: History 1 + Intelligence 2 = 3k2
 * Lore: Heraldry 1 + Intelligence 2 = 3k2
-* Sincerity 2 + Awareness 3 = 5k3
+* Sincerity 3 + Awareness 3 = 6k3
 * Tea Ceremony 1 + Void 3 = 4k3
 
 ## Disadvantages
@@ -124,7 +123,7 @@ Reflexes * 5 + Armor + 5
 
 * Healthy (TN +0) = 10
 * Nicked (+3) = 14
-* Grazed (+5) = 18 - 
+* Grazed (+5) = 18
 * Hurt (+10) = 22
 * Injured (+15) = 26
 * Crippled (+20) = 30
@@ -218,6 +217,12 @@ Haven't interacted with Seina much yet. Don't have a good idea of her character.
 * Sensei of the Koi Kenjutsu School
 * Accidental adversary
 
+## Daidoji Sato (She/Her)
+
+* Sister, Crane Clan
+* Married into Daidoji
+* Most trusted friend
+
 # Goals
 
 ## Improve the Koi Samurai
@@ -226,7 +231,7 @@ They're currently kind of slapdash. Encourage good swordsmanship and strict adhe
 
 ## Quash the Criminal Element
 
-There's clearly a crimial element in Koi lands. Yoshihiro is part of it, and has no qualms about referencing it, though he hides actual deeds from anybody important. Remove this element from Koi lands.
+There's clearly a criminal element in Koi lands. Yoshihiro is part of it, and has no qualms about referencing it, though he hides actual deeds from anybody important. Remove this element from Koi lands.
 
 ## Instate Hanako as Governor of Enzan Province
 

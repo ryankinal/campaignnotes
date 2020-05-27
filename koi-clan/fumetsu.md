@@ -40,9 +40,9 @@ Glory: 2.0
 
 Honor: 6.0
 
-Experience gained: 38
+Experience gained: 42
 
-Experience remaining: 0
+Experience remaining: 4
 
 ## Traits
 

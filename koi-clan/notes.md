@@ -1,5 +1,188 @@
 # Notes
 
+## Session 11 - 5/26/20
+
+### Possible diviniations
+
+* "Can the clan survive without the exports?"
+* Kitsune Tomo?
+* "What happened with Tamahide's family?"
+
+### Yoshi meets with Tsuru
+
+* In their usual spot - Zen Gardens I guess
+* Walkin and talkin
+* Yoshi suggests forcing Moriko to make the elixir
+	* She has knowledge of herbs
+	* She has knowledge of Gaki
+	* Make her do it
+	* She has the best shot at it
+* Tsuru
+	* How do we know it works?
+		* Test it on Yoshi
+	* We need a contingency plan
+		* We kill the Emperor
+		* No wait the Fox kill the Emperor
+		* But it's really us
+* What's more complicated?
+	* Killing the Emperor and making it look like the Fox
+	* Or actually making the elixir
+* What happens when we actually make the elixir?
+	* Will the Emperor die anyway?
+	* Like Tamahide?
+* They argue for a while
+* Tsuru orders Yoshi to frame the Fox
+
+### Tsuru & Kasumi
+
+* She divined
+	* "The fortunes of the Koi have passed through a weir. You can’t go back the way you came - it is forever closed to you. You can only move forward, toward the new and frightening. But beware! A weir is a trap set by beings far more powerful than yourself.""
+* She interprets this as "we can't make the export"
+* The only way forward is forward
+* There are fishermen on the banks
+* Something something
+* Arguing over sake
+
+### Fumetsu & Chozu
+
+* Tamahide's techniques
+	* Are they honorable? Nope.
+	* Bad spiritually too.
+	* Fumetsu already knows that
+* Any secrets you can reveal?
+	* Hermit Buun - Yoshi might know him
+* The Koi as you know it died with Tamahide I think you have the ability to see the clan reborn
+* The emperor does what the order demands
+	* How could that be wrong?
+
+### Fumetsu & Yoshi
+
+* Fumetsu walks into the Filthy Pond
+	* Criminals scatter
+* Can we find Buun?
+	* Yoshi's father probably can
+	* But he's a monk/hermit now and pious and judgemental
+* Maybe we should get people together
+	* Fumetsu tries - gets Kasumi, not Tsuru
+
+### On the Road Again
+
+* Kasumi, Yoshi, Tsuru
+* Heading out to meet Yoshi's father
+* Mountain paths
+* Found Okifumi
+* Okifumi and Yoshi jab at each other
+* Kasumi and Yoshi go to pray
+	* The shrine is pretty crude
+	* But it's a strong devotional act
+* Fumetsu asks about Buun
+	* He has knowledge we need
+	* But apparently it's dangerous
+	* Tamahide didn't respect the order of things
+	* Buun caused Okifumi to lose respect for Tamahide
+		* "Impermanence is beauty."
+	* Buun convinced Tamahide to die
+	* Unlike the others - like the dark emperor (fuckin' blasphemy)
+* Are we going to meet Buun?
+* Kasumi has seen Buun before
+	* Doesn't know it was him
+	* Saw him on the way back from the bandit camp
+	* Strange man in a tree - vanished in a second
+* How can we meet Buun?
+	* "I don't think you'll have to wait long to know his presence."
+* Yoshi apologizes with food
+	* Just like his mother used to make
+	* Yoshi and his dad are cute
+* Okifumi grabs Fumetsu as he's leaving
+	* "The Koi need to abandon the past and find a new path. You must make them see, Fumetsu. The Koi are in desperate need of purity."
+	* "Also help my son if you can."
+
+### On the Way Home
+
+* Discussion of wtf to do
+	* Try to make the elixir? Maybe not.
+	* Push the Shugenja school? Maybe.
+	* Yoshi suggests that maybe we need a different way forward
+
+### Tsuru
+
+* Hachi arrives with a minor Otomo
+* Audience with Sango
+	* She's exuding confidence and power
+* Which great clans support
+	* Fox
+		* Crane - Reliable ally
+		* Unicorn - Reliable ally
+	* Hare
+		* No great allies in court
+		* No known enemies either
+	* Sparrow
+		* Crane - Relible ally
+	* Koi
+		* Crab - Koi can rely on them the most
+		* Phoenix - at least warm
+		* Crane - at least warm
+* How is Shirayuki's death being handled?
+* How is Doji Azuki handling Shirayuki's death?
+	* Taking it hard! It was unexpected.
+	* Making sure his mother's killer is brought to justince
+		* Not sure who ordered it
+* What does Tamahide's death mean?
+* How is the Emperor doing?
+	* Saddened by Tamahide's death
+	* Remains in good health. He's immortal. Duh.
+	* Reinforces exports. It would bring ill tidings to deprive the Emperor.
+	* Tamahide's work must continue. This is clearly a threat.
+
+### Comin' Down the Mountain
+
+* Path is blocked by an old man
+	* Backpack full of bamboo
+	* Names: Akifumi? Buun? Prefers Akifumi.
+* Kasumi recognizes him, but... no, he couldn't be
+* Fumetsu takes his bundle
+* Kasumi tells him she recognizes him
+	* "Did I  not see you four days ago?"
+	* Yep
+* Talk of the battle
+	* Why? Because Hanako
+	* Was 35 men a good price? I suppose
+	* There was also blood magic though
+* He's been watching us
+	* Watched Okifumi too
+* Yoshi: "You must be real old. Is that because of... exports."
+	* Nope. The Celestial Order allows such things sometimes.
+	* "I have fewer of my old friends every year. It's not that nice."
+* Convinced Tamahide to follow Celestial Order long ago, and recently
+	* "Before all was lost" (his soul)
+	* He had a good soul, but gaijin magic corrupted him
+	* But damned the Koi, according to Yoshi
+* Survival is incidental - we are reborn anyway
+	* To disrupt the cycle is to rob yourself of wholeness
+* Yoshi: "yeah, but you're really old"
+	* Kasumi: "what burdens do you bear?"
+	* If I tell you, what will it change? Will you continue power struggles?
+* Yoshi: "What will your truth do to ameliorate the pain around us?"
+	* "I find your lack of faith disturbing."
+	* You take the suffering of those below you as a fault in the system
+	* Buun comes from a time long before people
+* BUUN CHANGES INTO A BLACKBIRD
+	* Fumetsu: The greatest swordsmen were trained by a Kenku master
+	* Kasumi knows they are immortal
+* Fumetsu: Are all who violate the order doomed to fall?
+	* B: Eventually. But even doom is impermanent.
+	* F: "I would like to learn from you, so I can teach the rest of the Koi."
+	* B: You'd have to choose who to honor.
+	* F: Maybe not the Koi?
+	* Yoshi: You'd betray us, Fumetsu?
+	* F: Is it betrayal though?
+* Kasumi: Can the Koi be redeemed?
+	* It will be hard
+	* The young Chozu has witnessed much and said little
+		* Only in his first life on the path
+		* But he can guide the Koi
+	* You all know what the right choice to make is, don't shy away from it.
+
 ## Session 10 - 5/19/20
 
 ### Oh Shit a Gaijin

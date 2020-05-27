@@ -23,6 +23,15 @@
 	* Sincerity
 * INCLUDE YOUR WIFE - CALL HER HANAKO
 * SPEND YA DAMN VOID POINTS
+* Goals
+	* The honorable rise of the Koi
+		* Destroy blood magic in Koi lands
+		* Promote honor, rather than deceit
+	* Quash the criminal element in Koi lands
+		* Enzan province in particular
+	* Vengeance against those who hurt Hanako
+		* More killing blood mages
+	* 
 
 ## Basic Info
 
@@ -108,7 +117,7 @@ Experience remaining: 4
 
 ## Initiative
 
-* 5k4 + 8
+* 6k4 + 8
 
 ## TN to be Hit
 
@@ -224,6 +233,15 @@ Haven't interacted with Seina much yet. Don't have a good idea of her character.
 * Most trusted friend
 
 # Goals
+
+## Lead the Koi into a new era
+
+* Encourage honesty and compassion
+* Push Moriko's school
+
+## Fix the Celestial Order
+
+The Celestial Order is not broken. It can't be. It's simply fact. But there are those who abuse it. Who seek to break it. Those that are higher in the Order forget that they lived previous lives that were lower. Hopefully those who shirk it can be negotiated with. If not, they must be killed.
 
 ## Improve the Koi Samurai
 

@@ -1,3 +1,14 @@
+### Cobra
+
+* Job for Maureen - getting Yeast from Peanut in Carter's Pagoda
+
+###
+
+
+
+
+
+
 * Cash
 	* Tries maelstrom stuff on his own
 * 

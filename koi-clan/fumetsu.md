@@ -2,13 +2,13 @@
 
 ## Quick Ref
 
-* Initiative: 6k4 + 8
+* Initiative: 6k4 + 10
 * Defense: 6k4
 * TN to be hit
 	* No armor: 25
 	* Light armor: 30
 * Wounds: 0
-* Void: 3
+* Void: 3 (2 used)
 
 ## RP Notes
 
@@ -39,7 +39,7 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 161
+Insight: (Rings * 10) + Skills = 165
 
 Rank: 2
 
@@ -47,11 +47,11 @@ Status: 3
 
 Glory: 2.0
 
-Honor: 6.0
+Honor: 5.5
 
-Experience gained: 42
+Experience gained: 50
 
-Experience remaining: 4
+Experience remaining: 0
 
 ## Traits
 
@@ -81,10 +81,11 @@ Experience remaining: 4
 
 ## Skills
 
-* Courtier 3 + Awareness 3 = 5k3
+* Battle 3 + Awareness 3 = 6k3
+* Courtier 3 + Awareness 3 = 6k3
 * Defense 2 + Reflexes 4 = 6k4
-* Etiquette 3 + Awareness 3 = 5k3 
-* Iajutsu 4
+* Etiquette 3 + Awareness 3 = 6k3 
+* Iajutsu 5
 	* + Awareness 3 = 7k3
 	* + Void 3 = 7k3
 		* Focus emphasis
@@ -166,14 +167,15 @@ Healing rate (stamina * 2) + Insight Rank = 7
 
 ## Bonus Abilities
 
-* Iujutsu (rank 3) - Readying a katana is a Free action rather than a Simple Action
+* Iaijutsu (rank 3) - Readying a katana is a Free action rather than a Simple Action
+* Iaijutsu (rank 5) - During an Iaijutsu Duel, the character gains one Free Raise on his Iaijutsu (Focus)/Void roll during the Focus Stage.
 * Kenjutsu (rank 3) - The total of all damage rolls made with a sword is increased by 1k0
 
 ## Techniques
 
 ### Way of the Crane (Rank 1)
 
-* Add twice Iajutsu (8) to initiative rolls
+* Add twice Iaijutsu (10) to initiative rolls
 * You gain a bonus of +1k1 plus your School Rank to the total of all attack and Focus rolls while assuming the Center Stance. This bonus also applies during the Combat Round following one in which you assumed the Center Stance.
 
 ### Speed of Lightning (Rank 2)

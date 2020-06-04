@@ -1,5 +1,182 @@
 # Notes
 
+## Session 12 - 5/28/20
+
+### On the Way Home
+
+* Fumetsu and Kasumi discuss revelations
+* Yoshihiro and Fumetsu are enemies now
+	* Argued about the Celestial Order for 10 minutes
+	* Yoshi hates it
+	* Fumetsu thinks people abuse it
+
+### Revealing Revelations to Tsuru
+
+* Found a Kenku!
+	* Buun convinced Tamahide to stop taking the elixir
+	* Indirectly - convinced him that his soul was at risk
+* Yoshi thinks that Buun no longer had a use for the Koi
+	* That Buun has an agenda
+* Particular knowledge can be a burden
+	* Sharing this type of knowledge makes it heavier
+	* Maybe Akifumi has that kind of knowledge
+	* Maybe Akifumi was helping
+* Should we stop our pursuit of the exports?
+	* Yoshi: But... our customer. Through inaction.
+	* Tsuru: Perhaps through action, we can get the same result
+	* Fumetsu tries to get him to say what action, but he doesn't
+* Fumetsu suggests moving forward with Moriko's Magical Taint-Buster as a way to maintain status
+* Kasumi agrees
+	* We should play to our strengths
+* Tsuru agrees
+	* But we need to defend against accusations (of allowing the Emperor to die)
+	* But hey maybe it will be cool
+	* Kasumi suggests maybe sending messages to the Crab
+* Tsuru suggests dinner
+	* Fuck yeah
+
+### Sidebar - Imperial Lineage
+
+* Next in line is Hantei Etsuhiko
+
+### Dinner!
+
+* There's some food... rice... probably
+* Kasumi: "How can we best position ourselves as allies to Hantei Etsuhiko?"
+	* Tsuru: Why do you ask?
+	* Kasumi: He's next in line. Seems like a good idea.
+	* Tsuru: He's probably not too pleased with the Koi
+	* Yoshi: Could send an envoy. There are always... SECRET WAYS MUAHAHAHAA I'M YOSHIHIRO
+	* Tsuru asks Yoshi to speak plainly, Yoshi refuses. Fumetsu rolls his eyes an excuses himself.
+* Kasumi also leaves
+* Yoshi says Fumetsu will be a problem
+	* Because he's an idealist
+	* He will need to be managed
+* Tsuru: How is that any different than how I deal with you?
+	* I know I'm a problem
+	* But Fumetsu will be the best of us "to look good" when there's not much good to look at
+* Tsuru: We must show honor to all of Rokugan
+	* Between Yoshi, Moriko, and Kasumi, we lack the polish
+	* Yoshi takes that as a compliment
+* Tsuru: We need information more than ever
+	* Tsuru: Whether Kitsune Tomo was working in the interest of...
+	* Yoshi: Wait - we need this written down and kept silent
+	* Tsuru: Info now, informed action later
+
+### Yoshi checks the dead-drop
+
+* There's a small piece of paper
+	* "If you're ready to declare war on the Celestial Order, put the red flag out your window."
+* Yoshi flies the flag
+
+### Fumetsu has dreams
+
+* Standing at the edge of the lake where he dueled the Kami of the Red Lake
+* The lake is red and glowing
+* The ghost of his ancestor is floating above surface
+* "Fumetsu, you are a man of honor. And yet so soon, you now spit on that honor, soiling yourself for fleeing gain. If you continue down this path, I cannot bear having my fate tied to yours."
+* Fumetsu wakes up sweating, crying, panicked in shame
+
+### BREAKFAST!
+
+* Pre-breakfast, Kasumi does her duty of delightfully dark and doom-filled divinations
+* Tsuru is still tired, but perfectly coifed (koifed)
+* Yoshi is mostly doing his own thing
+* Tsuru suggests that maybe he needs Fumetsu for the meeting with the Emerald Magistrate
+	* Or maybe not
+	* Or maybe
+* Kasumi consulted the sticks
+	* They were cryptic
+	* She asked if Kitsune Tomo was an individual or a group
+	* "The Shadow of the Fox is cast only at night, when only Lord Moon is free to cast a shadow."
+	* Emphasis on “only at night,” which could also mean “part of a whole,” “yang,” “intermittent.”
+	* Rather than individuals forming Tomo, Tomo is a part of something else
+
+### Yoshi
+
+* Daijiro speaks with Yoshi
+	* "Hey... ummm... red flag?"
+	* "Other boss says we're beginning the initiation"
+	* Yoshi not mad about another boss... kind of impressed
+	* Should meet at a small abandoned town
+		* It's haunted af
+	* But that's later
+
+### Meeting with the Emerald Magistrate
+
+* Tsuru and Fumetsu meet with Emerald Magistrate in the Solar
+* Doji Kanpo and Mirumoto Kaoru
+	* Exquisitely fine garments
+	* Shoulder-structured things
+	* Blue (Doji), Gold (Mirumoto)
+* Niceties
+	* We're proud to serve, thanks, etc.
+* Tsuru: Any celebrations about the prosecution of the case?
+	* No word from Akimitsu in days
+	* Ignorant of any honorifics
+* Tsuru: Was the assassin dealt with?
+	* Being brought to court for questioning by the Emerald Champion himself
+	* "Don't worry, Tsuru, as soon as a confession is secured, you'll hear good news."
+* How can the Koi be of assistance?
+	* Make all members of the clan available for questioning
+	* They need more info
+* Tsuru tells the Emerald Magistrate about the Basement Blood Magic Murder
+	* They're aware
+	* This sort of thing is handled by the Kuni Witch Hunters and the Phoenix Inquisition
+	* Kuni Ryuske has made a report, and they'll be sending people
+* Tsuru appreciates their presence, niceties, etc.
+* Fumetsu asks about identity of the prisoner
+	* Usagi Koichi - Hare Clan
+	* We didn't know that before, they seemed a little surpised
+	* We'll share info
+
+### Yoshi's... Initiation?
+
+* He goes to the haunted village
+	* Overgrown bamboo forest
+	* Mostly reclaimed by nature
+	* Foundations and some almost standing buildings
+* Building with 3 walls still up
+	* Oil light from inside
+	* Four figures inside
+		* Daijiro + 3 strangers
+		* All concealing their faces
+		* 2 have armor & mempo
+* Yoshi makes his way inside
+* An ogre-faced armor-wearer holds out a hand
+	* "No names! We shouldn't trust each other yet."
+* Cowled person: "Why have you come to us?"
+	* "To break the wheel"
+	* Cowled nods
+* Ogre-face: "Why have you changed your mind? We tried to recruit you before."
+	* "The order is unjust. We have opportunities to break it."
+	* Cowled nods
+* Ogre-face: "Sounds good. We wish humankind to rule themselves, without intervention of gods. Let humans be free."
+* Yoshi: "Is this is a mission only, or has there been actual progress?"
+	* The mission has been ongoing for nearly a thousand years. A subtle, delicate game.
+* Yoshi: "What do I benefit?"
+	* You contribute
+* Yoshi: "But..."
+	* But what?
+	* "Maybe some information, resources, etc?"
+	* Bruh. Obvs.
+	* "Ears and eyes in the Seppun guard and within the Fox"
+		* Daijiro grins: "You'll all that and more."
+* Just has to complete a task
+	* The Imperials are blaming the Hare for something one of them did
+	* Using the Fox clan. Needs to be undone.
+* Kitsune Tomo is not one of "theirs"
+	* Might be an agent of the Imperial family
+	* Yoshi reveals that it's Otomo Sango
+	* They ignore him and move on
+		* Daijiro gives away that they already believed that
+		* They're surprised that Yoshi knows that
+* Yoshi says he can kill another
+	* They tell him that's blasphemy, etc.
+* There's a useless man named Kitsune Dame
+	* Diplomatic position in Koi provinces
+	* Contact him, give him... this (a scroll, wax seal)
+
 ## Session 11 - 5/26/20
 
 ### Possible diviniations
@@ -421,7 +598,7 @@
 * Fumetsu's findings
 	* Otomo Sango will meet this evening with two high-ranking Emerald Magistrate
 		* They report directly to the Emerald Champion
-		* Doji Atsuki (he/him, Crane) and Mirumoto Kaoru (she/her, Dragon)
+		* Doji Kanpo (he/him, Crane) and Mirumoto Kaoru (she/her, Dragon)
 	* Extra funeral attendees
 		* Clan champs of Sparrow, Hare, Fox are coming
 		* Provincial governors of Doji, Daidoji, and Bayushi

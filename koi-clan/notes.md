@@ -1,5 +1,135 @@
 # Notes
 
+## Session 13 - 6/4/20
+
+### Yoshi is Poisonous
+
+* Yoshi wants to make poisons
+	* A truth poison
+		* Give it to Otomo Sango
+		* Get her to tell the truth about being a Bloodspeaker to the Emerald Magistrate
+	* A deadly poison for blow darts
+* Yoshi goes to Kasumi for help with poisons
+	* Particularly with truth poison
+	* Kasumi has spell for that
+	* Yoshi wants to steal ingredients, Kasumi says maybe not
+	* She'll give him the smart-stick spell anyway
+		* Or smart-rock spell in this case
+* Kasumi makes Yoshi smarter, and he sneaks into the store rooms of the school
+	* He makes the truth serum
+	* Cleans up and then leaves
+* It being a truth serum Yoshi tells the truth
+	* He mentions the initiation rite
+	* But "it's best she doesn't know"
+	* She asks what she should ask him in the morning
+	* "Who I may or may not still have feelings for"
+
+### Breakfast!
+
+* Fumetsu has been troubled by dreams
+	* Dishonor and all that crap
+	* Wants to fix it, maybe with a couple of our samurai
+	* Yoshi says that he can't do that yet
+	* Fumetsu actually wants to feed the peasants of Kitayama
+* Yoshi talks about truth poison
+	* We talk about how honorable it is to kill Sango
+	* Fumetsu says he could not visit that dishonor on the Koi
+	* Yoshi asks us to test the poison
+	* Everybody's like "nah"
+	* Tsuru tests it
+	* It works. Hilariously.
+* We discuss how to manipulate Sango
+	* Get her to take the poison
+		* Fumetsu suggests just asking her to take it
+		* Maybe put it in her food. We have ample opportunity.
+		* Hand her a sealed letter, covered in the serum
+			* Probably not
+		* A dart?
+	* Get her in front of the Emerald Magistrate
+		* Info sharing regarding the assassination
+		* Or maybe about the Hare/Fox conflict
+		* But maybe that's too obvious?
+	* Fumetsu walks away after too much dishonor
+		* Yoshi follows
+		* Fumetsu says the Koi aren't all that honorable
+
+### Feeding Kitayama
+
+* Fumetsu wants to get some samurai to feed Kitayama
+* Get some ji-samurai
+	* They grumble, but do it
+	* Fumetsu admonishes them for not showing compassion
+* Samurai prepare and serve veggies
+	* They're mostly humble
+	* They probably hate Fumetsu now
+* Ichirai says he's never seen anyting like it
+	* Fumetsu says compassion is undervalued by samurai
+
+### Setting the Sango Trap
+
+* Set up meeting with Magistrate
+	* Get Otomo there late - like we forgot
+* Yoshi bribes the cook to put serum in Sango's food
+	* All of it
+	* He puts it in himself, asks cook to look the other way
+* Body being replaced into the basement
+	* In a larder where provisions for winter are kept
+	* It's otherwise empty
+
+### The Sango Trap
+
+* In a diplomatic meeting room
+	* Got some scribes
+	* Hachi is there
+* Meeting starts
+	* Tsuru greets
+	* Magistrate thanks
+* Details are shared
+	* All the details
+	* All of them
+* Emerald magistrate
+	* Have been gathering testimony
+	* From the Kuni Riuske
+	* From Haruto
+	* From Hanako
+* Tsuru asks about Kitsune Tomo
+	* They haven't heard of her
+	* Definitely a person of interest
+	* Tsuru reveals that the assassin mentioned Tomo
+	* Magistrate: Why trust the word of a criminal?
+	* Kasumi: She knows it's true because ishiken stuff
+	* Tsuru: Also we have other evidence, because bloodspeaker stuff
+	* Tsuru compiles a list of questions for Sango
+* Sango (and thus Fumetsu) is summoned
+	* Sango has eaten dinner
+* "Sango, who is Kitsune Tomo"
+	* "Fake person. It's a pseudonym I've been using."
+* "Sango, who murdered a man in the basement?"
+	* "I have no idea."
+	* But she's panicking
+* "Who killed Doji Shirayuki?"
+	* "Usagi Koichi. The Seppun family has him in custody."
+* "If you are Kitsune Tomo, do you know what this letter is?"
+	* It's the letter to the bloodspeaker with the bandits
+	* "Nope. It's in code. No idea."
+* "Are you a shugenja?"
+	* "No"
+* "Do you use magi?"
+	* "Yes I do"
+* Magistrate ask if she's been gifted with Kami-speak
+	* "No, I've never been able to speak to the Kami."
+* She tries to leave, but Fumetsu stops her
+	* "Yo, you're a bloodspeaker, bitch."
+* She commands Fumetsu to moves, it fails
+* Combat time
+	* She does bloodspeaker stuff - hand turns entirely black
+	* Yoshi hits her with poisoned kama
+	* Fumetsu wounds her
+	* She stands down, but grins and laughs maniacally 
+	* An Oni appears
+		* Spawn of Jigoku
+* CLIFFHANGER LOL IT'S 11:30PM
+
 ## Session 12 - 5/28/20
 
 ### On the Way Home

@@ -8,7 +8,7 @@
 	* No armor: 25
 	* Light armor: 30
 * Wounds: 0
-* Void: 3 (2 used)
+* Void: 1/3
 
 ## RP Notes
 
@@ -47,11 +47,11 @@ Status: 3
 
 Glory: 2.0
 
-Honor: 5.5
+Honor: 5.9
 
 Experience gained: 50
 
-Experience remaining: 0
+Experience remaining: 4
 
 ## Traits
 
@@ -86,10 +86,10 @@ Experience remaining: 0
 * Defense 2 + Reflexes 4 = 6k4
 * Etiquette 3 + Awareness 3 = 6k3 
 * Iajutsu 5
-	* + Awareness 3 = 7k3
-	* + Void 3 = 7k3
+	* + Awareness 3 = 8k3
+	* + Void 3 = 8k3
 		* Focus emphasis
-	* + Reflexes 4 = 8k4
+	* + Reflexes 4 = 9k4
 * Investigation 3 + Perception/Awareness 3 = 6k3
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4

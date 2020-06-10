@@ -1,5 +1,113 @@
 # Notes
 
+## Session 14 - 6/9/20
+
+* 6/9 - Nice
+
+### Fighting an Oni!
+
+* Description
+	* Tallish
+	* Wearing samurai armor
+	* Glowing eyes
+	* Flowing hair
+	* Venom/Carnage (spiderman) tendrils
+	* It's suddenly very warm
+* Oni is taunting us
+* Otomo Sango is on the floor. Yoshi will... take advantage?
+* Kasumi summons a fire whip!?!? WHAT!?!?!!?!?!
+* Oni grievously stabs Kaoru, but she does not fall
+* Yoshi kills Sango. FATALITY
+* Tsuru
+	* Says he really needs to speak with Chozu
+		* Because Chozu always shows up really quick whe needed
+	* He also guards Kaoru
+* Guards arrive!
+	* They see a dead Sango
+	* And an Oni
+	* Yoshi tells them what's up
+	* One guard rushes in and attaks the Oni - and does some murdering
+* There's some attacking and some healing. Oni are hard to kill.
+* Kaoru won't leave the battle despite urging from Kasumi
+* More attacks!
+	* The Doji is doing more damage than the Kakita
+	* It's a problem
+* Tsuru tackles the Oni!
+* This is one ugly Oni
+* Kasumi hits it in the face with her fire whip
+* The Oni disappears in a dark whirlwind
+
+### In the aftermath
+
+* Kasumi checks on Doji Kanpo
+	* He's super worried about Sango being dead
+* Chihiro arrives, sees Sango
+	* Exposition by Kasumi
+* We'll summon some Eta to deal with the bodies
+* Summoning Kuni Ryuske
+* Kasumi's sister helped her with combat
+	* That's cool
+* Yoshi is not tainted
+
+### NPCs arrive
+
+* Haruto, Kuni Ryuske, Yasuki Danbe
+* We explain the situation
+* Ryuske uses his geiger counter ability
+	* Yep, she's got a taint (lol)
+	* He didn't detect it recenlty
+	* But she had some Jade Leaf Tea
+	* Super illegal
+* Yoshi advocates for the Usagi that has been held captive
+* More exposition!
+* Fumetsu observes how Sango's body is dealt with
+	* It's shoved in a coffin
+
+### WTF Do We Do?
+
+* Tsuru
+	* Honor the Otomo family
+	* Honor Kaoru
+* Yoshi
+	* Clear the name of Usagi
+	* For reasons he cannot divulge
+	* Maybe contact Ayame
+		* Maybe she's not a traitor
+		* Unlikely, according to Yoshi
+* Figuring out what Ayame knows
+	* Perhaps we reveal that we have the assassin's body
+	* Maybe Tsuru sends a letter to that effect
+	* Kasumi could send a message or give her a vision in her dreams
+* ARE WE GOING TO THE CAPITAL!?!?!?
+	* ... without the elixir? (bad plan)
+	* Maybe we say Sango tainted the process and destroyed the scroll
+
+### What we do next?
+
+* Tsuru
+	* Find a gift for Kaoru's family
+	* And the Otomo family
+* Koi
+	* Clear Usagi name
+		* Send a magistrate to the trial?
+* Fumetsu
+	* Guarding the fuck out of Sango's body
+* Moriko
+	* Treat Doji Kanpo's shock
+
+### Kasumi sends dreams!
+
+* To Seppun Ayame
+* Feeling of dread and doubt
+	* "You have the wrong man"
+
+### Yoshi
+
+* Message in the dropbox
+	* Trying to clear Usagi name
+	* "Tomo is Nomo" (she dead y'all)
+	* Her Oni is still out there, though
+
 ## Session 13 - 6/4/20
 
 ### Yoshi is Poisonous

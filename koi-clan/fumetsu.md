@@ -51,7 +51,7 @@ Honor: 5.9
 
 Experience gained: 50
 
-Experience remaining: 4
+Experience remaining: 8
 
 ## Traits
 

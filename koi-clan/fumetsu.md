@@ -39,7 +39,7 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 165
+Insight: (Rings * 10) + Skills = 175
 
 Rank: 2
 
@@ -49,16 +49,16 @@ Glory: 2.0
 
 Honor: 5.9
 
-Experience gained: 54
+Experience gained: 58
 
-Experience remaining: 8
+Experience remaining: 0
 
 ## Traits
 
-### Earth: 2
+### Earth: 3
 
 * Stamina: 3
-* Willpower: 2
+* Willpower: 3
 
 ### Water: 3
 
@@ -178,9 +178,13 @@ Healing rate (stamina * 2) + Insight Rank = 7
 * Add twice Iaijutsu (10) to initiative rolls
 * You gain a bonus of +1k1 plus your School Rank to the total of all attack and Focus rolls while assuming the Center Stance. This bonus also applies during the Combat Round following one in which you assumed the Center Stance.
 
-### Speed of Lightning (Rank 2)
+### Speed of Lightning (Rank 2) 
 
 * You gain a bonus of +2k0 to the total of all attack rolls against those with lower Initiative than your own.
+
+### First and Last Strike (Rank 3)
+
+You may Strike first in a duel if you win the Iaijutsu/Void roll by a difference of 3 or higher. You gain a Free Raise on your Strike for each additional margin of 3 instead of 5.
 
 # Relationships and Bushido
 

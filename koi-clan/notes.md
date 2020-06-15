@@ -1,5 +1,218 @@
 # Notes
 
+## Session 15 - 6/14/20
+
+### Breakfast Club
+
+* Recap for Moriko
+* We should keep Doji Kanpo safe
+	* Has some guards on him now
+	* Moriko will help him with his shock/PTSD
+* Fumetsu fears that Sango's influence runs deeper and wider than we know
+	* Yoshi will find out some stuff
+* Is the Oni dead?
+	* Nobody really knows, but we suspect no
+	* We don't have a dead Oni body, so...
+	* Kasumi divines the answer - basically it's coming back
+	* And we're leaving so cool
+* Is leaving even a good idea?
+	* Oni on the loose
+	* Export's not happening
+	* Moriko's patient
+	* Danger on the road
+
+### Talking to Kanpo
+
+* Moriko, Kasumi, Fumetsu
+* Wellness visit to Kanpo
+* Mostly unarmed except for Fumetsu because Magistrate
+* Kanpo is in a guest house
+	* Not in armor
+	* Chozu is performing a cleansing ritual over him
+	* Drinking soup
+	* Has more color in his face
+* He thinks he has disgraced himself
+	* Nah. He's good.
+* Moriko offers healing
+	* Chozu says he needs it
+	* Oni are dangerous yo
+* We start with a Tea Ceremony
+	* Woooo we did good
+* Moriko meditates with Kanpo
+	* 3-5 seconds as the Oni kills Mirumoto Kaoru, repeating
+	* Stabbing it with wakizashi
+	* Whisps of dark energy
+	* Will-o-the-wisps holding the dark energy in Kanpo's mind
+	* Moriko figures out the right herbal formula
+	* Kanpo is duly impressed
+* Moriko runs off to get herbalistic
+* But stops at the dungeon to see Kiku
+	* She's looking good - even healthier than yesterday
+	* Corrupted flesh where third eye was is healing
+* Moriko offers more powerful medicine
+	* Kiku takes it, under the impression that maybe it will maker her better
+	* Will do anything to see her daughter again (aww)
+* She's still sickly
+	* Hasn't been eating - hasn't been hungry
+	* Just wants to see her family again
+* Moriko makes the medicine for Kanpo
+	* Does it good
+
+### Yoshi and Tsuru
+
+* We have several choices
+	* Innocent man in blamed for assassination
+	* Seppun may not be allies, but may just have been duped
+	* Regardless, do we need to get into the Hare/Fox conflict?
+* We don't know the identity of the actual assassination
+	* Was he a Fox?
+	* Was he not?
+* What do we get from the Hare?
+	* Nothing. But Yoshi has resources?
+	* Maybe we can get a beneficial alliance?
+* Tsuru suggests maybe Koi can take over the plains
+	* And Yoshi can rule? WTF?
+	* Oh dear we're arming the peasants and giving Yoshi an army?
+	* Or Yoshi is giving Tsuru one?
+	* Either way the Koi army gets bigger?
+* Maybe we can plant Jade Leaf Tea in the plains
+	* "Garrison it with politics"
+* Yoshi: But what do we do about Kanpo?
+	* Tsuru will worry about that
+	* Yoshi will be eyes and ears as we transport him
+
+### Yoshi does some asking around
+
+* "Who else was working with Kitsune Tomo?"
+	* Looking to maybe recruit them
+	* Kill them if they resist
+	* Great
+
+### Moriko adMinisters Medicine
+
+* In incense form
+* Instructions
+	* Breath it in
+	* Meditate on letting go of negative stuff
+* It worked!
+	* He's super calm
+	* Negative stuff is gone
+	* "Renewed desire to assist. See that Kaoru did not die in vain."
+* He'll meet with us later
+* Moriko: "Hey, maybe mention our school when you speak of this."
+
+### Moriko back in the Dungeon
+
+* Kiku has eating rice balls in the last couple hours
+	* She's vigorous
+	* Looking damn good for a tainted individual
+* Kuni Ryuske is summoned to test her
+	* None detected
+	* "Is this the same woman?"
+	* He's shaken
+		* Excited, and *greedy*
+	* "HOLY SHIT THIS SHIT CURED THE TAINT"
+* Moriko suggests a partnership between Kuni and the School
+	* Fuck yeah bud. Ryuske will talk to his Daimyo
+	* Maybe crab can fund the research
+	* Also maybe we can get some more shugenja to learn the technique
+	* Ryuske's nephew will come
+* Kiku and her family will be helpers in the school
+	* Mostly to keep an eye on Kiku
+
+### Meeting with Doji Kanpo
+
+* Tsuru arrives
+	* "Sorry for the loss of your partner"
+	* yeah, thanks
+* Kanpo says we should tell the Emerald Champion
+	* We'll have an entourage - keep Kanpo safe
+	* Kanpo says he'll lead it, but... yeah
+* We should probably bring Sango's body
+	* But... gross
+	* Or maybe we should bring it to her family
+* Kanpo gives Tsuru a letter for Ryuske, then starts making preparations
+
+### Letter for Ryuske
+
+* Meets Moriko escoring Ryuske
+* Moriko and Kasumi talk about... meeting... before the end of the month... for some reason?
+* Turns out Ryuske has been conscripted by the Magistrate
+	* Not at all happy about it
+	* But it's a great honor
+	* But he has shit to do
+		* Jade Leaf harvest
+		* Oni
+		* All the Kiku stuff
+* Kiku stuff
+	* Can be left with Moriko's mom
+	* With a supply of medicine
+	* Bad idea to bring her to the capitol
+	* Keep the research a secret
+		* At least the taint part
+		* Keep the taint on the downlow
+* Tsuru suggests maybe Ryuske can get us resources
+	* HE WANTS TO. BADLY.
+	* But he's been conscripted
+* Maybe we can get some Kuni/Crab to meet us when we come back
+	* Discuss/learn etc.
+	* Maybe some more test subjects
+* Ryuske will write his daimyo - IN CODE
+
+### Meanwhile Fumetsu talks with Hanako
+
+* Hanako: DO BETTER NEXT TIME LAST TIME WAS A DISASTER
+* Fumetsu: k, I think I am
+
+### Chozu comes running 
+
+* Kaoru's body is missing
+* It's apparently clawed it's way out
+* Fuck
+* Fuck
+* Fuck
+* Fuck
+* This may have to do with the Oni?
+	* Came for Sango's body, but couldn't get it?
+	* Came for the body of the thing it killed
+	* Maybe there's always a master and an apprentice
+
+### Yoshi's underworld stuff
+
+* Daijiro: Kitsune Anzu is a Tomo-associate
+	* Samurai, probably
+	* Runs a criminal organization in Kitsune lands
+	* Maybe some opium trading around here
+	* Maybe superiors ;-) can dig up more info
+* Yoshi: Dude, we're going to the capitol
+	* Working to free Usagi Koichi
+* Daijiro has been tasked with helping Yoshi
+	* Definitely not spying on him
+	* Definitely not
+* Yoshi and crew are leaving... nowish
+
+### Yoshi/Tsuru
+
+* Yoshi: What route?
+	* The yellow brick road
+	* To the emerald city
+	* To see the wizard
+	* Hopefully avoiding the witch
+	* Or killing them
+* Yoshi
+	* Will be ahead
+	* Red cloth = danger
+	* Two red cloths = super dangerous, and Yoshi stopped
+	* If blood, then maybe retreat and regroup
+		* Or ask Fumetsu
+
+### Kasumi reading the temple
+
+* Looking for visions
+* Kami here are shaken
+* Sees dark energy crashing over Kaoru's body
+* Pull of Jigoku, body reanimates, pushes the lid of the coffin open, and stands up
+
 ## Session 14 - 6/9/20
 
 * 6/9 - Nice
@@ -20,7 +233,7 @@
 * Yoshi kills Sango. FATALITY
 * Tsuru
 	* Says he really needs to speak with Chozu
-		* Because Chozu always shows up really quick whe needed
+		* Because Chozu always shows up really quick when needed
 	* He also guards Kaoru
 * Guards arrive!
 	* They see a dead Sango
@@ -58,7 +271,7 @@
 	* He didn't detect it recenlty
 	* But she had some Jade Leaf Tea
 	* Super illegal
-* Yoshi advocates for the Usagi that has been held captive
+* Yoshi advocates for the Usagi Koichi that has been held captive
 * More exposition!
 * Fumetsu observes how Sango's body is dealt with
 	* It's shoved in a coffin
@@ -69,7 +282,7 @@
 	* Honor the Otomo family
 	* Honor Kaoru
 * Yoshi
-	* Clear the name of Usagi
+	* Clear the name of Usagi Koichi
 	* For reasons he cannot divulge
 	* Maybe contact Ayame
 		* Maybe she's not a traitor

@@ -1,5 +1,9 @@
 # Notes
 
+## Session 16 - 6/16/20
+
+* 
+
 ## Session 15 - 6/14/20
 
 ### Breakfast Club
@@ -17,7 +21,7 @@
 	* And we're leaving so cool
 * Is leaving even a good idea?
 	* Oni on the loose
-	* Export's not happening
+	* Exports not happening
 	* Moriko's patient
 	* Danger on the road
 

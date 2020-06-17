@@ -2,7 +2,169 @@
 
 ## Session 16 - 6/16/20
 
-* 
+### Pre-Journey Hand-Wavy Stuff
+
+* Moriko
+	* School is named "Ikigai"
+	* Makes sleeping medicine for Kasumi
+		* FOR SOME REASON
+* Kasumi
+	* Divination - will our lands be safe while we're away?
+		* "Black clouds will cover your lands, even if no one is there to measure the rain."
+* Yoshi
+	* Makes some poison
+	* Goes to see his father
+		* "Cool I'll watch over the Koi"
+		* Also warns him not to get mixed up with his new found secret society
+		* Yoshi is like "Thanks, gonna do it anyway."
+		* Okifumi slaps Yoshi "FOOL RESPECT MY AUTHORITY"
+		* "You are nothing but a puppet of the Kolat"
+		* "Boy, you 'gon die. I was there."
+		* "Okay DAD why should I avoid them?"
+		* "They're liars, and don't give a shit about you. REJECT THE PATH OF DARKNESS."
+		* "Okay, dad, sure."
+	* Daijiro says Okifumi is senile
+		* Yoshi disagrees
+* Fumetsu
+	* Express to Hanako how worried he is about threats to the Koi lands
+	* They 'gon miss each other
+	* She wishes him safe travels, or to die well
+		* Same, wifey
+* We warn some folks to watch out for... danger
+	* Chozu
+	* Chohiro
+	* Koharu
+	* Hanako
+	* Not Haruto
+		* And we tell the rest not to say anything
+
+### The Journey Begins
+
+* Yoshi and Daijrio left earlier
+	* Dressed as peasants
+	* Have a cart with stuff
+	* 3 hours ahead
+* We has a caravan
+	* Fumetsu
+	* Kasumi
+	* Moriko
+	* Tsuru
+	* Kuni Ryuske
+	* Doji Kanpo
+	* 10 ji-samurai
+* It's nice
+	* Partly cloudy
+	* Might drizzle, but hasn't
+	* It's hot, peak of summer
+	* Foothills of the mountains
+
+### The Scouts
+
+* Yoshi and Daijiro detect something ahead
+* They hide
+* They scout
+* There's the aftermath of a small-scale battle
+	* About 20 dead samurai
+	* 4 dead ogres
+	* A bunch of destroyed carts
+	* One destroyed carriage
+* Some tracks lead away from the scene
+* Yoshi loots all of it
+* And investigates I guess
+* A bunch of dead samurai have the mon of the Fox clan
+	* No Fox tsubas. Not many swords at all, actually.
+		* Ogres probably took them.
+* Yoshi puts up a warning - two red flags
+	* Then sets up... murder... holes?
+
+### The Caravan
+
+* What a nice journey
+* Moriko finds a rare flower
+	* Might treat madness
+	* Might help a person in a delusional state regain sanity
+* Tsuru sees the red flags, suggests we stop for food
+	* Kanpo resists
+	* We need a tea ceremony?
+	* Fire, for Kasumi to make tea
+	* Really we just need to stop for reasons
+	* Fumetsu also resists
+	* Tsuru is really insistent
+* Yoshi appears out of nowhere
+	* Kasumi spills tea
+	* Fumetsu glares at him
+	* Yoshi warns of ogres around
+* Yoshi suggests he, Tsuru, and Fumetsu see the battle
+	* Kasumi will also look for enemies magically
+	* We hear a murder of crows
+* Fumetsu perceives the battle
+	* It's gross
+	* They were trying to protect the rich dude
+* Kasumi casts a spell to detect living things around her
+	* SO MANY CROWS
+	* A bunch of insects, earthworms, other lowly creatures
+* Tsuru says we should move quickly
+	* We got shit to do. Important shit.
+	* Everybody says yep, let's do that
+	* Tsuru commands some ji-samurai to surround us
+	* Yoshi says we're going to be attacked regardless
+		* We're surrounded by the woods
+	* Tsuru: "Okay, Yoshi, what do you want to do?"
+		* Yoshi: "Iunno"
+* Tsuru notices a man he's talked to several times
+	* The mangled remains outside of the expensive cart
+	* It's the clan champion of the Fox - Kitsune Oshiran
+	* OH SHIT WE NEED TO GOOOOO NOOOOOOOW
+* Moriko does some CSI stuff
+* Kasumi gets a ping on her radar
+	* IT'S BIG
+	* Oh it's an ogre
+	* And there's more of them
+* Time to kill some ogres I guess
+
+### Ogre Killin' Time
+
+* Four ogres
+	* Two wounded
+	* On wielding a katana
+* Tsuru directs the battle
+* Ryuske and Fumetsu double-team an ogre
+* Ogres attack, mosty ineffectively
+* Tsuru yells at ji-samurai and is impressive
+* Shugenja cast some spells
+	* Moriko jade-strikes and does MUCH DAMAGE
+	* Kasumi misses with a fire whip
+* AN OGRE ATTACKS MORIKO OH NO
+	* Oh wait it missed
+* Ryuske is taking a beating though
+* At least one ogre is retreating
+* But our ji-samurai are afraid too
+* KANPO IS STILL FIGHTING OGRES NO DON'T DO THAT
+	* Fumetsu is doing some yojimboing
+	* BUT HE STILL GETS HIT CRAP
+* Yoshi does some killin'
+* Tsuru does some yellin'
+* Kasumi does some whippin'
+* Moriko does some jade killin'
+
+### Post-battle
+
+* Yoshi recovers the katana the one ogre was wielding
+* Tsuru recognizes it
+	* It belongs to the Kitsune daimyo
+	* Ancestral sword of the Fox
+	* Handed down over 800 years
+* Yoshi suggests maybe he should take it
+	* Tsuru says no
+* Kasumi casts her know-stuff spell on it
+	* Vision of someone wearing old-timey fashions
+	* Careful crafter's tools around them
+	* Parchment in the hilt of the Fox-clan sword
+	* There's some heraldry too
+
+### Yay! Cliffhangers!
+
+* 4 XP
 
 ## Session 15 - 6/14/20
 

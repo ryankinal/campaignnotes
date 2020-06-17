@@ -7,6 +7,7 @@
 * TN to be hit
 	* No armor: 25
 	* Light armor: 30
+	* Reduction: 3
 * Wounds: 0
 * Void: 3/3
 
@@ -31,7 +32,6 @@
 		* Enzan province in particular
 	* Vengeance against those who hurt Hanako
 		* More killing blood mages
-	* 
 
 ## Basic Info
 
@@ -49,9 +49,9 @@ Glory: 2.0
 
 Honor: 5.9
 
-Experience gained: 58
+Experience gained: 62
 
-Experience remaining: 0
+Experience remaining: 4
 
 ## Traits
 
@@ -131,14 +131,14 @@ Reflexes * 5 + Armor + 5
 
 ## Wound Levels
 
-* Healthy (TN +0) = 10
-* Nicked (+3) = 14
-* Grazed (+5) = 18
-* Hurt (+10) = 22
-* Injured (+15) = 26
-* Crippled (+20) = 30
-* Down (spend void to act - +40) = 34
-* Out (Cannot act) = 38
+* Healthy (TN +0) = 15
+* Nicked (+3) = 21
+* Grazed (+5) = 27
+* Hurt (+10) = 33
+* Injured (+15) = 39
+* Crippled (+20) = 45
+* Down (spend void to act - +40) = 51
+* Out (Cannot act) = 57
 
 Healing rate (stamina * 2) + Insight Rank = 7
 

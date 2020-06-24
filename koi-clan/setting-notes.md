@@ -7,7 +7,7 @@
 * Founder and daimyo
 * Founded in 1011
 * 98 years old
-* On death bed
+* Dead
 * Married to Emiko (his third wife)
 
 ### Natsuo

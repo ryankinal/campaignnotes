@@ -1,5 +1,144 @@
 # Notes
 
+## Session 17 - 6/23/20
+
+### Post-Skirmish Stuff
+
+* Yoshi continues to scout ahead
+* We should probably tell the Fox about their dead Daimyo
+* Eventually decide on telling Chozu with a Kasumibird
+	* Tell the Fox ambassador to send people
+* We find higher ground to escape both dead and ogres
+* Make camp
+
+### Yoshi!
+
+* Continues. Looks for interesting stuff.
+* Makes it to the main road - in Crane lands
+* Encounters a waystation/magistrate checkstation
+	* 5 or 6 samurai manning the station
+	* Also a good place to eat and sleep
+* Notices an aging Crane samurai - Daidoji Shun
+	* Well-crafted heavy armor
+	* Finely-crafted naginata
+* Daidoji greets Yoshi
+	* Presents papers
+	* "Your superiors told me you were coming. I've been instructed to aid you in any way I can."
+* Group of Crane are being crass
+* Clean and dry cot for sleeping
+* No sake, but can definitely gamble for some
+* Yoshi: Any danger on the road to the Imperial City?
+	* IMPERIALS ARE DANGEROUS
+	* But nothing really
+	* "Nothing should bother you tonight"
+* Yoshi does some gambling
+	* And cheats with sleight of hand
+	* Wins all the things
+
+### Back at Camp
+
+* Kasumi divines the abilities of the Kitsune sword
+	* There's a pin that will unlock the secret compartment
+* She opens the sword!
+	* And does it super-well
+	* There's a parchment in there!
+* Tsuru takes the parchment out
+	* There's a wax seal
+	* And it's SUPER OLD
+	* And a little brittle, but strong enough
+	* Suddenly hesitant
+* Checking out that seal
+	* It's the Isawa mon
+	* Extra heraldry of some historical figure
+	* The personal mon of Isawa OH SHIT WTF SOCKS BLOWN OFF
+* Checking out that scroll
+	* Kasumi thinks there's something unsettling about it
+	* She gets some heebie-jeebies
+	* Casts a spell on it - and gets a vision
+		* Forced to roll Earth ring
+	* Scroll has the power to "send one beyond mortality"
+	* Could artificially extend ones life indefinitely
+	* Kasumi is overcome by OVERWHELMING EVIL OH SHIT
+		* A towering black dragon, green eyes, breathing hellfire on you
+		* It's nowhere near its full strength
+	* Kasumi goes unconscious, Tsuru catches her and fans her
+
+### Meanwhile, Fumetsu...
+
+* Is sparring with ji-samurai
+
+### BACK TO KASUMI OMG
+
+* Moriko does some healing stuff
+* Kasumi sleeps
+* Tsuru wraps the sword back up
+	* He does a good job
+
+### Overnight
+
+* Kasumi has been plagued by nightmares
+	* But not the usual ones
+	* Different ones
+	* Ones with the black dragon
+		* "FREE ME, LITTLE FISH. FREE ME. I SEE YOU NOW."
+		* This is not a normal dragon
+		* It's a sixth dragon. WTF.
+* Watches
+	* Late 2nd watch, noises from the battle site
+	* Scouting, a bunch of samurai heading south
+	* And a shugenja casting spells
+	* Some more samurai stand up and start walking
+	* Fumetsu makes the Koi known
+	* The spellcaster is Otomo Sango in Mirumoto Kaoru's body
+	* Moriko Jade Strikes Sango
+* Discussion Battle
+	* She says we have a common cause
+	* Vengeance against her father
+		* Otomo Jinshoru
+		* Oldest surviving child of the emperor
+		* 5th in line for the throne
+	* She's holding back
+	* Fumetsu asks why we'd be interested in vengeance against her father
+		* He's the head of the whole thing
+	* But she's still using Maho
+	* So Fumetsu tries to kill her
+		* And she disappears in a cloud of smoke
+	* Her father orchestrated the ogres
+
+### The Next Morning
+
+#### Yoshi
+
+* Daidoji Shun hands Yoshi super-good travel papers
+* Message about who Yoshi should meet in the capitol
+	* Eta named Chinoko
+	* Madame at a brothel - The House of the Silken Flower
+
+#### Others
+
+* Kasumi is awake! Yay!
+	* Face is white as a sheet
+	* Says she's feeling fine
+	* She's eating... rice
+* Kasumi reveals that the scroll is evil
+	* Unspeakable evil
+	* Maybe we should destroy it? Can we?
+		* Probably not
+		* Black dragon is bound by the scroll
+		* Destroying the scroll might release the dragon
+* Fumetsu's concerns
+	* Otomos know about the scroll
+	* They're corrupt af
+	* We're in a lot of danger
+	* Fuck
+
+### Questions
+
+* Do we still go to the city?
+* What do we do about the Otomos?
+* WTF WTF WTF WTF WTF
+* OH SHIT
+
 ## Session 16 - 6/16/20
 
 ### Pre-Journey Hand-Wavy Stuff

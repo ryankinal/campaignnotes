@@ -4,11 +4,10 @@
 
 ### Tamahide
 
-* Founder and daimyo
+* Founder
 * Founded in 1011
-* 98 years old
-* Dead
-* Married to Emiko (his third wife)
+* Dead at 98 years old
+* Widow is Emiko (his third wife)
 
 ### Natsuo
 

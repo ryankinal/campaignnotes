@@ -1,5 +1,153 @@
 # Notes
 
+## Session 18 - 6/27/20
+
+* Dun sum plannin'
+	* Giving the Kitsune ancestral sword back
+	* Keeping the scroll?
+		* Doing some divination about it
+	* WAITAMINUTE
+	* Meet Kitsune in imperial city
+		* Give them the sword there
+* Divination - "Can we destroy the scroll safely?"
+	* Vague, poetic impression that just says *NO*
+
+### Back on the way
+
+* Notify Yoshi
+* Easy journey
+* Kasumi and Moriko talk
+	* Kasumi reveals what the scroll does
+	* She doesn't trust Yoshi, Tsuru, or herself with it
+	* Wants Moriko to keep it
+	* Moriko: Can we destroy it?
+	* Kasumi: Nope, it would release great evil
+	* Moriko: Probably smart to keep its location secret
+* Fumetsu continues to spar with ji-samurai
+* Moriko finds some herb
+
+### Yoshi arrives a day ahead
+
+* Looking like a ronin merchant
+* Goes to a brothel - The House of the Silken Flower
+	* In a fairly rich part of the city
+	* Clientele are pretty high-class too
+* Young geisha greets him
+	* He has business with the madame of the house
+	* He's expected
+	* "Tell her I'm a small fish now in a very big pond."
+* Many geisha, many samurai, much entertainment
+* Chinoko
+	* Beautiful
+	* Late 40's
+	* Smart kimono
+	* Sticks in her hair
+	* Presence, authority
+* Yoshi introduces himself honestly
+* Asks for a room with a window
+* Also asks for information
+	* It's best not to spread secrets without purpose
+		* Willy-nilly lol
+	* The Koi Clan export
+		* Chinoko doesn't know about it
+		* Koi are walking into dangerous waters
+		* No longer providing it
+	* Who is second in line for the throne?
+		* Hantei Rinta. Duh.
+	* No, I mean who do we want in line?
+		* Why would we want anything but what the Order requires?
+	* Tells her about the export
+		* She understands why Yoshi has joined
+		* She only knows what she needs to know
+		* Yoshi should only say what he needs to say
+* Yoshi: "Okay, who can I trust in the court?"
+* Yoshi might be in trouble if Chinoko reveals what he's said
+	* And that he revealed waaaaaaaayyyy too much
+* The Kolat are looking for actors, not info
+* OKAY YOSHI YOU CAN SHUT UP NOW STOP WITH THE SECRETS
+* This city is full of DANGER FISH
+* He sets up in his room
+* Then heads out to make the start of a network
+
+### Over the 6 days to the city
+
+* We tell Doji Kanpo about Sango inhabiting Kaoru's body
+* And about Sango's dad being a dick
+* Kanpo believes us, hopefully the champion does too
+
+### Everybody else makes it to the city
+
+* Straight to the Emerald Champion
+* Office is a PALACE
+	* Highest class building we've ever seen
+	* Ornately decorated
+	* Ancient
+	* Beautiful
+	* Well-kept gardens
+	* BOUGIE AS FUCK
+* Greeted by emerald magistrates
+	* Kanpo bows, offers badge, etc.
+* We show the corpse of Sango
+	* Causes a ruckus
+	* Eta show up
+	* Carry it away
+		* Fumetsu makes a big deal out of it
+		* Otomo Jinshoru is definitely not going to show up and take it
+		* Fuck.
+		* Fuck fuck.
+* Led into palace, offered tea, etc.
+	* Waiting for a long-ass time
+* Fumetsu recognizes a samurai
+	* Member of rival Kakita lineage
+	* Bad blood between Fumetsu's lineage and Kakita Aichiko
+	* Had not been aware of his rank in the emerald magistrate
+		* Advisor to the emerald magistrate
+	* Niceties
+		* No longer a Kakita
+		* Wowwwww emerald magistrate huh, cool
+		* We should catch up sometime
+		* Yeaaahhhh def let's get some tea
+* Aichiko informs us that the Champion will not be able to see us for 3 days
+	* Tsuru explains to Aichiko that we have witnessed the dishonorable death of a member of the Otomo family and require the assistance of the Champion in an honorable resolution
+	* 3-day wait would be an insult to Otomo Jinshoru
+	* Aichiko checks with Kanpo
+		* Kanpo verifies it
+	* He's going to petition the champion
+		* ... by tomorrow morning
+	* Tsuru checks etiquette - and believes Aichiko
+	* Tsuru learns through conversation that Aichiko is pretty lecherous
+		* Able to be bribed with a "pretty young face"
+* Send a bird to Yoshihiro
+	* Location
+	* etc.
+* Response
+	* Yoshi says come to a sake house
+
+### Yoshi's networking update
+
+* Met the most prominent opium dealer in the city
+	* Name is Dorai
+	* Lives it up pretty well
+	* Gave Yoshi some nice clothes
+* Actually looking for housekeeping staff for the castle
+	* They don't leave the grounds
+	* Met a woman who is the sister of a housekeeper
+* Yoshi is posing as a party guy
+	* Using Dorai to meet more people
+
+### So the bar is called The Great Wall of Sake
+
+* Get some drinks
+* Talk of OH SHIT THE SANGO CORPSE IS OUT OF OUR SIGHT
+	* Seems like bad news
+* Inform Yoshi of Sango
+	* So vengeance against us?
+	* No, her dad
+* Something about the Kitsune sword
+* Yoshi wants to find a way into an imperial audience
+	* Emperor will want to talk about exports
+* Yoshi is finding a prostitute for Doji Aichiko
+
 ## Session 17 - 6/23/20
 
 ### Post-Skirmish Stuff

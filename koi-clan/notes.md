@@ -1,5 +1,85 @@
 # Notes
 
+## Session 19 - 6/30/20
+
+### During the night
+
+* Yoshi sends a letter to Tsuru
+	* Something about taking control of the plains of Momora
+	* Something about the ancestral sword of the fox and honor
+
+### Pre-breakfast
+
+* Otomo Sango's body is still there. Good.
+
+### Meta
+
+* Yoshi is blackmailing Seppun Ayame
+* Or maybe murdering the Usagi that is in custody
+* Fumetsu is incredibly proud to be a part of this
+* Did Ayame act maliciously?
+	* Yoshi thinks so
+	* But maybe not?
+
+### Breakfast!
+
+* The non-Yoshis eat some streetfishandrice
+* The Daily Divination
+	* Tsuru's vague question: "Will the Emerald Champion know and act on the truth that the Koi know?"
+	* Answer: "Long legs, long ears, a stranger/traveller, conflicting truths"
+	* "A travelling rabbit brings conflicting truths."
+	* GOD. FUCKING. DAMMIT.
+* Trying to figure out what to do about this hare
+	* Not much
+	* Hope
+	* Pray
+	* Sacrifice to the blood gods
+* Suddenly Yoshi is there
+	* He thinks the hare is the prisoner
+	* Tsuru suggests maybe it's somebody else coming to get the prisoner
+	* Yoshi suggests maybe he should "take care of that"
+	* Fumetsu: No
+* Kasumi notices a young girl (10-12 years old)
+	* She makes a suspicious move, about ready to leave
+	* She heard us?
+	* Kasumi looks, and the girl runs away
+	* Yoshi goes after her, almost immediatley loses her
+	* She ducks down an alley, Yoshi tries to stay on the trail
+	* He sees that she went up to the roof
+	* Sprints to catch up, and catches her
+	* Trips her, catches her
+	* Yoshi: Why were you listening to us?
+		* Girl: Paid to
+	* Yoshi: By whom?
+		* Girl panics
+		* Paid by Otomo Jinshoru
+		* Fuck
+		* Fuck fuck
+		* Fuck
+	* Yoshi threatens her... ish
+		* Says Jinshoru is going to kill her
+	* Yoshi says she should go to Koi lands
+		* Get a job at the Filt(h)y Pond
+	* She does? Probably? Maybe?
+		* Or maybe she just goes back to Jinshoru
+
+### WE'RE ATTACKED IN THE STREET
+
+* They're wearing Fox colors, but... clumsily
+* We handle it incredibly well
+	* Everybody does a great job
+* Interrogating attackers
+	* First on interrogated - Kitaru
+		* Employer didn't give a name, but has an address
+		* The maple-leaf respite tea house
+		* Man going by name "Naoki"
+			* Yoshi knows it's an alias of Usagi Yasutora
+			* Hare samurai who does dirty work for the Hare
+* Tsuru wonders why we don't do this
+	* We do. Well, Yoshi does.
+* We've attracted Seppun attention - including Ayame
+	* Recognizes Kasumi
+
 ## Session 18 - 6/27/20
 
 * Dun sum plannin'

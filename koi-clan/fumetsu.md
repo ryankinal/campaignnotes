@@ -2,7 +2,7 @@
 
 ## Quick Ref
 
-* Initiative: 6k4 + 10
+* Initiative: 7k4 + 10
 * Defense: 6k4
 * TN to be hit
 	* No armor: 25
@@ -10,6 +10,19 @@
 	* Reduction: 3
 * Wounds: 0
 * Void: 2/3
+
+## Wound Levels
+
+* Healthy (TN +0) = 15
+* Nicked (+3) = 21
+* Grazed (+5) = 27
+* Hurt (+10) = 33
+* Injured (+15) = 39
+* Crippled (+20) = 45
+* Down (spend void to act - +40) = 51
+* Out (Cannot act) = 57
+
+Healing rate (stamina * 2) + Insight Rank = 7
 
 ## RP Notes
 
@@ -39,9 +52,9 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 175
+Insight: (Rings * 10) + Skills = 185
 
-Rank: 2
+Rank: 3
 
 Status: 3
 
@@ -49,9 +62,9 @@ Glory: 2.0
 
 Honor: 5.4
 
-Experience gained: 70
+Experience gained: 74
 
-Experience remaining: 12
+Experience remaining: 0
 
 ## Traits
 
@@ -65,10 +78,10 @@ Experience remaining: 12
 * Strength: 3
 * Perception: 3
 
-### Air: 3
+### Air: 4
 
 * Reflexes: 4
-* Awareness: 3
+* Awareness: 4
 
 ### Fire: 2
 
@@ -81,22 +94,22 @@ Experience remaining: 12
 
 ## Skills
 
-* Battle 3 + Awareness 3 = 6k3
-* Courtier 3 + Awareness 3 = 6k3
+* Battle 3 + Awareness 4 = 7k4
+* Courtier 3 + Awareness 4 = 7k4
 * Defense 2 + Reflexes 4 = 6k4
-* Etiquette 3 + Awareness 3 = 6k3 
+* Etiquette 3 + Awareness 4 = 7k4
 * Iajutsu 5
-	* + Awareness 3 = 8k3
+	* + Awareness 4 = 9k4
 	* + Void 3 = 8k3
 		* Focus emphasis
 	* + Reflexes 4 = 9k4
-* Investigation 3 + Perception/Awareness 3 = 6k3
+* Investigation 3 + Perception 3/Awareness 4 = 6k3/7k4
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 1 + Intelligence 2 = 3k2
 * Lore: History 1 + Intelligence 2 = 3k2
 * Lore: Heraldry 1 + Intelligence 2 = 3k2
-* Sincerity 3 + Awareness 3 = 6k3
+* Sincerity 3 + Awareness 4 = 7k4
 * Tea Ceremony 1 + Void 3 = 4k3
 
 ## Disadvantages
@@ -128,19 +141,6 @@ Reflexes * 5 + Armor + 5
 * Light armor - 30
 	* Reduction: 3
 	* Athletics and Stealth TN + 5
-
-## Wound Levels
-
-* Healthy (TN +0) = 15
-* Nicked (+3) = 21
-* Grazed (+5) = 27
-* Hurt (+10) = 33
-* Injured (+15) = 39
-* Crippled (+20) = 45
-* Down (spend void to act - +40) = 51
-* Out (Cannot act) = 57
-
-Healing rate (stamina * 2) + Insight Rank = 7
 
 ## Weapons
 

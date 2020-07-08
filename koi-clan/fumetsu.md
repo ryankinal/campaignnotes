@@ -58,13 +58,13 @@ Rank: 3
 
 Status: 3
 
-Glory: 2.0
+Glory: 3.0
 
-Honor: 5.4
+Honor: 5.9
 
-Experience gained: 74
+Experience gained: 78
 
-Experience remaining: 0
+Experience remaining: 4
 
 ## Traits
 

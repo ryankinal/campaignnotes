@@ -1,5 +1,126 @@
 # Notes
 
+## Session 20 - 7/7/20
+
+* Holy shit it's been a full week
+* Cap again
+
+### Post-fight
+
+* Seppun Ayame asks wtf we're doing here
+	* Testifying about Sango - which Ayame is unaware of
+* And what about all these injured and/or dead folks on the ground?
+	* They attacked us
+	* Ayame gives some orders to guards
+	* And to peasants, to clean up the dead guy
+* Ayame notices that they're peasants in Fox clothes
+	* Yoshi points out that they're not Fox
+	* Recap the hired by Naoki stuff
+	* When asked who their lord is, it's minor Hare clan daimyo
+* She tells us to stay out of trouble "my little school of Koi"
+* Ayame has not recognized Yoshi? Hopefully.
+* Yoshi wants to keep the peasants? And... tie them up somewhere? Wtf, Yoshi.
+	* WTF
+	* Yoshi blindfolds them, ties them up, leads them to a place, and pays a guard to watch them
+* Apparently the rest of us just watch this happen and then go to see the Emerald Champion
+
+### Fox Clan discussions
+
+* Daimyo is dead
+* Representatives are not yet in the city
+* The heir may not yet know the daimyo is dead
+* Send a message to the Fox embassy
+	* We'll meet you when the rest of the contingent gets here
+	* Important matters to discuss
+
+### Audience with the Emerald Champion
+
+* Doji Hotaru
+* The room is exquisitely furnished
+	* Every piece is the best
+* Kakita Aichiko is at the table
+	* Beurocratic stuff, case numbers, etc.
+* Got some really good tea
+* Aichiko asks if there's any business to take care of and glares at Fumetsu
+	* Fumetsu asks about Sango's body - it's been verified and documented
+* We sign the logs
+* Doji Kanpo and Kuni Riuske enter
+	* Small talk
+* Aichiko enters and does bailiff stuff
+* We all stand as Hotaru enters
+	* Designer kimono, green, with some cranes on it
+	* We all kneel the fuck down
+* We all sit when she lets us
+* She has a whole shit-ton of presence
+	* Confidence
+	* Awareness
+	* Warrior-spirit
+	* Etc.
+* Tsuru tells the story
+	* Doji Shirayuki's assassination
+	* Koi capture of the assassin
+	* Finding of the body in the basement covered in Maho runes
+* Riuske tells of finding the body
+	* Clear evidence of a bloodspeaker
+* Tsuru continues
+	* Fumetsu guards Sango for fear of assassination
+	* Others investigated
+	* Found that the body was that of the admitted assassin
+* Ayame suggests that they have the assassin
+	* Hare - Usaki Koichi
+	* And Hare have been dabbling in Maho
+* Tsuru repeats the part about the body being the assassin
+* Hotaru: But what about the death of Otomo Sango?
+	* The magistrates were there
+	* Sango revealed herself to be a bloodspeaker
+	* Sango summoned an Oni
+		* Hotaru is surprised
+		* The Oni killed Kaoru
+	* We eventually triumphed and Sango was killed
+		* But the Oni was not
+* Kanpo: Corroborates Tsuru's testimony
+* Hotaru asks Fumetsu about guarding Sango - part of the bloodspeaker cult?
+	* Nah. I stopped her once it became clear.
+* Hotaru declares that the death of Sango was a service to the empire
+	* Koi should be lauded for these efforts
+* BUT WAIT
+* Tsuru reveals that Sango took over the body of Kaoru
+* Hotaru: Cool. Thanks for the warning.
+* Also absolved the Koi
+* Regarding the discrepency in the identity of the assassin
+	* Seppun have the right guy. Not sure wtf is going on.
+	* Sending an Imperial Legion to destroy the Hare for their atrocities
+
+### Oh Damn
+
+* What do we do now?
+* Can we stop the Imperial Legion?
+	* Tsuru: Maybe we just offer help. Maybe get some land.
+* Can we save the innocent prisoner?
+* Yoshi: Can we kill Seppun Ayame?
+	* NO
+
+### At the Hotle
+
+* Approached by a Hare samurai - Motomu
+* Asking to help clear their name
+* Yoshi: Well why did you try to kill us?
+	* Yasutora thought it was a good plan
+	* It wasn't
+* (Much OOC discussion)
+* Tsuru: So, guy, why is everyone after the Hare?
+	* Dunno
+	* The Fox have been accusing them of Maho for many months
+	* Hare clan was founded by ancestors' defiance of bloodspeakers
+* We go out and discuss
+	* Yoshi suggests we ask the Emperor to allow us to rout any Hare bloodspeakers
+	* Nah, not gonna work.
+* Maybe we can get something from the Hare before they're destroyed?
+* Yoshi:
+	* Offer to take their samurai
+	* Offer to marry their single people
+* Yoshi is going to kill Seppun Ayame
+
 ## Session 19 - 6/30/20
 
 ### During the night

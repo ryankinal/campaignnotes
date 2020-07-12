@@ -43,8 +43,7 @@ Healing rate (stamina * 2) + Insight Rank = 7
 		* Promote honor, rather than deceit
 	* Quash the criminal element in Koi lands
 		* Enzan province in particular
-	* Vengeance against those who hurt Hanako
-		* More killing blood mages
+	* Reveal Otomo Jinshoru
 
 ## Basic Info
 
@@ -62,9 +61,9 @@ Glory: 3.0
 
 Honor: 5.9
 
-Experience gained: 78
+Experience gained: 82
 
-Experience remaining: 4
+Experience remaining: 8
 
 ## Traits
 

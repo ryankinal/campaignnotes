@@ -1,5 +1,198 @@
 # Notes
 
+## Session 21 - 7/11/20
+
+* Recapitualtion
+
+### Things that happened (that didn't happen before)
+
+* The Hare are not completely fucked yet
+	* There will be a decision in open court
+* Kasumi sent a letter to the Emerald Champion
+	* The correct man would have a healing arrow wound
+	* Shot in front of Seppun Ayame, so... she should know
+
+### Yoshihiro the Night Before
+
+* He inquires about the peasants that came
+* Nope. Nobody showed up.
+* Oh well. He goes and parties with his best friend.
+* Looking to meet somebody that will be in court
+	* Maybe do some drugs with them
+	* Get on their good sides
+* He meets a young man (no need to feel down)
+	* Accent signifies Phoenix lands
+	* Wouldn't be here if it weren't a court thing
+	* His name is Shiba Koto
+	* He's a bodygouard for Asako Arai
+	* He's drinking a bunch
+	* Yoshi could take advantage IF he were the blackmailing sort
+
+### Breakfast Club
+
+* Fumetsu brings up Otomo Sango
+	* Do we believe what she said about Jinshorhu?
+	* Maybe
+	* Sort of
+* Perhaps Ayame is just a pawn in greater things
+	* Maybe Sango's pawn?
+	* Kasumi and Fumetsu think she's not malicious, at least
+* Can we kill Sango again?
+	* Maybe Moriko can
+	* Or maybe she can resolve Sango's soul-stuff
+	* And allow her to move on
+* OMG THERE'S SO MUCH GOING ON
+* Tsuru wonders who would want to destroy the Hare
+	* Fumetsu: The Fox?
+		* If the Hare are destroyed, they get the Plains of Momora
+		* And that's probably bad for the Koi
+	* Tsuru: DAMMIT
+* Moriko's possibility of "curing" the Emperor
+	* Need to get rid of the Gaki around him
+	* Assuming it's the same as Tamahide
+	* Gotta be closer to the Emperor
+	* Maybe incense?
+	* Maybe get to a temple and do some meditation
+* Fumetsu: OMG WE HAVE TO HIDE THE SCROLL
+	* Can't leave it here
+	* Can't take it with us for fear of detection
+	* Yoshi: If nobody knows we have it, maybe just send it home?
+	* It's possible that the spirit of the sword was hiding the scroll
+		* Or maybe there was an anti-divination spell
+	* Okay maybe we don't give the sword to the Fox in court
+		* Maybe at their embassy or something
+		* We need the political capital, but maybe not enough to flaunt the scroll thing
+* Moriko: So, do we "cure" the Emperor first?
+	* wtf no
+* Tsuru: So how do we save the Koi?
+	* Fumetsu: Moriko's Elixir
+	* Yoshi: But she'll just betray us when a greater clan?
+	* Everybody: Nah
+* Moriko:
+	* We can get Fox and Hare allies
+	* And Crab allies because of taint cure
+	* Maybe we can talk to the heir to the throne
+	* Then kill the Emperor
+* A Plan By Tsuru
+	* He speaks in Court
+	* Fumetsu presents the sword
+	* We meet with the Crab to present Moriko's taint cure
+	* Kasumi asks about the Usagi's arrow wound
+	* Yoshi makes friends?
+* Divination - "Why are the Hare being framed?"
+	* "To catch a large fish, appropriate bait must be used."
+* Yoshi: I'm going to go talk with Otomo Sango
+	* Because apparently that will be useful
+
+### Summary of stuff going on
+
+* Hare being destroyed
+	* Calling into question Seppun Ayame's prisoner
+* The dark Scroll
+	* We gots to hide it
+* The Otomos
+	* What do we do about Sango?
+	* Is Jinshoru a threat?
+	* Or any of his children?
+* The Elixir and the Emperor
+	* "Curing" the Emperor
+	* We can't provide the Elixir/export
+
+### Yoshi and Kasumi
+
+* Yoshi asks Kasumi to send a bird to Sango asking for a meeting
+* Kasumi: Are you sure?
+* Yoshi: Yep. Gonna be dangerous.
+
+### Meeting with Usagi Motomu
+
+* Tsuru: Recap pls
+	* They want help from the Koi
+* Any Otomos in hare landes?
+	* Otomo Kamman
+	* Not a great relationship - kinda surly, maybe resentful
+* How about the Fox
+	* Things are bad with the Fox
+	* The Fox have a close relationship with the Otomos
+	* They're trying to get a direct audience with the Emperor
+* And the Sparrow?
+	* Perfectly fine. Except for the whole war thing.
+	* They were allies before
+	* Don't know who to trust anymore
+* We have a piece in play, and we'll do what we can
+* If the Koi succeed, we'll be super-allies forever
+* Who in the Kitsune is accusing? And why?
+	* The fox have the ear of Jinshoru
+	* SON OF A BITCH
+
+### WTF Discussion
+
+* We figure maybe Jinshoru wants influence with the Kitsune to get the sword
+* In order to get the scroll
+* And revive Fu-Leng
+* And in return he's giving them the Hare clan, and the war, and the plains
+* Kind of odd that he's just attack the Kitsune though
+
+### Yoshi waits for Otomo Sango
+
+* Meeting at a safehouse
+	* He had apparently found this before
+	* It's at a distillery outside of town
+	* Under Kolat control
+* Sango arrives in a travelling cloak and a huge hat
+	* Yoshi bows slightly
+	* What a dick
+* Sango is done with the niceties
+* She takes off her hat
+	* Slightly decayed face of Kaoru
+* Yoshi's questions:
+	* You framed the Hare?
+		* Nah, it was Jinshoru
+		* She just needed the assassin for blood power
+			* Make the suspect disappear
+			* Thought she had
+	* But Seppun Ayame now has a Hare?
+		* She was puppeteering the assassin
+	* An alliance won't work.
+		* Sango: "I tend not to trust men who killed me."
+	* Can we save the Hare, and expose Jinshoru? Disrupt his plans?
+		* Sango: Not sure what Jinshoru wanted from the Fox/Hare war
+	* Are you seeking revenge?
+		* Yep
+	* Maybe I can draw him out?
+		* Jinshoru is shrewd
+	* Can you outlive him
+		* Lol no already dead
+	* What help do you need? What would we get out of it.
+		* He'd be dead. Isn't that reason enough?
+* Yoshi suggests we could sidestep "her damnation"?
+	* She's interested
+	* Koi shugenja can cure taint
+	* Sango says Kasumi had potential
+		* Lol she thinks it's Kasumi
+* Sango: Fine, what do you want?
+	* Save the Hare
+	* Make it known that the Usagi they have in custody is not the assassin
+	* In public
+	* Sango says she can make it happen
+* Yoshi wants to save her soul as well
+* Sango is amenable
+	* "Very well. But I swear to you, Yoshihiro. If you betray me, I will make your life very uncomfortable. Or short. Either way."
+* They're super friendly. And definitely going to bang.
+* Looks like we're allied with a Bloodspeaker now. Cool.
+
+### Court?
+
+* Next week
+
+### Pre-court
+
+* Rumor:
+	* The emperor hasn't been seen in two weeks
+	* Court is likely to be run by Matsu Satsu
+		* The Imperial Advisor
+		* The brother of Matsu Ruriko - enemy of the Koi
+
 ## Session 20 - 7/7/20
 
 * Holy shit it's been a full week

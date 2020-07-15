@@ -1,8 +1,109 @@
 # Notes
 
+## Session 22 - 7/14/20
+
+### We're Pretty Sure
+
+* The Emperor is going to die
+* Otomo Jinshoru is going to become Emperor
+	* There are a few people that have to die first
+	* They will
+
+### Cocktail Hour/Mingling
+
+* Wrought iron gates to FORBIDDEN CITY
+	* Depicts chrysanthemum symbol
+	* Seppun guards line the path
+* Led into a FANTASTIC garden
+	* No plant that is not at the peak of its bloom
+* Jinshoru is talking to Doji Takako
+	* We go over to offer condolences to both of them
+	* Fumetsu goes off about how great Shirayuki was
+		* Obviously pointing at how dishonorable Sango was/is
+	* Jinshoru leaves
+	* Fumetsu has a date with Doji Takako?
+		* Gonna be trouble with Hanako
+		* Can't say no to an imperial heir
+* Tsuru talks to the Sparrow delegate
+	* Humble garb - ethic of honorable poverty
+	* Late 30's
+	* Suzume Maharu
+	* In conversation with a Dragon Samurai
+	* Tsuru does Tsuru things and eavesdrops
+		* Sparrow and Dragon are discussing songbirds of their regions
+		* Dragon is talking about an illuminated set of scrolls
+			* Asako scholar compiled this about songbirds
+			* Maharu would love to read it
+	* Maharu notices Tsuru
+		* Engages in conversation about the birds around the Koi palace
+	* Tsuru is looking for info on Fox and Hare
+		* Looking for peace among minor clans
+		* Sparrow have had some battles
+			* Hare were scouting
+			* They had a patrol
+			* Repelled the scouts, but lost one samurai
+		* Sparrow have not talked with Hare
+		* Good relationship with the Fox
+			* Crab and Crane often forget about Sparrow
+			* So the Fox take up the slack
+	* Tsuru suggests that we four minor clans should speak more
+		* Fox, Hare, Sparrow, Koi
+		* A neutral meeting place - maybe the Plains of Momora
+		* Maharu suggests Fox would never agree to such a thing
+		* "Too friendly a gesture toward the Hare might be seen as supporting unsavory things."
+		* Maybe Koi can ally with the Fox and Sparrow, though
+	* "The fate of the least of us is the fate of the rest of us."
+		* Consequences could bode ill for all us minor clans
+	* Dragon says Dragon things
+		* "The Sparrow fly the skies, the Koi swim the seas, but who is the mountain that joins them?"
+* Yoshi sees his Phoenix Pal - Shiba Koto
+	* Guarding a Phoenix woman with PRESENCE
+	* Holding lively court with 6 or 7 samurai of various sorts
+	* Yoshi talks to Koto
+		* Suggests that Koto did some dishonorable things last night
+		* Koto remembers most of it
+		* Yoshi still suggests that maybe he did some things
+			* And Yoshi blackmails him for us
+			* And just says he's a Koi
+* Fox delegate is here too
+	* Kitsune Momiji (she/her, late 20's)
+	* Talking with a Unicorn dude
+	* She doesn't know Oshiran is dead yet
+		* Fuck
+	* Tsuru tells what we found
+	* Did we bury them?
+		* No, we sent for people to do that
+		* She's super upset
+		* Don't worry, though, we definitely super-killed the ogres who did it.
+* Kasumi gets the name of the Dragon dude
+	* Togashi Hizumi
+	* Knows Kasumi's friend
+	* Kasumi is glad to be there
+	* Hoping somebody respects evidence as much as Kasumi's friend
+		* Not this dude
+		* "Facts leave no room for the soul. WTF?"
+	* He's a friend, though
+* Kasumi casts a social defense spell on Tsuru on the way in
+
+### ACTUAL COURT
+
+* Matsu Satsu calls court to order
+* Emperor is unavailable
+	* Booooooo
+* There's some business
+	* Statues
+	* Other bullshit
+	* Satsu is slooooooowwww
+	* Jinshoru nods off
+	* For 5 hours
+* Finally get attention of the court
+	* Phoenix whispers to Tsuru: "Please make it short, friend."
+
+CLIFFHANGER
+
 ## Session 21 - 7/11/20
 
-* Recapitualtion
+* Recapitulation
 
 ### Things that happened (that didn't happen before)
 

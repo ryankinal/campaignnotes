@@ -38,12 +38,12 @@ Healing rate (stamina * 2) + Insight Rank = 7
 * INCLUDE YOUR WIFE - CALL HER HANAKO
 * SPEND YA DAMN VOID POINTS
 * Goals
+	* Reveal Otomo Jinshoru
 	* The honorable rise of the Koi
 		* Destroy blood magic in Koi lands
 		* Promote honor, rather than deceit
 	* Quash the criminal element in Koi lands
 		* Enzan province in particular
-	* Reveal Otomo Jinshoru
 
 ## Basic Info
 
@@ -57,13 +57,13 @@ Rank: 3
 
 Status: 3
 
-Glory: 3.0
+Glory: 5.0
 
-Honor: 5.9
+Honor: 8.1
 
-Experience gained: 86
+Experience gained: 90
 
-Experience remaining: 12
+Experience remaining: 16
 
 ## Traits
 
@@ -102,7 +102,9 @@ Experience remaining: 12
 	* + Void 3 = 8k3
 		* Focus emphasis
 	* + Reflexes 4 = 9k4
-* Investigation 3 + Perception 3/Awareness 4 = 6k3/7k4
+* Investigation 3
+	* Perception 3 = 6k3
+	* Awareness 4 = 7k4
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 1 + Intelligence 2 = 3k2

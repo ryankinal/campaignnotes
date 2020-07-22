@@ -1,5 +1,138 @@
 # Notes
 
+## Session 23 - 7/21/20
+
+### Recapitulation
+
+* Kasumi's anti-emotional-manipulation buff on Tsuru is gone
+* We're in the middle of court
+* It's just about our turn
+* After several hours
+
+### TIME FOR COURT
+
+* Koi Clan delegation has been recognized by the court/scribe/Satsu etc.
+* We all go up and stand with Tsuru
+* We ask to share time with the Fox
+	* Tsuru spouts off about how awesome the Fox are
+	* We give the sword back
+	* omg so much honor and glory
+	* There's a handoff/inheritance ritual
+		* It's pretty cool
+* Emerald Champion - Doji Hotaru - is bringing up Hare stuff
+	* Do we destroy them? MAYBE
+	* Accusations of maho! GASP
+		* Jinshoru swore that
+			* Sango witnessed direct Maho use by Hare samurai
+			* And then again witnessed Maho use during the murder of Doji Shirayuki
+			* And then the Hare murdered Sango?
+			* These crimes are greater than any seen in the history of Rokugan
+	* Hotaru is suggesting that we destroy the Hare
+	* Yoshi claims responsibility for killing Sango
+		* Everybody gasps
+		* People loosen daisho
+		* Hotaru hand goes to her hilt
+	* Hotaru: Koi have been recognized
+		* But yo, you're wrong
+	* Yoshi: Kay
+	* Fumetsu: No, we're not wrong. Fuck you.
+	* Kasumi: Also, hey, there should be a wound on the accused Hare
+	* Dragon dude stands and says that Kasumi's word is good
+		* Ha makes his pecs dance? WTF?
+	* Kanpo verifies too. Sweet.
+* Court is adjourned
+	* Satsu suggests everybody seek guidance from their ancestors
+
+### Post-court
+
+* Fumetsu meets Doji Takako
+	* Meet at the chrysanthemum garden
+	* She's guarded by no fewer than 3 Seppun guards
+	* Her mood is playful
+	* Leads Fumetsu to a Koi pond
+		* Gorgeous koi
+		* Domesticated (vegan) cranes
+		* Some designer ducks
+	* Small talk small talk small talk
+	* Takako feeds the fish
+	* Offers Fumetsu some, but also holds a rock
+	* She makes a ruckus with the rock and whispers
+		* Jinshoru is trying to kill her
+		* Needs help
+		* Came to Fumetsu in particular for some reason
+* Moriko goes to find the shrine to the Hantei line
+	* Kasumi goes too
+	* Super oppulent shrine
+	* Highly respectful to offer prayers at this shrine
+	* Moriko is trying to contact the Gaki
+		* She sees several Gaki at the temple, gnawing on the beams
+			* They see her too
+			* "It can see us?"
+		* Moriko asks what they like to eat
+			* Maybe Moriko, I guess
+		* Moriko: "But I could bring you more in the future"
+		* They were being fed by the Emperor
+			* No longer being fed by the Emperor
+			* BECAUSE OF COURSE THEY WERE BEING FED BY THE EMPEROR
+		* They'd very much like to eat divine flesh
+		* But wouldn't mind feeling not hungry anymore
+		* Trying to figure out how to bring them peace
+		* If not the Emperor, maybe they can eat the little "Divinelets"
+			* Probably the Emperor's heirs
+	* Moriko goes to the Monk with the broom
+		* Just trying to cleanse the shrine of unwelcome spirits
+		* Moriko thought that was the case
+		* She offers some "special incense"
+		* The monk has heard of Moriko
+		* They would love to have some incense
+			* Great honor and all that
+	* Kasumi asks Moriko how it went
+		* It was... okay
+		* Gaki think Moriko is delicious
+		* Kasumi can banish a single Gaki of necessary
+		* Moriko reveals that the Gaki had been feasting on the Emperor
+		* Moriko fears what will happen if they aren't dealt with
+			* Something like Kitayama
+* Moriko goes to the Incensery to make some incense
+	* Kasumi gives her the busted Int buff
+	* Holy shit 10k8+5 wtf even is this roll?
+	* Creates some damn good incense
+		* It will interact with the spiritual essence of the Gaki
+* Burning incense
+	* Monk is super impressed
+	* Asks if Moriko could teach them
+	* Moriko refuses, but pushes her school
+	* Would the school accept monks?
+		* Sure, why not?
+		* All should be able to learn
+		* All about the herbs, man
+		* But advanced stuff is Shugenja-only
+	* Such honor wow
+* Kasumi checks on presence of Gaki nearby
+	* They're huddled around the incense
+	* They're huffing it hard
+* Yoshi checks on Scorpion woman
+	* She blushes, but then covers with a fan
+
+### Wrap-up
+
+* Yoshi met with Sango
+	* Promise Moriko's services for help in clearing the Hare
+* Fumetsu: Jinshoru is trying to kill Doji Takako
+	* And probably everybody else in his way
+* Fumetsu and Yoshi argue about working with Sango
+* Arrange for the Usagi prisoner to be examined NOW
+
+### What we know
+
+* Jinshoru hates us
+* Yoshi made a deal with Sango
+* Doji Takako is in immediate danger
+* Moriko is tasty to the Gaki
+* The Emperor is dying... quickly
+	* And maybe has a box?
+* Expect to hear from Usagi Motomu
+
 ## Session 22 - 7/14/20
 
 ### We're Pretty Sure

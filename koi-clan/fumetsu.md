@@ -51,7 +51,7 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 185
+Insight: (Rings * 10) + Skills = 195
 
 Rank: 3
 
@@ -59,11 +59,11 @@ Status: 3
 
 Glory: 5.0
 
-Honor: 8.1
+Honor: 8.3
 
-Experience gained: 90
+Experience gained: 94
 
-Experience remaining: 16
+Experience remaining: 0
 
 ## Traits
 
@@ -80,7 +80,7 @@ Experience remaining: 16
 ### Air: 4
 
 * Reflexes: 4
-* Awareness: 4
+* Awareness: 5
 
 ### Fire: 2
 
@@ -93,24 +93,24 @@ Experience remaining: 16
 
 ## Skills
 
-* Battle 3 + Awareness 4 = 7k4
-* Courtier 3 + Awareness 4 = 7k4
+* Battle 3 + Awareness 5 = 8k5
+* Courtier 3 + Awareness 5 = 8k5
 * Defense 2 + Reflexes 4 = 6k4
-* Etiquette 3 + Awareness 4 = 7k4
+* Etiquette 3 + Awareness 5 = 8k5
 * Iajutsu 5
-	* + Awareness 4 = 9k4
+	* + Awareness 5 = 10k5
 	* + Void 3 = 8k3
 		* Focus emphasis
 	* + Reflexes 4 = 9k4
 * Investigation 3
 	* Perception 3 = 6k3
-	* Awareness 4 = 7k4
+	* Awareness 5 = 8k5
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 1 + Intelligence 2 = 3k2
 * Lore: History 1 + Intelligence 2 = 3k2
 * Lore: Heraldry 1 + Intelligence 2 = 3k2
-* Sincerity 3 + Awareness 4 = 7k4
+* Sincerity 3 + Awareness 5 = 8k5
 * Tea Ceremony 1 + Void 3 = 4k3
 
 ## Disadvantages

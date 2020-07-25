@@ -1,5 +1,181 @@
 # Notes
 
+## Session 24 - 7/24/20
+
+### Meeting with the Crab
+
+* Handome building of quality and craftsmanship
+	* Simple lines, broad, heavy timber
+	* Not delicate at all
+* Met by Kuni Riuske
+* Escorted to spartan, austere, but well-constructed chamber
+* Herald announces Hida Reiha (and attendants)
+	* Not impolite, but to the point
+* Tsuru introduces Moriko, and her work
+	* Reiha seems like she isn't so interested
+	* But asks for details anyway
+* Moriko tells of her discovery
+	* Communicate with the spirit of the taint through meditation
+	* Create an herbal medicine that seems to drive out the taint
+	* Heal them, rather than suffer the effects
+* Reiha interrupts: Riuske, you bring a tainted woman here?
+	* Riuske: Nah, she's good. Give her a chance.
+* Reiha: THAT'S IMPOSSIBLE
+	* IMPOSSIBLE, I TELL YOU
+* Moriko: I can prooooove it though
+	* Reiha: lol right. But on who?
+* SURELY THERE IS SOMEBODY TO TEST IT ON
+	* Maybe ask somebody
+	* Yeah, that seems like a good idea
+	* Reiha is still doubtful
+	* Rokugani balogna (lol)
+* Reiha calls Moriko a bloodspeaker
+	* Fumetsu and Kasumi object
+	* Reiha apologizes, in a manner
+	* Good enough
+* Moriko is subjected to a Jade Strike spell
+	* Of course, she is unaffected
+* Tsuru says Moriko is brave and brilliant
+* SMALL TALK
+	* Weather
+	* Tea
+	* Other stuff
+* Kuni comes back with wretched-looking man in tow
+	* Shinjo Hideo
+	* Victim of the taint
+	* Kept in control with jade-leaf tea
+* Moriko goes through her ritual stuff
+	* Greetings
+	* Explaining the process
+	* He's willing
+	* Time for some meditation
+	* Move to a quiet area
+		* Reiha and Kuni Toru observes
+		* So does Fumetsu
+* Yoshi, Kasumi, and Tsuru go find food
+	* And presumably other shady dealings
+
+### Moriko's Ritual
+
+* Crab shrine has been evacuated
+* Hida Reiha, Kuni Toru, and Fumetsu watching
+* Moriko meditates with Shinjo Hideo
+* Moriko sees a young man in luxurious purple robes
+	* Seems to be a merchant
+	* Moriko greets him
+	* He offers a bauble from across the Burning Sands
+* Moriko sees scars from taint and ostracization
+* Moriko asks about his stuff
+	* He finds a bag of rice, opens it, and noxious smoke billows out of it
+* Moriko communicates with the taint
+	* "Oh, little fish, we've heard about you."
+	* Not going to leave this guy as easily
+	* The taint will leave Hideo if it can occupy Moriko
+		* Moriko: No, I'm not a very comfy host
+		* Maybe something else?
+	* Taint will leave host if at 4am, Moriko places a plate of rice balls under the cherry tree outside of [address]
+		* Will not enter another human body unless invited
+* Sees Hideo's astral form again
+	* "WTF? This cart feels lighter now."
+	* Moriko has lessened his burdens
+* Stops meditation
+	* Hideo is still watching
+	* "Well, he does look better."
+
+### Lunch/dinner/linner
+
+* There's some food
+	* It is well-described
+* Yoshi wants to talk about actual stuff
+* Tsuru just wants food
+	* Also to espouse the great deeds of Moriko
+	* And how it will boost the Koi
+* Kasumi: Yoshi, you know my curse. Do you think there are more like me?
+	* Yoshi: Have you asked Moriko to help you?
+	* Kasumi: Will it work?
+	* Yoshi: WHO KNOWS? Just try it.
+	* Kasumi: Maybe we can find somebody else in the city.
+	* Yoshi: Kuni might now, but they might kill you too.
+* Blah blah people change
+* Yoshi could maybe find somebody who can help Kasumi
+
+### Yoshi's Kolat Meeting
+
+* He ninja's into the room
+* The evil league of evil is there
+* They're risking a lot to meet him
+	* But they want to see what he wants
+* Yoshi: The Hare are all but saved
+	* Them: Yeah, pretty close
+* Yoshi: There's a greater threat to the Hare than I can handle, but I'll try
+	* Them: Umm. Cool.
+* Yoshi: You know who I'm talking about, yeah?
+	* Them: Nah, tell us
+* Yoshi: Jinshoru wants to become the Emperor
+	* Them: Let him do his thing. One of his advisors is a member.
+	* Them: We gave him some ideas.
+* Yoshi: Should I meet this advisor?
+	* Them: Nah
+* Yoshi: But I've already set wheels in motion to kill Jinshoru
+	* Them: Ah, yeah, that's fine
+* Yoshi: I know lots you don't
+	* Them: Nah. You're expendable.
+* Yoshi: Maybe you should tell him to stop fucking with the Koi
+	* Them: Meh. Maybe.
+* Yoshi: Do I pass the test?
+	* Them: I guess, yeah.
+* They give Yoshi a shadowy name: Master Kappa
+
+### Sleeeeeeping
+
+* Kasumi sends dreams to Hida Reiha
+	* The cure for the taint slipping out of her grasp
+* Tsuru is in a food coma
+
+### Morning
+
+* Something not quite right
+	* Heads are fuzzy, as is the world around us
+* Yoshi grabs his sword
+	* It grounds him
+* The inn feels better/newer
+	* The stairs which were worn now look newer
+* Same with the brothel
+	* Yoshi armors up and runs to the inn
+
+### Breakfast Club
+
+* Yoshi busts in on everybody else
+* Fashion is like... two generations back
+* Kasumi asks the date
+	* Normal date is the 3rd of Goat, 1075
+	* Host says the year is 1011
+* It's the year the Koi clan was founded
+* Yoshi rushes out, saying we need to get to somewhere private
+	* We can then talk
+* Tsuru disbelieves
+	* Vehemently
+* Kasumi asks the Kami or the sticks or something
+	* "Who should we turn to in this time?"
+	* Go to the Koi pond in the central garden of the city
+	* Tonight is a full moon
+* Tsuru thinks it's a joke Yoshi was setting up
+* Yoshi truth serums Tsuru and himself
+	* Tsuru still doesn't belive it
+	* Everybody else tries to convince him
+	* Yoshi reveals he is in love with Kasumi
+* Moriko drugs Tsuru to help with delusion
+	* It helps?
+* Discussion of marriage between Yoshi and Kasumi
+* Kasumi and Moriko run away to buy time-appropriate clothes?
+* Tsuru: So... anyone hungry?
+
+### Arriving at the Koi Pond
+
+* Dressed in time-appropriate clothing
+* Moriko notices a man standing at the pond who bears a resemblanc to her mother (Tama)
+	* It's definitely her granddad Kagimore
+
 ## Session 23 - 7/21/20
 
 ### Recapitulation

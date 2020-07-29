@@ -1,5 +1,175 @@
 # Notes
 
+## Session 25 - 7/28/20
+
+### BACK IN TIME
+
+* Retcon: Instead of Moriko's grandfather
+	* We see a young woman about 25 years old
+	* No particular resemblance to any of us
+	* Petit. Sharp, angular features
+	* Appearance has a "rogueish" bent to it
+		* Courtly best, but interesting cuts
+		* Asymmetrical hairstyle
+	* This may be Rin - Tamahide's "companion"
+		* Fiery temper, but a lot of charm
+		* Young, loyal friend
+		* Got the "merry band" into a lot of trouble
+		* But bound a lot of them together
+	* Has her son Naozumi with her
+		* Chasing butterflies
+		* Getting dirty
+
+### At the Koi Pond
+
+* We approach Rin
+* Yoshi: "These Koi are beautiful"
+	* Rin: "You know, eagles think the same thing."
+	* Discussion about Yoshi's armor
+	* And strange birds.
+		* Lol Yoshi is a strange bird.
+* Rin: What's with the odd mon? I don't recognize it.
+	* Yoshi: Ronin. Family thing.
+* Rin: I'm here to talk about fish myself
+	* Powerful friends who might be getting an imperial boon
+	* Perhaps a minor clan
+* Rin gives up that there's some immortality stuff
+	* Something about "disinformation"
+	* She has many social skills
+* Fumetsu: Perhaps you're more koi than eagle?
+	* Rin: Which would you choose?
+	* Fumetsu: Interesting question.
+	* Kasumi: Maybe an eagle who as caught a fish.
+	* Rin: :looks off in the distance:
+	* Rin: Longer life in captivity - that's how it goes. Servants. Land. etc.
+	* Fumetsu: You're not used to such things?
+	* Rin: Nope.
+* Fumetsu: Was getting a clan the purpose of giving your gift to the Emperor?
+	* Rin: I'm not sure. We were happy on the road...
+	* Rin stops herself and hides behind a fan
+* Kasumi: Maybe we're family?
+	* One finds familiy wherever you can
+* Rin: Whatchy'all doing here? Is there War?
+	* Fumetsu: Maybe. But quite far off.
+* Yoshi: The Lion are a threat. They're upstarts.
+	* Rin: Not sure the Lion are upstarts
+* Yoshi invites Rin to dinner
+	* But a familiar voice calls her over
+	* It's Tamahide
+	* About 20 years younger
+* Tamahide is accompanied by
+	* Chiyuna, young and vibrant and happy
+	* Rin (Tamahide's "friend")
+	* Natsuo
+	* Shuko
+	* Benika
+	* Kagemori
+* Yoshi: OH SHIT IS THAT TAMAHIDE CAN YOU INTRODUCE US?
+	* Rin: Oh, you know of him?
+	* Rin: Ummmm. Sure, I guess?
+
+### Meeting the Founders of the Koi Clan
+
+* Rin introduces us
+* Tsuru meets his dad... at age 5
+* Yoshi offers to buy Tamahide dinner
+	* And suggests he tells stories
+	* Tempting his pride
+	* Tamahide: SURE WHY NOT LET'S GO TO THE TEA HOUSE
+		* "Imperial Golden Good Luck Plum Tree House"
+* Rin tries to pass the kids off to Chiyuna, who is huffing about "going to the bar"
+	* Chiyuna takes the kids
+	* The kids fall in line
+
+### Meta: So what do we do now?
+
+* Tsuru: Eat a bunch
+* Fumetsu: Poke at Tamahide (politely) about the Celestial Order
+
+### Food and Drink with the Not-Yet-Koi
+
+* Eating, drinking expensive stuff
+* Tamahide is "big man on campus" - he IS the party
+	* He's flirting with the barmaid
+	* Sitting inappropriately close to Rin
+	* Making baudy jokes
+* Rin seems different than she was before
+* Fumetsu is sitting politely
+* Kasumi gets expensive sake
+* Tsuru gets expensive tofu
+* Benevolent brotherhood are all in good spirits
+* Tamahide: So, Yoshi, what do you want to know about?
+	* Glorious stories
+		* Fought an Oni
+			* Super epic
+			* Potion to lure an Oni
+			* Used some Jade, then told the Kuni about Jade
+				* Liar
+		* Freed a village in Sparrow lands
+			* Make food for Brotherhood instead of Samurai
+* Yoshi tells some over-the-top stories too
+* Tamahide notices Fumetsu sitting politely
+	* Yo, wtf?
+	* Fumetsu: Strengthening my spirit
+	* Fumetsu mentions Buun and Celestial
+	* Mentions Ashinagabachi too
+	* People are fascinated, cowed, and interested
+	* Tamahide asks about peasants
+	* Fumetsu suggests that people should try this soul-strengthening
+		* And looks meaningfully at Tamahide
+		* But he's drunk
+* Yoshi thinks Tamahide is a "functioning alcoholic"
+	* Maybe using Gaki to stop necrosis of the liver
+* Tsuru: Tamahide, why are you asking about Ashinagabachi?
+	* Gonna move in there
+* Tsuru: Surprised it wasn't given to you
+	* Tamahide: I EARN EVERYTHING I GET
+	* I'M THE EMPEROR'S MOST VALUABLE SERVANT
+* Tsuru: How about some sake?
+	* Tamahide: Of course!
+* Tsuru orders more fancy food
+	* Already ate it
+	* Orders something else equally fancy
+* Yoshi is watching Natsuo
+	* Looking for an opportunity to infodump all over him
+	* Gets one when he has to urinate
+	* Yoshi infodumps
+		* Tamahide's gift to the Emperor
+	* Or not... might have unintended consequences
+	* Just babbles with Natsuo for a while
+* Kasumi excuses herself for a moment
+	* Projects herself into Yumido
+	* Feels like bouncing between two mirrors
+	* Stops herself
+* Yoshi encounters Kasumi on the way back inside
+	* She's having "moon troubles"
+	* Asks for Yoshi's help
+	* Kasumi gets more drunk
+	* Yoshi consults his spy network
+		* Finds a solid holding place for Kasumi
+		* He finds one
+		* And takes Kasumi there
+		* It's gross and dark and infested
+	* Yoshi starts to bind Kasumi
+		* She says no, just let me be
+* Tsuru gets a bird about Kasumi
+* Fumetsu notices a disguised person
+	* Robes of a merchant
+	* Can't hide entirety of skin-tone
+	* It's a gaijin
+	* Tamahide notices
+		* Looking toward the gaijin
+		* But still trying to tell a story
+	* At the bar: "The Roc flies at midnight"
+		* Then leaves
+	* Fumetsu keeps an eye on the bartender
+* Tim takes control of Kasumi
+	* Cut-scene
+	* Something "whooshes" by Yoshi
+	* Kasumi darts around a corner at unnatural speeds
+
+TO BE CONTINUED... KOINTINUED
+
 ## Session 24 - 7/24/20
 
 ### Meeting with the Crab
@@ -173,7 +343,7 @@
 ### Arriving at the Koi Pond
 
 * Dressed in time-appropriate clothing
-* Moriko notices a man standing at the pond who bears a resemblanc to her mother (Tama)
+* Moriko notices a man standing at the pond who bears a resemblance to her mother (Tama)
 	* It's definitely her granddad Kagimore
 
 ## Session 23 - 7/21/20

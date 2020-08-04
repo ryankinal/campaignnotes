@@ -1,24 +1,3 @@
-Character 1
-
-* Half-Elf
-* Rogue
-* Guild Artisan
-	* Guild: Painters, limners, sign-makers
-	* Personality trait: I'm full of witty aphorisms and have a proverb for every occasion
-	* Ideal: Greed. I'm only in it for the money (Evil)
-	* Bond: One day I will return to my guild and prove that I am the greatest artisan of them all.
-	* Flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.
-
-Character 2
-
-* Halfling
-* Sorcerer
-* Noble
-	* Personality trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-	* Ideal: Respect. Respect is due to me because of my position, but all people regardless of station deserver to be treated with dignity.
-	* Bond: My house's alliance with another noble family must be sustained at all costs
-	* Flaw: In fact, the world does revolve around me.
-
 Character 3
 
 * Tiefling
@@ -40,16 +19,6 @@ Character 4
 	* Bond: I owe my survival to another urchin who taught me to live on the streets.
 	* Flaw: I will never fully trust anyone other than myself.
 
-Character 5
-
-* Half-Elf
-* Sorcerer
-* Charalatan
-	* Personality trait: I lie about almost everything, even when there's no good reason to.
-	* Ideal: Friendship: Mat3rial goods come and go. Bonds of friendship last forever.
-	* Bond: Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.
-	* Flaw: I'm convinced that no one could ever fool me the way I fool others.
-
 Character 6
 
 * Tiefling
@@ -60,8 +29,64 @@ Character 6
 	* Bond: Everything I do is for the common people.
 	* Flaw: I put too much trust in those who wield power within my temple's hierarchy.
 
-Character 7
+Holawyn Galanodel (D&D Beyond)
 
-* Human
+* Elf
+* Ranger
+* Charlatan
+	* I pocket anything I see that might have some value
+	* Fairness. I never target people who can't afford to lose a few coins.
+	* Somewhere out there, I ahve a child who doesn't know me. I'm making the world better for him or her.
+	* I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in.
+
+Karimash
+
+* Half-Orc
 * Sorcerer
-* Criminal
+* Urchin
+	* I don't like to bathe
+	* I hide scraps of food and trinkets away in my pockets
+	* The rich need to be shown what life and death are like in the gutters.
+	* No one else should have to endure the hardships I've been through
+	* If I'm outnumbered, I will run away from a fight
+
+Votra
+
+* Goliath
+* Monk
+* Hermit
+	* I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt.
+	* I'm utterly serene, even in the face of disaster
+	* I'm still seeking the enlightenment I pursued in my seclusion, and it still eludes me
+	* I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell
+
+Salston
+
+* Aasimar
+* Wizard
+* Haunted One
+	* I expect danger around every corner
+	* I like to know my enemy's capabilities and weaknesses before rushing into battle
+	* I keep my thoughts and discoveries in a journal. My journal is my legacy.
+	* I talk to spirits that no one else can see.
+
+Rudiger
+
+* Human (variant)
+* Fighter
+* Soldier
+	* I'm always polite and respectful
+	* When people follow orders blindly, they embrace a kind of tyranny
+	* Those who fight beside me are those worth dying for
+	* The monstrous enemy we faced in battle still leaves me quivering with fear
+
+Paedry
+
+* Forest Gnome
+* Druid
+* Sage
+	* I'm willing to listen to every side of an argument before I make my own judgement
+	* No Limits. Nothing should fetter the infinite possibility inherent in all existence. (Chaotic)
+	* I sold my soul for knowledge. I hope to do great deeds and win it back.
+	* Most people scream and run when they see a demon. I stop and take notes on its anatomy.
+	* I am easily distracted by the promise of information.

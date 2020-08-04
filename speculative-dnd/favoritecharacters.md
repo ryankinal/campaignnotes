@@ -14,7 +14,7 @@ Gilly remembers the Feywild fondly. The Feywild does not remember Gilly fondly a
 
 In a way, Gilly is lucky. There are those in the Feywild who want his head, but they do not often leave there.
 
-## Horver Loofollue - Forest Gnome (Wizard/Druid)
+## Horver Loofollue - Forest Gnome Wizard
 
 Typically, Forest Gnomes are associated with illusion, trickery, and deceit. Horver despises all of these, denouncing the study of illusion and instead pursuing truth. Facts, figures, experiments, and knowledge are what matter to Horver, and he seeks them obsessively. Knowledge is infinite, and thus so is possibility.
 

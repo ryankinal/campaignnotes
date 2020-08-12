@@ -1,5 +1,300 @@
 # Notes
 
+## Session 27 - 8/11/20
+
+### Waking Up/Breakfast Club
+
+* It's like we've missed no time at all
+* But wtf dream/past stuff
+* OH SHIT IT WASN'T A DREAM
+* Did we cause any changes?
+* Checking in on Moriko
+	* Rice balls were gone
+	* Haven't checked on her patient
+* Fumetsu wants to do some investigation
+	* Yoshi offers help
+	* So does Kasumi
+		* Divination: "The master calligrapher writes words in blood"
+	* Yoshi does lore: underworld crap
+		* Doesn't know a "master calligrapher"
+		* Whenever someone needs a perfect forgery, they go to a Lion Samurai
+			* Matsu Mikaro
+* TWO GROUPS
+	* Tsuru and Moriko to the Crab
+	* Fumetsu, Kasumi, and Yoshi to investigate assassination
+
+### TO THE CRAB
+
+* Greeted by the Crab
+* Led to the audience chamber
+	* Hida Reiha
+	* Plus advisors
+	* And person with taint
+		* Looks noticably better
+* Crab are very impressed
+	* What do the Koi want for this knowledge?
+	* Moriko wants them to push her school
+	* Riuske says the Kuni are sending students
+* Bringing the cure to the Crab before the public
+	* Crab say it's not a good idea to release it
+	* COULD CREATE A SITUATION WHERE CONSEQUENCES OF MAHO ARE IRRELEVANT
+* (Side note HOLY CRAP DO THE KOI HAVE A FAMILY NAME NOW!?!?!? WTF!?!?! KITOKUUUUUU????)
+* Crab are okay with the cure existing
+	* Not okay with the general public knowing how to do it
+	* Moriko will have full control over who is admitted to Ichigai
+		* But those who will be taught the technique will be sworn to secrecy
+* Moriko: Sure, but the treatment will be available to anyone who needs it?
+	* Reiha: Yep
+	* Everybody will be cleared of their taint before their execution
+* Moriko: OKAY. WELL. LET ME DISCUSS WITH MY CLAN. THIS IS VERY IMPORTANT.
+* Reiha: Yeah, you'll go down in history. Talk about it.
+	* But you need the Crab
+	* You'll have a *WINK* VERY DIFFICULT TIME WITHOUT THE ASSISTANCE OF THE CRAB
+* Moriko: Alright. Well. I have Phoenix interested. So. Take that as you will.
+	* Reiha: Yes. Give them our regards.
+* Reiha whispers to advisors
+	* Suddenly prepared to pay large amounts of money
+	* Triple the amount necessary to run the school
+		* All materials
+		* Tuition
+		* Plus overhead and prestige
+* Moriko is afraid that cured people will be executed
+	* Reiha scoffs at sympathy for minions of Fu Leng
+	* Moriko: That's a misunderstanding
+		* Don't burn the house down when you throw somebody out
+	* Reiha: Maybe it's time for you to leave
+* Tsuru steps in
+	* Establish that what Moriko means is that there's more to the discovery
+	* Maybe another meeting is in order
+	* Form an exploratory committee to discuss the strategic implications
+	* Reiha: Okay, meeting tomorrow at 10am
+
+### Investigating the Otomo
+
+* Arguing about Yoshi's allegiances
+* Arrive at Matsu Mikodo's (former?) residence
+	* It's a shithole
+* Useless history roll
+* Fumetsu announces himself
+	* Conspicuous rustling of robes
+	* Slovenly, overweight, horrible-smelling samurai
+	* Spits at Fumetsu
+* Fumetsu calls him back, dishonor and such
+	* He's pissed about the Lion attack
+* Fumetsu assumes he's Mikodo
+	* No longer Matsu, no longer Lion
+* Mikodo has taken no jobs recently
+* Fumetsu suggests he should tell them if he gets work
+	* Offers double pay
+
+### Tsuru & Moriko Ramen
+
+* Tsuru: HOW DID YOU GET AN AUDIENCE WITH THE PHOENIX?
+* Moriko: I didn't
+* Tsuru: OH YOU LIED!?!? THAT'S GREAT!
+* Moriko was afraid that they'd execute patients
+* Tsuru says they were going to anyway
+* THINK OF THE SCHOOL
+* Moriko: Maybe we can leave the Crab out of this?
+	* Tsuru: Nah. Can't risk the business.
+* Tsuru walks around the corner and finds the rest of the crew
+
+### Lunchtime?
+
+* Tsuru has some insight?
+	* Very prominent calligraphy school run by Otomo family
+	* Reveals this to the group
+* Crab/School stuff
+	* Getting funded!
+	* But patients will be killed after cured
+		* Tsuru: So what? They were going to be killed anyway
+	* Mention of Phoenix
+		* Probably not much more benevolent
+	* Maybe cured people who are still killed will be reincarnated, rather than doomed
+	* Maybe also they'll eventually come around
+* Courier comes
+	* KASUMI GETS A LETTER FROM HER SISTER
+	* WTF WTF WTF WTF
+	* Letter is as mundane as possible
+		* Complaints, daily life
+		* Asks about saving the Hare
+
+### Ryan Retcons Some Investigation
+
+* Figure comes all the time to Mikodo
+	* Tremendous mane of black hair
+	* Unusually tall
+	* Unusually dark-skinned
+	* Wears hair in a wild, unkempt style
+
+### Back at the Inn
+
+* Fumetsu asks innkeeper about his name
+	* HOLY SHIT WE HAVE A FAMILY NAME IT'S KITOKU
+
+## Session 26 - 8/4/20
+
+### Teh Partay
+
+* Fumetsu watching bartender
+	* Change in shifts - bartender leaves
+	* Fumetsu informs Tsuru
+		* Going to get the recipe for a cocktail
+* Tamahide makes an excuse to leave
+	* SUSPICIOUS
+* Fumetsu spies on bartender
+	* Follows her to sketchy part of town
+	* To a granery
+* There's a commotion
+	* Squawking birds flying away from trees
+	* Almighty ruckus
+* Tsuru and Fumetsu keep an eye out in that direction
+	* OH SHIT THERE'S AN ONI
+		* Except with night-black skin and pale, moonlit eyes
+		* In Kasumi's clothing wtf
+
+### Yoshi's pursuit
+
+* Chasing Kasumi to the granery
+* AS FAST AS POSSIBLE over rooftops
+* Readies throwing stars to attempt to disable her
+	* He hits her in the foot
+	* She blinks across the river to another shadow
+	* Yoshi: "THAT'S NOT FAIR"
+
+### Kasumi's Consciousness
+
+* Super-Yumido
+	* Disoriented, confused, in pain
+	* Kind of a recursive dream
+	* Dark and misty
+* There's a hole in the sky
+	* Kasumi sees Lord Moon
+	* Kasumi is "graced with a sliver of his essence"
+	* "Feared this blessing"
+	* "EMBRACE THINE GIFTS"
+* Kasumi: "Your blessings turn all twisted. How can I trust you?"
+	* "I guide you, dammit"
+	* [Ryan missed some stuff because he was distracted]
+	* "INSOLENT CHILD YOU DARE BLAH BLAH"
+	* "Enough of this, you're a disappointment, Kasumi."
+* Kasumi wakes up
+	* Foot is injured - dammit, Yoshi
+	* She is in the real world again
+
+### Meeting by the River
+
+* HORRIBLE DEMON
+	* Teleports across the river
+	* Then turns into Kasumi
+	* Who is injured
+	* Yoshi sees it too
+* Yoshi jumps across the river
+* Tsuru checks on Kasumi
+* Fumetsu attempts to continue spying
+	* No way to look in
+	* Maybe some listening, though
+	* Waitress says: "He isn't here yet?"
+		* Male voice: "He's always late."
+* Tsuru and Yoshi meet with Kasumi
+	* YO KASUMI WTF WAS THAT?
+	* K: "It's a full moon I don't remember."
+	* Y: I tried to restrain her
+	* T: Did you hurt her?
+	* K: He wouldn't do that
+	* T: Do you need Moriko?
+	* K: Maybe
+	* T: Where is she? Eating our food?
+* Tamahide swaggers down the road
+	* Fumetsu: GET OUT OF SIGHT
+	* Tsuru: Why?
+	* Fumetsu: SHADY CRIMINAL DEALINGS
+* Tamahide enters the granery
+
+### The Shady Dealz
+
+* Yoshi goes to listen
+	* Is super stealthy
+	* Gets up on the roof
+* Conversation
+	* Tamahide: "I lied to the band. I can't keep meeting you like this."
+	* Deep male voice, heavily acccented: "You owe us much, Tamahide. Now is not the time to complain."
+	* Waitress: "I am fed up with covering for your carelessness in the city, Tamahide. Listen to Master Rock, or be eliminated. You are just a cog in a much bigger wheel. Step out of line, and you're dead."
+	* Lackey: Casually insults Tamahide
+	* Gaijin: "Things are playing out per our scenario. The Emperor has taken the gift, and the entire rotten house should collapse in a few generations. Then the Hantei line will be no more. [evil laugh]"
+	* Tamahide: "YES. FINE. I UNDERSTAND MY PLACE IN *YOUR* ORDER. Will our lives be any better under your order?"
+	* Gaijin: "You must have faith, Tamahide."
+* Yoshi waits until Tamahide leaves
+	* Then shoots him with a truth dart
+* Kasumi casts a thing on Tamahide
+	* Tamahide's mood: Anxiety, and a sense of entrapment
+* Yoshi: He's working for a criminal organization. I just truth-darted him.
+* Everybody: Follows Tamahide
+* Fumetsu: "TAMAHIDE! TURN AND FACE US!"
+	* Tamahide turns and draws his katana fluidly
+	* YOU MUST BE SPIES! DIE NOW!
+	* Combat now.
+
+### Fighting Tamahide
+
+* Combatversation
+* Tama: Die, Yoshihiro!
+* Fum: You may wish Yoshihiro to die, but I don't believe he fears it like you do.
+* Tama: Fearing it is normal
+* Fum: But preventing it is not
+* Yoshi: You seem to despise the Celestial Order
+* Tama: I do, but I hold no particular hatred for those who follow it
+* Yoshi: You're using Gaijin magic, you dick.
+* Tama: Nobody should know that!
+* Yoshi: Except a Koi samurai
+* Tama: WTF HOWWWWWW
+* Tsuru and Kasumi arrive
+	* We point out that they are Tamahide's ancestors
+* Tamahide loses focus and Yoshi disarms him
+* Fumetsu holds him at sword point
+* Yoshi gives back his sword
+* Why are we here?
+	* The Koi are in danger
+	* The Kolat plan worked? WTF?
+	* Yes, but the consequences fall on the Koi as well
+* Kasumi's sister: You have to send the bird, Kasumi!
+	* She does
+	* Delayed bird to warn of Lion attack
+* Fumetsu: Why are you willing to do this? The co
+	* When already damned, why not try to do some good?
+	* Participated in dark Gaijin magic across the burning sands
+	* Why not tear it down?
+* Fumetsu: BECAUSE CONSEQUENCES
+	* PEOPLE DIE
+	* MAHO USERS ARE TRYING TO TAKE POWER
+* Tamahide: Are you familiar with the Kolat Conspiracy?
+	* They recruited and blackmailed me
+	* Nothing to do but move forward
+* Yoshi/Tsuru: Do we tell Tamahide about the future?
+	* Tsuru: NO
+	* Yoshi: YES
+	* Kasumi: I agree with Tsuru? WTF?
+	* Tsuru: BUT WE COULD ALTER STUFF
+* Parting words:
+	* Fumetsu: Tamahide, take heed of the words of Akifumi, and what is inside of you. *walks away*
+	* Tsuru: You never raised me knowing about this moment, and I'd like to keep it that way. Thank you for teaching me everything you have. But your son, my father, IS AN IDIOT.
+		* Tamahide: Haru-chan? He's a good boy!
+		* Tsuru: He's good, but empty-headed.
+		* Tamahide: I'll see to his education.
+	* Yoshi: When Okifumi is struggling for a name for his helpers, it's "Tax Collectors"
+	* Kasumi: It was good to see you, grandfather.
+	* Yoshi: And Otomo Sango is a bloodspeaker
+* Tamahide: "I should get back to your grandmother."
+	* Yoshi gives him coins: "Don't spend them yet. Some of them are from the future."
+
+### Back to the Future
+
+* There's a fog rolling in over the city
+* We all struggle to move, black out in the fog
+* We wake up in the Inn, in our time
+* Lord Moon speaks to Kasumi
+	* "Remember. The light of the moon reveals."
+
 ## Session 25 - 7/28/20
 
 ### BACK IN TIME

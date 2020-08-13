@@ -4,6 +4,7 @@ I've been creating a lot of characters recently. Here are some of my favorites.
 
 ## Gardram
 
+* Concept: Fluid barbarian
 * Race: Water Genasi
 * Class: Barbarian
 * Look: Wet, wild, androgynous
@@ -14,6 +15,7 @@ Gardram has only two outlets for their emotions - hand drums, and violence. If y
 
 ## Gilleanas Aethalena
 
+* Concept: Otherworldly conman
 * Race: Elf (Eladrin)
 * Class: Warlock
 * Look: Clean-cut, cocky, well-dressed, unarmed
@@ -24,6 +26,7 @@ In a way, Gilly is lucky. There are those in the Feywild who want his head, but 
 
 ## Horver Loofollue
 
+* Concept: Sage, know-it-all
 * Race: Forest Gnome
 * Class: Wizard
 * Look: Old AF, hunched, wizardly
@@ -34,6 +37,7 @@ Horver compulsively shares knowledge. He's willing to teach, yes, but he's also 
 
 ## Rudiger
 
+* Concept: Quarterstaff fighter
 * Race: Human
 * Class: Fighter
 * Look: Young, cheerful, light-hearted
@@ -44,6 +48,7 @@ He values freedom, independence, and fairness, and will fight to secure those th
 
 ## Flynwan
 
+* Concept: Religious assassin
 * Race: Tiefling
 * Class: Rogue
 * Look: Sneaky, bad posture, ugly, shifty
@@ -54,6 +59,7 @@ Flynwan is pious and devout. Other gods and other religions are incorrect, and h
 
 ## Sahva
 
+* Concept: Lucky?
 * Race: Human?
 * Class: Ranger?
 * Look: Heroic
@@ -62,6 +68,7 @@ Fervent belief in "plot armor" - this is her story, and that makes her invincibl
 
 ## Belniss Frostbeard
 
+* Concept: Melee sorcerer
 * Race: Dwarf
 * Class: Sorcerer (Draconic)
 * Look: Rough, haunted, stocky, pale

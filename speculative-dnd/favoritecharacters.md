@@ -32,7 +32,7 @@ Flynwan grew up in the church. He learned its lessons and its ways, but found a 
 
 Flynwan is pious and devout. Other gods and other religions are incorrect, and he will say so. It follows that his religion is absolutely correct. The word of his god, often spoken through the higher-up priests, is infallible, and he will follow orders blindly.
 
-## Sahra - Human Ranger?
+## Sahva - Human Ranger?
 
 Fervent belief in "plot armor" - this is her story, and that makes her invincible. Of course, that extends to her companions as well. She encourages people to think like they are the main character. Unfortunately, that also means that trouble will inevitably find her.
 

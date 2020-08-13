@@ -37,6 +37,11 @@ Healing rate (stamina * 2) + Insight Rank = 7
 	* Sincerity
 * INCLUDE YOUR WIFE - CALL HER HANAKO
 * SPEND YA DAMN VOID POINTS
+* Plans
+	* Follow up with Matsu Mikaru
+	* Find the gaijin
+	* Investigate plans to kill Doji Takako
+	* Avoid using 
 * Goals
 	* Reveal Otomo Jinshoru
 	* The honorable rise of the Koi

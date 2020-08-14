@@ -59,6 +59,19 @@ Typically, Forest Gnomes are associated with illusion, trickery, and deceit. Hor
 
 Horver compulsively shares knowledge. He's willing to teach, yes, but he's also quick to share a secret, regardless of the consequences.
 
+## Kork
+
+* Concept: Wildshape Druid
+* Race: Orc
+* Class: Druid
+* Look: Smallish, hairy, ragged, dirty
+
+Kork was always small, which is not great for an Orc in his family. He was expected to be strong, tough, and fearless. To be a hunter, raider, ans soldier. Instead, he was "soft". He enjoyed being in nature more than conquering it, and found himself to be more comfortable as a *vegetarian*.
+
+One day, he could no longer take the taunting, the bullying, and the fighting, and he left. Nobody came after him, and there was nobody there to save him from the boars. Except, apparently, the boars. They recognized that he was not a threat, that he was in fact in tune with nature. They took him in as one of their own, and he considered himself so much to be a boar that he eventually turned into one.
+
+He couldn't hold the form long, but he found strength in it. He found that his spirit filled its size and its power, and he could truly be one of the singular.
+
 ## Rudiger
 
 * Concept: Quarterstaff fighter

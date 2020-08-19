@@ -1,15 +1,15 @@
-# Fumetsu
+# Kitoku Fumetsu
 
 ## Quick Ref
 
-* Initiative: 7k4 + 10
+* Initiative: 8k4 + 10
 * Defense: 6k4
 * TN to be hit
 	* No armor: 25
 	* Light armor: 30
 	* Reduction: 3
 * Wounds: 0
-* Void: 2/3
+* Void: 3/3
 
 ## Wound Levels
 
@@ -22,7 +22,7 @@
 * Down (spend void to act - +40) = 51
 * Out (Cannot act) = 57
 
-Healing rate (stamina * 2) + Insight Rank = 7
+Healing rate (stamina * 2) + Insight Rank = 10
 
 ## RP Notes
 
@@ -56,9 +56,9 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 195
+Insight: (Rings * 10) + Skills = 205
 
-Rank: 3
+Rank: 4
 
 Status: 3
 
@@ -66,9 +66,9 @@ Glory: 5.0
 
 Honor: 8.3
 
-Experience gained: 106
+Experience gained: 110
 
-Experience remaining: 12
+Experience remaining: 0
 
 ## Traits
 
@@ -87,10 +87,10 @@ Experience remaining: 12
 * Reflexes: 4
 * Awareness: 5
 
-### Fire: 2
+### Fire: 3
 
 * Agility: 3
-* Intelligence: 2
+* Intelligence: 3
 
 ### Void: 3
 
@@ -112,9 +112,9 @@ Experience remaining: 12
 	* Awareness 5 = 8k5
 * Kenjutsu 4 + Agility 3 = 7k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
-* Lore: Bushido 1 + Intelligence 2 = 3k2
-* Lore: History 1 + Intelligence 2 = 3k2
-* Lore: Heraldry 1 + Intelligence 2 = 3k2
+* Lore: Bushido 1 + Intelligence 3 = 3k2
+* Lore: History 1 + Intelligence 3 = 3k2
+* Lore: Heraldry 1 + Intelligence 3 = 3k2
 * Sincerity 3 + Awareness 5 = 8k5
 * Tea Ceremony 1 + Void 3 = 4k3
 
@@ -137,7 +137,7 @@ Experience remaining: 12
 
 ## Initiative
 
-* 6k4 + 8
+* 8k4 + 10
 
 ## TN to be Hit
 
@@ -192,6 +192,10 @@ Reflexes * 5 + Armor + 5
 
 You may Strike first in a duel if you win the Iaijutsu/Void roll by a difference of 3 or higher. You gain a Free Raise on your Strike for each additional margin of 3 instead of 5.
 
+### One Strike, Two Cuts (Rank 4)
+
+You may make attacks as a Simple Action instead of a Complex Action while using weapons with the Samurai keyword.
+
 # Relationships and Bushido
 
 ## Moriko - Honor and Courage
@@ -243,30 +247,3 @@ Haven't interacted with Seina much yet. Don't have a good idea of her character.
 * Sister, Crane Clan
 * Married into Daidoji
 * Most trusted friend
-
-# Goals
-
-## Lead the Koi into a new era
-
-* Encourage honesty and compassion
-* Push Moriko's school
-
-## Fix the Celestial Order
-
-The Celestial Order is not broken. It can't be. It's simply fact. But there are those who abuse it. Who seek to break it. Those that are higher in the Order forget that they lived previous lives that were lower. Hopefully those who shirk it can be negotiated with. If not, they must be killed.
-
-## Improve the Koi Samurai
-
-They're currently kind of slapdash. Encourage good swordsmanship and strict adherence to Bushido.
-
-## Quash the Criminal Element
-
-There's clearly a criminal element in Koi lands. Yoshihiro is part of it, and has no qualms about referencing it, though he hides actual deeds from anybody important. Remove this element from Koi lands.
-
-## Instate Hanako as Governor of Enzan Province
-
-She'd be good at it. Maybe we make it a bit safer first.
-
-## Put my ancestors to rest - Done?
-
-Battle of the Hour of the Wolf and all that

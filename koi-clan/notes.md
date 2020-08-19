@@ -1,5 +1,174 @@
 # Notes
 
+## Session 28 - 8/18/20
+
+* Recap cap cap again capitulation
+
+### LUNCH CLUB
+
+* Best Ramen in the city
+* It's damn good ramen
+* Kasumi's sister is alive
+* What else has changed?
+	* Tsuru intimidates the ramen vendor into telling us who the emperor is
+	* It's the same
+	* Kasumi checks the imperial garden with clairvoyance
+		* A bunch of people are there!
+		* Does Kasumi know who they are?
+		* HELL YEAH SHE DOES
+			* Rin - should be 90, looks younger
+				* Sitting by a fountain, wistfully looking at its beauty
+				* Not reacting to too much around her
+			* Otomo Jinshoru is there
+			* Another unidentified Otomo
+			* Otomos are doing shady things, because of course they are
+			* Takako and a sparrow
+	* Maybe we just observe court today
+* Yoshi heads to shady dealings
+* The rest head to the... Fox?
+
+### YOSHI IS SHADY
+
+* 20 questions
+* Who is the daimyo of the Koi?
+	* Tamahide
+	* FUCK
+* Goings on in the Koi clan?
+	* Still kinda backwater
+	* Nothing current
+* Otomo Jinshoru's kids?
+	* Kitoku Sango
+	* Otomo Atesharu (adopted)
+* Who is Sango married to?
+	* Tamahide
+* Yoshi runs away and 
+
+### TO THE FOX HOLE
+
+* Appropriately announced
+* Let in, granted an audience w/Kitsune Momiji
+* Ancestral sword is there. Good.
+* Some polite conversation
+* Court?
+	* Yep
+	* Can the Koi support the Kitsune?
+	* The Hare are going to petition to leaSE THE PLAINS OF MOMORA!?!?!?
+	* Maybe lease to the Fox instead?
+* Fox and Hare have been at peace recently? Armistice?
+* Tsuru: How about the Crab?
+	* Momiji: They cool. Respect.
+	* Tsuru:  Maybe work closer with them? Could be good?
+	* Momiji: Ummm. Sure.
+* Tsuru: Hey, waitaminute
+	* T: Are there ceremonies for your dad coming up?
+	* M: Yep. Yinz'll be invited.
+
+### TO COURT
+
+* Fumetsu brings Katana, Seppun take it and store it appropriately
+* We all meet up at court
+* KITOKU SANGO
+	* FUCK
+	* Everybody: /drink
+* Entering court
+* Who's who?
+	* Rin's on the dais, facing us
+	* Matsu Satsu isn't there - Rin takes his place
+		* Voice of the emperor
+	* OH SHIT THE EMPEROR
+* Court is in session
+	* Tsuru's questions
+		* Statues - who and how many?
+		* Conflicts - what's starting, what's ending?
+	* Momiji comes up
+		* Acknowledges Tsuru
+		* Wrapping up armistice
+		* Usagi Motomu has petitioned that Usagi Koichi (accused assassin) be pardoned - whaddya think?
+			* Momiji's cool with it
+			* Tsuru
+				* If Koichi is spared, it's the right direction
+				* Must continue to seek the actual assassin
+				* Respect the needs of Rokugan
+				* Koichi should be admitted to Ashinagabachi to ensure lack of dealings in dark crap
+				* Brought under care of Kuni and Koi
+				* We commit to finding the killer
+			* Seppun Ayame
+				* We have no other suspects. Koichi is clearly the killer.
+				* There is no hospital in Ashinagabachi
+			* Tsuru
+				* Re: Hospital - There is now!
+				* Re: Suspects - We can help! Divination!
+			* Ayame
+				* But... we have the real killer.
+				* And Shugenja
+			* Rin steps in (tactfully)
+				* "I'm afraid the Koi simply does not have anything to offer in this case. Suck it up."
+				* Subtext: Lifetime of experience with Tsuru. Also "Shut up, Tsuru."
+			* No mention of blood magic
+			* Motomu is resigned to this result
+	* Shinjo Runta (Unicorn) stands
+		* Lots of gaijin traders - it's concerning
+		* Undercutting business
+		* Afraid for security
+	* Kasuga Aiyone (Tortoise champion) stands
+		* The situation is under control
+		* It's being monitored
+		* That's the end of it
+	* Shinjo takes offense, but Emperor shuts it down, via Rin
+
+### POST-COURT
+
+* Takako approaches Fumetsu
+	* Offers to meet at the Koi pond
+		* Sure, of course
+	* Then talks to Jinshoru
+		* Fumetsu watches
+* Rin approaches - not pleased
+	* Tsuru greets her as "step-grandmother"
+	* Rin thinks that's rude - she's more important than that
+	* Moriko's school was supposed to be secret until Crab were actually there
+		* Lost political capital
+	* Tsuru: How's grandfather?
+		* Rin looks distant - deja-vu
+		* Tamahide is fine
+			* Bimbo of his keeps him very happy (Sango)
+	* Kitsune Oshiron's death?
+		* It was still ogres
+	* About Sango
+		* "Perfect little wife"
+	* And the Bon festival?
+		* It was good
+		* Moriko stuff
+	* Peasants in Kitayama?
+		* Who cares?
+		* Just thinking about Umiko
+	* Fumetsu asks specifics about Sango
+		* Rin berates him for being an idiot
+		* Tamahide has to marry her
+			* It was destiny the Kami were asking for
+			* Earned us the family name
+			* Got Rin her position
+		* Sango is just a stupid girl
+		* Jinshoru, on the other hand
+	* Okay, are you tricksters? Kami? Fox spirits? Kenku?
+		* No, just people
+	* What about the details around the murder of Doji Shirayuki?
+		* Rin: WTF happened to you?
+			* We met you yesterday
+		* Same thing happened
+		* Body in the basement was still blood majicked
+	* The Lion still attacked Ashinagabachi
+		* Emperor got rid of the Matsu
+	* Filthy Pond is now Filty Pond
+
+### SO MANY QUESTIONS
+
+* Tamahide?
+* Jinshoru?
+* Kolat?
+* Gaijin?
+* WHO DO WE FUCKING GO AFTER?
+
 ## Session 27 - 8/11/20
 
 ### Waking Up/Breakfast Club

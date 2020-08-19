@@ -4,7 +4,7 @@ I've been creating a lot of characters recently. Here are some of my favorites.
 
 ## Belniss Frostbeard
 
-* Concept: Melee sorcerer
+* Build: Melee sorcerer
 * Race: Dwarf
 * Class: Sorcerer (Draconic)
 * Look: Rough, haunted, stocky, pale
@@ -15,9 +15,22 @@ He doesn't know how long he was down there, exploring the cracks and caves, but 
 
 He took to heart their attitudes, and vehemently opposes those who commit evil acts or harm the innocent. However, he is still haunted by his experience in the caves... and something is after him.
 
+## Eagre
+
+* Build: Old Gods Warlock
+* Race: Water Genasi
+* Class: Warlock
+* Look: Built, butch... thicc
+
+Eagre used to sleepwalk. She had dreams of things in the dark, in the water. The things would speak to her, sometimes. They would reveal secrets. Once, they revealed an approaching enemy - a band of raiders, set to attack her village in the night. The dark things offered to help - "Breath us into life, and we will give you the power to defeat them."
+
+Eagre had no choice, but had one particular talent - breathing life into glass. She went to the workshop, late at night, and got started. The vision of a simple orb, fragile and light, myriad blues swirling with black and silver. She took a deep breath, reaching deep into herself and further into the darkness, and the orb came into being. The dark things gave it life, and it gave them sight. It gave them life, and they gave her power.
+
+The raiders never stood a chance.
+
 ## Flynwan
 
-* Concept: Religious assassin
+* Build: Religious assassin
 * Race: Tiefling
 * Class: Rogue
 * Look: Sneaky, bad posture, ugly, shifty
@@ -28,7 +41,7 @@ Flynwan is pious and devout. Other gods and other religions are incorrect, and h
 
 ## Gardram
 
-* Concept: Fluid barbarian
+* Build: Fluid barbarian
 * Race: Water Genasi
 * Class: Barbarian
 * Look: Wet, wild, androgynous
@@ -39,7 +52,7 @@ Gardram has only two outlets for their emotions - hand drums, and violence. If y
 
 ## Gilleanas Aethalena
 
-* Concept: Otherworldly conman
+* Build: Otherworldly conman
 * Race: Elf (Eladrin)
 * Class: Warlock
 * Look: Clean-cut, cocky, well-dressed, unarmed
@@ -50,7 +63,7 @@ In a way, Gilly is lucky. There are those in the Feywild who want his head, but 
 
 ## Horver Loofollue
 
-* Concept: Sage, know-it-all
+* Build: Sage, know-it-all
 * Race: Forest Gnome
 * Class: Wizard
 * Look: Old AF, hunched, wizardly
@@ -61,12 +74,12 @@ Horver compulsively shares knowledge. He's willing to teach, yes, but he's also 
 
 ## Kork
 
-* Concept: Wildshape Druid
+* Build: Wildshape Druid
 * Race: Orc
 * Class: Druid
 * Look: Smallish, hairy, ragged, dirty
 
-Kork was always small, which is not great for an Orc in his family. He was expected to be strong, tough, and fearless. To be a hunter, raider, ans soldier. Instead, he was "soft". He enjoyed being in nature more than conquering it, and found himself to be more comfortable as a *vegetarian*.
+Kork was always small, which is not great for an Orc in his family. He was expected to be strong, tough, and fearless. To be a hunter, raider, and soldier. Instead, he was "soft". He enjoyed being in nature more than conquering it, and found himself to be more comfortable as a *vegetarian*.
 
 One day, he could no longer take the taunting, the bullying, and the fighting, and he left. Nobody came after him, and there was nobody there to save him from the boars. Except, apparently, the boars. They recognized that he was not a threat, that he was in fact in tune with nature. They took him in as one of their own, and he considered himself so much to be a boar that he eventually turned into one.
 
@@ -74,7 +87,7 @@ He couldn't hold the form long, but he found strength in it. He found that his s
 
 ## Rudiger
 
-* Concept: Quarterstaff fighter
+* Build: Quarterstaff fighter
 * Race: Human
 * Class: Fighter
 * Look: Young, cheerful, light-hearted
@@ -85,7 +98,7 @@ He values freedom, independence, and fairness, and will fight to secure those th
 
 ## Sahva
 
-* Concept: Lucky?
+* Build: Lucky?
 * Race: Human?
 * Class: Ranger?
 * Look: Heroic

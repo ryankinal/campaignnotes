@@ -64,11 +64,11 @@ Status: 3
 
 Glory: 5.0
 
-Honor: 8.3
+Honor: 6.7
 
-Experience gained: 110
+Experience gained: 114
 
-Experience remaining: 0
+Experience remaining: 4
 
 ## Traits
 

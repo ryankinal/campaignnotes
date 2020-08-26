@@ -1,5 +1,76 @@
 # Notes
 
+## Session 29 - 8/25/20
+
+### Fumetsu/Takako Meeting (Take 2)
+
+* Yoshi follows, finds a high vantage point
+* Takako is feeding the koi fish in the pond (again)
+	* Ducks are there (again)
+	* Bodyguards (again)
+* Asks about the koi
+	* Blah blah colors
+	* Bright etc.
+* Chaos as rock is thrown (again)
+	* Otomo Atasharu is trying to kill her (gasp!)
+* Said a prayer to her ancestors last night
+	* Led her to find the "shining koi"
+	* Apparently that means Fumetsu
+* More courtly politeness
+* (scene)
+
+### Yoshi Liberating Usagi Koichi
+
+* Being held at a dungeon
+	* The one where Yoshi tried to keep Kasumi
+* Yoshi finds a way in and a way out
+	* Sewers!
+* Process
+	* He steals a boat, hides it in the reeds near the place
+	* Takes kamas, blowdarts, etc.
+	* Dressed as a peasant
+	* With a broom
+* Heads in through the sewers
+* Finds the prisoner
+	* One guard
+	* Iron gate
+* Does some Batman shit
+	* Threatens the guard
+	* Gets the prisoner
+	* Koichi is now beholden to Yoshi
+* Probably noticed by fishermen
+	* Yoshi is unnoticed
+	* Koichi is not
+	* Yoshi makes spooky sounds to scare them
+		* It works
+		* The fishermen are also southern, I guess
+* Yoshi sends him off with koku, kunai, etc.
+	* Yoshi: GTFO, dude. Get a new name. See you soon in Ashinagabachi.
+* Yoshi goes home and goes to sleep
+
+### Breakfast Club!
+
+* Fumetsu reveals who is currently trying to kill Takako
+* Kasumi asks "WHO IS OTOMO ATASHARU" to the sticks
+	* Looks like maybe the Kuni?
+	* Maternal cousin
+	* He's one of the dead Tamahides
+* Anybody want to help Fumetsu investigate the Otomos
+	* Yoshi: Maybe murder them?
+	* Fumetsu: Maybe honorable duel?
+	* Otherwise, no help
+* Hey, maybe Moriko can do some Gaki stuff?
+	* Kills Emperor, Tamahide, Rin
+* Much arguing about wtf to do
+
+### TODO
+
+* Moriko's ghostbusting
+* Case the Otomos
+* Talk to Rin
+	* Send questions to Tim
+* Making truth serum?
+
 ## Session 28 - 8/18/20
 
 * Recap cap cap again capitulation

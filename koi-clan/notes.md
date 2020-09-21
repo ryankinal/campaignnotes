@@ -1,5 +1,190 @@
 # Notes
 
+## Session 31 - 9/12/20
+
+### Kasumi and Tsuru
+
+* Being hidden by Al-Hazeem while waiting for the caravan to Ashinagabachi
+* Eating super-spiced rice balls with dried eel
+	* Might be blasphemous
+
+### Yoshi
+
+* Trying to get his hands on poison
+* At the brothel
+* "Business or pleasure?"
+	* "It's for a friend"
+	* WTF, dude? We got Kolat stuff to do
+	* Yoshi: Ugh. Okay.
+* Then he steals some poison
+
+### Fumetsu
+
+* Has challenged Jinshoru
+* Currently meditating
+* Composing a death poem
+
+### More Yoshi
+
+* Looking for super-dirt on Jinshoru
+	* From the Opium dealer
+* On it!
+	* Atasharu was kidnapped from the Koi
+	* Not actually adopted
+	* Kidnapped by dark magicians
+
+### Moriko!
+
+* Doing her ritual
+	* Lighting incense
+	* Meditation
+* Filter of Gakido and real world
+* Procession of Gaki coming from the palace
+	* Carrying a palanquin
+	* Eyeing Moriko hungrily
+	* Start looking more and more human as time goes on
+* In the palanquin - something wearing the garb of the Emperor
+	* Gaki coming out of his mouth
+	* As more come out he becomes more gaunt and skeletal
+	* Rapid decay, then dissolves
+* The Gaki drink in the smoke, becoming more human
+* One by one, they start leaving
+* 80 to 100 Gaki are being set to rest
+* Moriko feels a "lightness" to the atmosphere when the Gaki have left
+* But it's pitch dark
+	* Not even a light
+	* She sneaks her way out
+* A couple Seppun guard whispering excitedly
+	* She can hear the tone, but can't hear the words
+	* Vague confusion
+* Moriko heads to Al-Hazeem's address
+	* In order to get out of town
+* Al-Hazeem meets her
+	* Half-asleep, half-drunk, but all there
+* Kasumi greets her
+	* K: "What's going on?"
+	* M: I satisfied the Gaki. Emperor will be at peace.
+	* AH: WHAT
+	* Tsuru: But you have to come back to Ashinagabachi!
+	* M: Ummm. I guess.
+	* K: Maybe she should make her own school
+	* T: But the school is the power!
+	* M: Might go to the mountains!
+	* T: We could build a school there!
+	* AH: SO YOU CAN UNDO THE ELIXIR?
+* Kasumi sends a bird to Yoshi and Fumetsu
+	* COME SEE US
+	* At a place
+
+### Yoshi finds Fumetsu
+
+* Y: HEY DUDE YOU DON'T HAVE TO DO THIS
+* F: Yes I do
+* Y: BUT INFO
+* F: But Takako
+* Then bird
+* F: Do we go now, or later?
+* Y: Going across the city right now is dangerous
+* F: Okay. Gonna sleep now.
+* Y: Okay. Gonna guard you now.
+
+### At Al-Hazeem's Tent
+
+* Kasumi, Moriko, and Tsuru go to the meeting place
+* So do Fumetsu and Yoshihiro
+	* Via rooftops I guess
+
+### The Breakfast Club
+
+* Lots of comforting Fumetsu
+* Peace offering of rice by Tsuru
+* Moriko reveals that she did her thing
+* Kasumi checks on the court via maaaaaaagic
+	* It's PANDEMONIUM
+	* Trying to save the Emperor
+		* Failing
+	* Rin is looking ill
+	* No sign of Tamahide
+* Kasumi: Loose ends aren't quite tied up?
+	* But getting there
+	* One elixir left for the emperor
+		* Not sure what's going on
+* Might need to perform the ritual again? If there's an elixir?
+* Yoshi asks Kasumi for a bird
+* Y: Reveals that Atasharu is Koi - Tamahide's child
+	* As a pair
+	* Trying to make an elixir
+	* Atasharu doesn't know this stuff
+	* But Kasumi can tell him right now
+* Haven't figured out what to do yet
+* Al-Hazeem enters, gives a message from Master Coin to Yoshi
+	* "Dear alternate timeline Koi. I don't know what you did, but if I die, I'm going to kill you all."
+	* So this is Rin
+	* She gon' die
+
+## Session 30 - 9/4/20
+
+### WTF do we do?
+
+* Fumetsu challenges Atasharu?
+* Yoshi murders Jinshoru in his sleep?
+* Maybe cleanse some Gaki and kill the Emperor?
+
+### We get a message!
+
+* From Rin
+* It's in a cipher
+	* Kasumi kicks its ass
+* YO YOU'VE BEEN ACCUSED OF A JAILBREAK GTFO
+	* Tsuru and Kasumi are going to
+	* Yoshi wants to disappear
+	* Moriko might just go rogue with her medicine
+* Fumetsu insults the Koi
+
+### Yoshi goes to where Rin wanted him to
+
+* Finds Al-Hazeem
+* Hadn't met in this timeline
+* Al-Hazeem is clearly Kolat
+	* Yoshi reveals himself as Kappa
+	* There has been no Kappa for a long time
+	* Yoshi: THERE IS NOW, BITCH
+
+### ARGUING
+
+* Tsuru wants to go back to Ashinagabachi
+* Moriko is instead sneaking off
+	* Gets a veil
+	* Trying to go to Imperial Temple
+* Moriko is gone
+	* Tsuru is furious
+* Yoshi arrives 
+	* They guess Moriko's whereabouts
+	* Yoshi is worried
+	* Yoshi encourages them to gtfo
+
+### At the Kolat tent
+
+* Yoshi pulls Kasumi aside
+	* If this goes wrong, tell Jinshoru that he is being manipulated
+	* By the Kolat
+* Kasumi goes into the tent
+	* Meets Al-Hazeem - all will be arranged
+	* Tsuru sniffs the air
+
+### Moriko's Stuff
+
+* At the shrine
+* Isn't fitting in with the rituals
+* Doesn't care, breaks off from the group
+* Does her Gaki meditation thing
+	* Two realms overlayed at once
+	* Translucent
+	* Sees some Gaki - they sniff at her
+		* She tells them she can sate them
+		* They want to eat her
+		* But are amenable
+
 ## Session 29 - 8/25/20
 
 ### Fumetsu/Takako Meeting (Take 2)

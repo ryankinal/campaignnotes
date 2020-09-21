@@ -64,11 +64,11 @@ Status: 3
 
 Glory: 5.0
 
-Honor: 6.7
+Honor: 3.5 (2.6)
 
-Experience gained: 114
+Experience gained: 118
 
-Experience remaining: 4
+Experience remaining: 2
 
 ## Traits
 
@@ -102,11 +102,11 @@ Experience remaining: 4
 * Courtier 3 + Awareness 5 = 8k5
 * Defense 2 + Reflexes 4 = 6k4
 * Etiquette 3 + Awareness 5 = 8k5
-* Iajutsu 5
-	* + Awareness 5 = 10k5
-	* + Void 3 = 8k3
+* Iajutsu 6
+	* + Awareness 5 = 11k5
+	* + Void 3 = 9k3
 		* Focus emphasis
-	* + Reflexes 4 = 9k4
+	* + Reflexes 4 = 10k4
 * Investigation 3
 	* Perception 3 = 6k3
 	* Awareness 5 = 8k5

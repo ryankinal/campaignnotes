@@ -13,6 +13,8 @@
 
 ## Wound Levels
 
+Damage: 10
+
 * Healthy (TN +0) = 15
 * Nicked (+3) = 21
 * Grazed (+5) = 27
@@ -56,19 +58,19 @@ Clan: Koi (formerly Crane)
 
 School: Kakita Bushi School
 
-Insight: (Rings * 10) + Skills = 205
+Insight: (Rings * 10) + Skills = 206
 
 Rank: 4
 
 Status: 3
 
-Glory: 5.0
+Glory: 6.0
 
-Honor: 3.5 (2.6)
+Honor: 4.5 (3.6)
 
-Experience gained: 118
+Experience gained: 130
 
-Experience remaining: 2
+Experience remaining: 5
 
 ## Traits
 
@@ -94,7 +96,7 @@ Experience remaining: 2
 
 ### Void: 3
 
-* Used: 0
+* Used: 3
 
 ## Skills
 
@@ -110,7 +112,7 @@ Experience remaining: 2
 * Investigation 3
 	* Perception 3 = 6k3
 	* Awareness 5 = 8k5
-* Kenjutsu 4 + Agility 3 = 7k3
+* Kenjutsu 5 + Agility 3 = 8k3
 * Kyujutsu 1 + Reflexes 4 = 5k4
 * Lore: Bushido 1 + Intelligence 3 = 3k2
 * Lore: History 1 + Intelligence 3 = 3k2

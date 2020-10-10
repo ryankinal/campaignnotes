@@ -1,5 +1,648 @@
 # Notes
 
+## Session 33 - 10/9/20
+
+### On the Road
+
+* Fumetsu sends a letter to the Emerald Champion
+	* All the accusations against Jinshoru
+	* Send it via a herald/courier
+* Kasumi sends many birds to Tsuru
+	* Tsuru doesn't respond because he can't
+* Posteriority
+
+### Goat 9. The 9th of Goat
+
+* Bird to Tsuru
+* Camping
+* Kasumi walks away as the sun sets
+* Sits in meditation until the sun rises
+* Sees lord moon above the trees
+* Kasumi shouts at the sky: "You wanted to show me secrets. You were disappointed in me. What do you have to show me?"
+* Moon: "Not many samurai would be willint to sacrifice so many unkown things. You've done well."
+* Kasumi: "Ummm. K."
+* Moon: "Gained some stuff. Lost some stuff. Oh well. All good."
+* WIND BLOWS HARD
+* Moon: "I've forgiven you for the last time. Now what do you want?"
+* Kasumi: "To stop the elixir."
+* Moon: "Oh cool me too!"
+* Wind dies down, crickets come back.
+* Moonbeam focuses on a tree off the road
+* Kasumi checks it out. There's a knot hole.
+* Finds a smooth thing. IT'S THE FUCKING BOX. WTF.
+* SHE'S GONNA OPEN IT. SHE OPENED IT.
+* Thrown out of her body
+* Now broad daylight - dry, hot air, lots of sun
+* Endless sea of sand
+* Huge pyramids in the distance
+* Sees a very young Tamahide
+	* Very thin
+	* Laying on the ground by the road
+	* Reaches for her
+* Now in an exotic-looking room
+	* Belongs to some royalty? Gaijin?
+	* With a healthy-looking Tamahide
+	* Reading through some books
+* Different room - B-movie mad scientist room
+	* Again, Tamahide
+	* Working on THE ELIXIR
+	* Two people strapped to a table
+		* Gagged and bound
+* More and more memories, then back in the forest by the woods
+* NOW HAS THE KNOWLEDGE TO IDENTIFY PEOPLE ASSOCIATED WITH THE ELIXIR
+* Returns to the waystation, exhausted
+* Tells Tsuru
+
+### Tsuru Gets to Ashinagabachi
+
+* Moon is one night off of full (night before Kasumi's stuff)
+* Checkpoint at the border - vaguely recognizable ji-samurai
+* Tsuru introduces himself
+	* Without last name
+* The shrine to Jurojin is gone
+	* Palace received much of that money
+	* Tsuru: "Where is Chozu?"
+	* Notices a beggarly monk
+	* Tsuru asks his name. It's Chozu.
+	* "Chozu the holy man?"
+		* "Most kind."
+	* "Do you know who I am?"
+		* "The grandson of Tamahide"
+	* "Am I the kind of person who would give money to a beggar?"
+		* "Of course you would, sir"
+		* Kinda lying
+	* Tsuru gives his entire coin purse
+		* "I am a simple man and cannot accept this"
+	* "You can find a way to change the world"
+		* "Your father and grandfather can use this better"
+	* "More effective, maybe, but not better"
+		* "What would you have me do?"
+	* "Take care of my friends"
+		* "Very noble. You can't do it yourself?"
+	* Tsuru rides off to kill his horse.
+* Gets to the castle about midnight
+* Guards assumed he would be out for much longer
+* Tsuru is there to collect an item for Rin
+	* Questioned by the guard
+	* He shames them right good
+* "Bury my horse and get me a new one."
+* Tsuru enters "the pleasure palace of the scorpions"
+	* It's actually a lot more pleasure-palace than we knew it
+	* Tries to find office
+	* It's where it should be
+	* But has a lot less paperwork than it used to
+	* A lot more luxury
+* Servant sees him
+	* Comments on his lost weight
+	* T: "How is my wife?"
+		* "Well. Son is good too."
+		* "They're waiting for you."
+	* "Don't tell them I'm here."
+		* "Ummm. K."
+* Tsuru looks for
+	* Money
+		* Finds a false bottom in a drawer
+		* It has a bunch of scorpion money
+	* The box
+		* It's there
+		* Illuminated by lord moon's light
+		* Tsuru takes it
+* Rushes out of the room, and nearly collides with Hachi
+	* Everybody is surprised to see Tsuru, even Hachi
+	* He's been looking after stuff
+	* Offers to serve drinks and get a geisha
+	* Tsuru refuses
+* Gets his new horse and leaves
+
+### Breakfast Club on the Road
+
+* Crisp late-summer morning
+	* Slight fog
+	* Dewy
+* We get some double-perfects
+	* Rice and pickled fish
+* Yoshi: "I wonder what Tsuru is doing? Can we catch him?"
+	* Nope. Probably not.
+	* And also probably can't protect himself
+	* He can't be THAT far ahead
+	* (Yes he can.)
+* Yoshi: "So. What are we doing here?"
+	* Kasumi: "Seeing family."
+	* Moriko: "Meditating."
+		* And maybe sating some gaki
+
+### Entering the Province
+
+* Checkpoint recognizes Kasumi
+	* Something about her sister
+	* All so happy to see you back
+* No shrine to Jurojin
+* Maybe we should get closer to Tamahide
+* There's a beggar on the road
+	* It's Chozu. Yoshi recognizes him.
+	* Chozu is honored.
+* Fumetsu: We're looking for somewhere suitable to meditate
+	* Chozu says anywhere's cool
+* Kasumi no longer has the box
+* Yoshi asks about anybody else arriving
+	* Finds that Tsuru is far ahead
+* Also asks about Buun
+	* Can get a message to him
+	* Or meet him
+	* At the place where Yoshi's father used to live
+		* Now lives at the castle
+	* Gonna meet in the morning
+* Getting to the castle
+	* Maybe not too close
+	* Maybe in secret
+	* Gonna sate some gaki
+* To the gazebo!
+	* It's close
+	* And hidden
+	* And apparently now pretty ruinied
+	* It's been ignored
+	* And apparently has extra void power
+		* Strange overlay double-world sense from Kasumi
+* Kasumi asks the sticks - Where can I find Tsuru?
+	* "The place where it began"
+* Moriko meditates
+	* There's a bunch of gaki
+	* Recognizes one
+		* The one from the other timeline
+	* M: "Hello"
+		* Gaki: "Hello, scrumptious."
+	* M: "How about [favorite dish] instead"
+		* "Has one of my descendents finally prayed for me?"
+	* M: "I have taken pity on all that are like you. I can relieve your suffering."
+		* "How? HALP. All we have is Tamahide and Rin and maybe three or four other people."
+		* "Can we eat you too?"
+	* M: "Umm. Sure. If you're still hungry. Tell your friends."
+		* "K."
+* Comes out of meditation. Makes some [favorite dish].
+* Yoshi hears a ninja
+	* Assumes it's Daijiro
+	* It's actually his dad - Okifumi
+	* Suggests following elsewhere
+	* We all follow
+	* To... an underground place?
+		* Small tunnel, then a doomsday bunker
+* Explain timey-wimey stuff to Okifumi
+	* Current-timeline Okifumi dreams of retiring to the mountains
+	* No reason not to believe us
+* Okifumi gets a little sentimental - it's weird.
+	* "I envy the father you knew. It seems his burdens were less. And Tamahide was wiser too."
+	* "I have been working for 20 years as [this timeline's Chozu]"
+	* "I've done my best to avoid the Kolat"
+* Yoshi: "Hey, bud. We're gonna kill Tamahide. We just killed the Emperor."
+	* Okifumi: UMMMWAT
+* Yoshi: "Can you get us a bunch of rice?"
+* Kasumi hears footsteps through the underbrush
+	* Turns invisible and looks outside
+	* Sees a youngish samurai
+		* Looks a lot like tax collectors
+	* Running away from us
+* Yoshi runs after him
+	* And yells at him to stop
+	* He does
+	* It's Daijiro
+	* He says Tamahide would like to greet us
+	* Yoshi threatens him
+	* Daijiro goes for his sword
+	* Yoshi attempts to murder him
+	* Yoshi has help from Moriko and Kasumi
+	* Kasumi warns Daijiro that he should stop
+	* He doesn't, and Kasumi unmakes him
+	* Daijiro: "You... traitors... " then dies
+	* Yoshi hides his body. Leaves it for the wolves.
+
+### Tsuru
+
+* Riding hard to the northwest
+* Across hill and dale
+* Got the box. Cool.
+* Kasumi's bird about the box
+	* Still have the box, don't care.
+
+### The Last Ritual?
+
+* At the Filty (Silty) Pond
+	* For some reason. Why not, I guess.
+* Yoshi flashes the key
+* Granted entrance to the back room
+	* It's disgusting
+	* Yoshi finds stuff. Like opium.
+* Fumetsu watches entrances
+* Moriko does her thing
+* AND DOES IT DAMN WELL
+* Fumetsu notices some baddies coming
+	* Warns the rest
+* Time to get this shit done
+* The gaki appears before Moriko
+	* Gaki are arriving
+* Fumetsu stands in defense of the Filty Pond as the Koi soldiers arrive
+* The Gaki are eating
+* Yoshi opens a door to the roof
+	* Suggests Moriko and Kasumi run alway
+	* Draws Kama and prepares to defend
+
+### Tsuru
+
+* Unicorn lands
+* A lot of pointing West
+* Things exchanged
+
+### The Silty Pond
+
+* Fumetsu and Yoshi stand in the road
+* Tamahide approaches with 4 bodyguards
+	* Strong and competent
+* Fumetsu does not let them past
+* Yoshi suggests the past - the old past
+* Fumetsu brings up Buun
+	* Tamahide ignored him
+* Tamahide suggests that Yoshi and Fumetsu join him
+	* And rule the empire
+* Fumetsu: "You disrespect your ancestors."
+	* T: "You are a Koi no more."
+* Yoshi throws a shuriken and strikes
+	* BATTLE ENSUES
+* Tamahide falls
+	* A desperate strike by Fumetsu
+	* A badass spell by Moriko
+	* Tamahide: "I... can't... be killed"
+	* Hemorraghing blood
+* Yoshi tells the rest to flee
+	* "You were all Koi once... let us take Tamahide away, and end this bloodshed."
+	* Fumetsu: :groan: "The time of the Koi is through"
+* Guards: "Moriko, Kasumi, heal your daimyo!"
+* The Gaki have finished their meal
+	* Walking away toward the meal
+* Moriko: "I already have. He had a horrible affliction, and now will be at peace."
+* Tamahide begs the gaki to heal the corruption inside of him
+	* None come, and fear is in his eyes
+* Yoshi: "Did no one come when you called?"
+* Moriko: "The gaki are now at peace."
+* Tamahide clutches at his sword, trying to get to Moriko
+* Kasumi: "Grandfather, I'm ashamed of you."
+* Tamahide: "Guards... kill them..."
+	* Trying to claw his way to the door of the Filty Pond
+* Yoshi draws his sword
+	* "I've killed two bloodspeakers with this blade. I can take down one more monster."
+	* Tamahide: "I CAN'T BE KILLED. I AM A GOD."
+	* Yoshi kills him
+
+### Kasumi
+
+* Finds her sister
+* Gives her a letter
+* "This will explain everything. I can't stay"
+* "There are things I have to do."
+* Ji: "I'll come with you. I can help."
+* Kasumi: "You need to be here."
+* Jui: "Okay. Have you talked to mother?"
+* Kasumi: "No. I am not the Kasumi you knew. Strange forces are at work."
+* Kasumi: "You understand things. Mother understands things. I'll go where the void leads me."
+* Kasumi: "I need to destroy a great evil in this world. I want you to be safe. Where I come from, you had died. This is the first time I've seen you in 5 years. The letter will explain."
+* Jui: "You're very strong. You always have been. I've looked up to you."
+* Kasumi: "I'm glad to see you again."
+* Jui: "I'm just a bird away."
+* Kasumi: "I know. Give my regards to mother. She would understand, but it would be difficult."
+* Kasumi gives her another letter addressed to their mother.
+* Kasumi: "If I'm ever nearby, you can expect to hear from me."
+* Jui: "When, not if. We'll see you soon."
+
+### Fumetsu
+
+* Sends a final letter to Hanako
+* Finds Buun
+	* "I wish to be your student"
+	* "You wish to learn the sword from me?"
+	* "Yes, that too."
+
+### Yoshi
+
+* Spends time with is father
+* Asking about the alternate timeline Yoshi
+* Pretty similar
+* Considers finding Buun, but considers the Kappa mask
+* Goes off to find Kasumi
+* Doesn't succeed
+* Spends time integrating into the Kolat and killing them all
+* Nearly gets caught, and then runs away
+* Becomes a ghost
+* Resumes his search for Kasumi... might find her?
+
+### Moriko
+
+* Finds Kasumi
+* "You don't need protection from Lord Moon anymore?"
+* "We have to part ways here."
+* Still hanging on to the Black Scroll of Fuleng
+* Off into the mountains to find Gaki
+	* Tries to feed them all
+* Healing Shadowlands taint?
+	* It's not what she thinks it is
+	* Can't be healed... it's just being moved around
+	* Still tries to help, but doesn't bother with people who are lost
+* Every now and again, the Kuni tracks her down
+	* Every few years
+	* If they can be taught, sure
+	* But drags them around doing things they don't want to do
+
+### Kasumi
+
+* Asks Yoshihiro if he would help her
+* Ends up in gaijin lands
+* Kills as many people involved with the elixier as she can
+* Can't find anything else and returns to Rokugan
+
+### Tsuru
+
+* A canvas tent at the edge of a city on the road west
+* Out of the tent steps a gaijin
+* But he walks like a samurai
+* Tries to mount a camel, but the camel throws him
+* Another gaijin admonishes him, and assists
+* The man with the rucksack and the sharp nose rides into the desert
+
+### Empire
+
+* Probably still a Koi
+	* Led by Haruto
+	* Remarkably competent
+* Next Hantei is crowned
+	* Hantei Rinta
+* WHO KNOWS WHAT HAPPENS
+
+## Session 32 - 10/2/20
+
+### Breakfast Club
+
+* Tsuru storms out
+	* Didn't even finish his food
+* Nobody's happy about the elixir
+* Except maybe Yoshihiro
+	* He thinks maybe the elixir can be used
+* Discussion about the elixir
+* Tsuru is yelling at... somebody? Probably Al-Hazeem
+	* Yoshi runs out and catches some of it
+	* Needs men for... the fortunes? Fumetsu will surely die?
+	* Gotta appease the gods
+* Yoshi finds a flower vendor
+	* Buys... something
+* Kasumi offers Fumetsu a gift
+	* He eventually accepts
+* Yoshi comes back
+	* Overhears Tsuru needing stuff
+		* Bamboo shoots
+		* Rags
+		* Sake
+		* Alcohol
+		* Paper lanterns
+		* Shrines
+	* He has some stuff
+	* Addresses Al-Hazeem (Master Roc(k?))
+		* Could he help with...
+			1. Got any gadgets? That will keep shugenja stuff at bay?
+				* Nope
+				* They're all pretty damn specific
+				* Powerful but narrow
+				* Also no way to interrupt blood magic
+			2. Got any lethal poison?
+				* Yep
+* Kasumi looking for a disguise
+	* Al-Hazeem has one
+	* For everybody
+* Fumetsu: Time to prepare, I guess
+	* Head to a shrine
+	* It'll be fine
+* While leaving
+	* See Tsuru shaking his fist
+	* To children:
+		* "Don't drink any, we need it all!"
+		* "Give each of you 3 gold if you bring back your friends"
+		* "Gonna build the gratest shrine"
+		* "Gotta do it"
+		* "It's your duty"
+	* To Fumetsu
+		* "Good luck! Do good! Go meditate"
+		* F: "Thanks. Very honorable."
+		* T: "No you are! Very honorable!"
+	* Gets a disguise from Yoshi
+		* Rips it into rags
+		* Does... things with it
+		* Quite manic
+* Yoshi and Kasumi offer help
+	* In response, Tsuru prays like a baptist in the streets
+* Tsuru looks around at buildings and takes notes
+	* Planning... something?
+
+### The Shrine
+
+* Yoshi is paranoid on the way
+* Everybody else is calm
+* Shrine is pretty
+* Unreasonably calm, considering...
+	* Moriko is particularly shocked because the Gaki are gone
+	* It should be chaos
+	* But... it's not... CREEPY
+* Fumetsu meditates
+	* Focusing on dueling stuff
+* Kasumi sits outside writing a letter
+* Yoshi sits outside keeping watch
+	* But also writing a letter to his father
+* Kasumi and Yoshi
+	* "Yoshi, you asked where my sense of adventure had gone. I said it left when my sister died."
+	* "My sister is alive now."
+	* Yoshi: "Go home. You'll die if you stay."
+	* K: "My mother still has a daughter."
+	* Y: "If you die, I'm going to be mad."
+	* K: "Why would I die?"
+	* Y: "Because they're going to rout the Koi"
+	* K: "Oh well. Not gonna run away."
+	* K: "And where would I go? The road? Alone? No."
+	* K: "I cannot abide the source of this evil magic."
+	* Y: "Can you stop it?"
+	* K: "Nope. Not yet. But I can stop who might be using it."
+	* Y: "If you can point out users, I can kill them."
+	* K: "Me too. I've been working on a thing."
+	* Y: "Okay. Then we do this together."
+	* K: "Yep."
+* Fumetsu's meditation
+	* Attempting focus on upcoming challenge
+	* Figures start to appear
+	* Vague at first
+	* But eventually recognize them as guiding ancestors
+	* One he freed from the lake
+		* "You're honoring us."
+		* Bows
+		* Feel his presence
+		* And of other ancestors
+	* Another one
+		* "Even a polluted pond can still have a pure fish in it."
+	* Continues to focus, with spiritual closure
+
+### Tsuru's... Stuff
+
+* Intersection
+	* A bunch of carts
+	* With rags in
+	* Baskent of glass bottles
+	* Full cart of bamboo wooden stools
+	* And carved figurines
+* Tsuru dumps all the liquor into the carts (with the rags)
+	* Pouring one out for the gods
+
+### The Shrine
+
+* Moriko in meditation
+	* Feels Fumetsu's ancestors
+	* No Gaki
+	* Air is super clean, spiritually
+* Fumetsu has monks tending to him
+	* Small rituals for spirits
+	* "Oh hey, want a beer?"
+	* Welcoming atmosphere for the spirits
+* Otomos are starting to gather
+	* Y: "It's fine. This is fine."
+* Imperials have higher security than before
+	* Seppun guard are here in very high concentration
+* Fumetsu finishes meditation
+* Moriko notices
+	* And also notices somebody severely tainted
+	* But taking measures to conceal it
+	* They're on the grounds
+	* Associates it with Jinshoru and crew
+		* Three bushi
+		* One elderly shugenja
+* Tells the crew about it
+	* Morikoi: "Jade strike?"
+	* Everyone: "NO"
+
+### Tsuru
+
+* Has begun a parade
+* Sending children over rooftops with paper lanterns
+* Tying to eaves of buildings
+* Building tiny shrines
+	* With fistfuls of rags
+	* Because that's the sacrifice
+* Tsuru is directing all of this under the guise of appeasing the fortunes
+
+### Dueling Grounds
+
+* Yoshi is getting close to Jinshoru and crew
+	* Mostly just Atasharu
+	* Getting close enough to smell the jade-leaf tea
+	* IS NOTICED!?!?!?!?!?!?!?!?!?!?!
+	* The old shugenja notices and shouts "ASSASSIN"
+	* Bushi produce their swords
+	* Yoshi: "Greatest apologies! I was looking at the topiary!"
+	* Shugenja: "Lies! Seize him!"
+	* Bushi surround Yoshi
+	* Yoshi: "I'm here to support Fumetsu! The Koi are noble, aren't we?"
+	* Shugenja:
+		* "He didn't have a weapon out. Yes. For now, the Koi are noble. If petty."
+		* "I suppose you have the right to witness the death of your kinsman"
+		* "If you approach the Otomos again, we'll kill you right good"
+* 5 MINUTES TO GO
+	* Kasumi shares her void with Fumetsu
+	* Thanks
+	* No prob
+
+### Tsuru's Parade
+
+* Completes the circuit
+* Has left a trail of paper lanterns
+* Children on the roofs
+* Tsuru: "You'll get your gold!"
+
+### The Duel
+
+* Thank Koi before rituals
+* Hand-wavy ritual stuff
+* Otomo Shugenja
+	* Standing in is Seppun Kohaku
+	* 10 years younger than Fumetsu
+	* Peak of Roman perfection
+	* "As the challenger, tell the people why you're here."
+	* "Blah blah. Evil. Blah blah blasphemy."
+	* Jinshoru responds:
+		* "The Koi are upstarts and criminals. BLAH BLAH BLAH."
+	* Bowing - "It was wise to choose a champion. It would be difficult to draw your sword with so much blood on your hands."
+
+### Tsuru
+
+* Lets go of the lanterns
+* Rags light on fire
+* "You're in charge of the fire, I'm in charge of the horse."
+
+### Duel
+
+* Center stance
+* Stare into each others' soul
+* Kohaku looks a little afraid
+
+### Tsuru
+
+* Fires have started
+* Tsuru walks away all cool
+* People are starting to notice
+* Walks out of the tent in neutrals
+	* Small metal circle
+	* "Yes, I'm sure, Al-Hazeem. Thank you for the directions."
+	* "But first I have to go to Ashinagabachi"
+	* "He rides to the city gates."
+* Hazeem: "Godspeed, my friend."
+
+### Duel
+
+* The duelists focus on each other
+* Then on themselves
+* And strike simultaneously
+* Kohaku triest to remain standing, but drops in a pool of blood
+* Fumetsu is still standing
+* Magistrate:
+	* Fumetsu's cause was seen as righteous
+	* But it is the will of the gods that the life of Jinshoru shall be spared
+	* The duel is now concluded
+* Fumetsu approaches Jinshoru
+	* "Do what is right" 
+	* Jinshoru is a jerk about it
+* Fumetsu finds his clanspeople
+	* Gets some healing from Moriko
+	* Moriko is damn good at what she does
+
+### OH SHIT FIRE
+
+* There's a lot of gray smoke collecting
+* Y: "Expeditious retreat?"
+	* Everyone: "Yep."
+* Bloodcurdling scream from the palace
+	* Seppun run to assist
+* Y: "We're leaving now?"
+	K: "Yep!"
+
+### Tsuru
+
+* Riding a horse very fast out of the city
+* Down the road, passing previous scenes
+
+### The Way Out
+
+* Time to get out
+* We ride for Ashinagabachi
+* Kasumi scries
+	* Fire is spreading out of control
+	* Shugenja are performing ritual for dead emperors
+* The Emperor is dead, long live the Emperor
+* Fumetsu: "Not sure what to do now. Didn't expect to be alive."
+	* Yoshi: "Finish what we started"
+* Kasumi sends a bird to Atasharu about Koi lineage
+	* The child of Kuni Taru and Kuni Tanto
+	* We have jade-leaf tea, and maybe a cure
+	* Moriko: Taint is tricky, but worth a shot
+
 ## Session 31 - 9/12/20
 
 ### Kasumi and Tsuru

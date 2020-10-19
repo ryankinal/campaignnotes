@@ -9,7 +9,11 @@
 * Halfling Ranger
 * Animal Companion - large mastiff named Kona
 
-### Vizik
+### Toll - Jenna
+
+* Half-elf Bard/Warlock
+
+### Vizik - Tim
 
 * Human Cleric
 * Malloc, trickster god
